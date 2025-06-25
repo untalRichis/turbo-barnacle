@@ -3514,6 +3514,18 @@
     },
     "done": true
   },
+  "create:wrench_goggles": {
+    "criteria": {
+      "0": "2025-06-25 16:06:24 +0000"
+    },
+    "done": false
+  },
+  "create:mechanical_mixer": {
+    "criteria": {
+      "0": "2025-06-25 15:59:19 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/portable_storage_interface": {
     "criteria": {
       "has_item": "2025-06-25 15:51:05 +0000"
@@ -3925,6 +3937,12 @@
   "create:recipes/misc/crafting/kinetics/contraption_controls": {
     "criteria": {
       "has_item": "2025-06-25 15:49:08 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/curiosities/brown_toolbox": {
+    "criteria": {
+      "has_item": "2025-06-25 16:06:16 +0000"
     },
     "done": true
   },

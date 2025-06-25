@@ -8057,3 +8057,102 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [25Jun2025 15:58:50.918] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving parties...
 [25Jun2025 15:59:03.891] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [25Jun2025 15:59:03.899] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[25Jun2025 16:00:00.441] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BoyfriendArg2004> untalRichi agrega whaistone
+[25Jun2025 16:00:09.351] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <untalRichi> tenes el tpa
+[25Jun2025 16:00:25.738] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JhonZ93 was slain by Piglin Brute
+[25Jun2025 16:00:26.264] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <untalRichi> ademas ya dije q no voy a modificar el modpack ya una vez creado
+[25Jun2025 16:00:28.938] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <untalRichi> wao
+[25Jun2025 16:00:31.745] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <untalRichi> el ma traijar
+[25Jun2025 16:00:36.500] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BoyfriendArg2004> okey pero uno de /sethome?
+[25Jun2025 16:00:56.854] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_base_4
+[25Jun2025 16:00:56.875] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_middle_0
+[25Jun2025 16:00:56.890] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_base_0
+[25Jun2025 16:00:56.900] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_base_1
+[25Jun2025 16:00:56.908] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_base_3
+[25Jun2025 16:00:56.910] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_spawner_2
+[25Jun2025 16:00:56.919] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_middle_2
+[25Jun2025 16:00:56.932] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_middle_1
+[25Jun2025 16:00:58.006] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-2090, y=29, z=574}
+[25Jun2025 16:00:58.006] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-2091, y=29, z=574}
+[25Jun2025 16:01:18.698] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <untalRichi> boyfriend.
+[25Jun2025 16:01:23.193] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BoyfriendArg2004> dime
+[25Jun2025 16:01:24.841] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <untalRichi> no voy a modificar el modpack
+[25Jun2025 16:01:26.807] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <untalRichi> ya
+[25Jun2025 16:01:33.390] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <untalRichi> cogelo suave
+[25Jun2025 16:01:39.499] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BoyfriendArg2004> okey
+[25Jun2025 16:01:47.211] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Got action ONEITEMIN slot 51
+[25Jun2025 16:01:47.211] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Slot mapping {[]=InventoryMapping{i=[], c=net.minecraft.world.inventory.ChestMenu@623639e9, b=54, e=80}, []=InventoryMapping{i=[], c=net.minecraft.world.inventory.ChestMenu@623639e9, b=81, e=89}, net.minecraft.world.CompoundContainer@31089293=InventoryMapping{i=net.minecraft.world.CompoundContainer@31089293, c=net.minecraft.world.inventory.ChestMenu@623639e9, b=0, e=53}}
+[25Jun2025 16:01:47.211] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Action slot InventoryMapping{i=net.minecraft.world.CompoundContainer@31089293, c=net.minecraft.world.inventory.ChestMenu@623639e9, b=0, e=53}
+[25Jun2025 16:01:47.338] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Got action SORT slot 51
+[25Jun2025 16:01:47.339] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Slot mapping {[]=InventoryMapping{i=[], c=net.minecraft.world.inventory.ChestMenu@623639e9, b=54, e=80}, []=InventoryMapping{i=[], c=net.minecraft.world.inventory.ChestMenu@623639e9, b=81, e=89}, net.minecraft.world.CompoundContainer@31089293=InventoryMapping{i=net.minecraft.world.CompoundContainer@31089293, c=net.minecraft.world.inventory.ChestMenu@623639e9, b=0, e=53}}
+[25Jun2025 16:01:47.339] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Action slot InventoryMapping{i=net.minecraft.world.CompoundContainer@31089293, c=net.minecraft.world.inventory.ChestMenu@623639e9, b=0, e=53}
+[25Jun2025 16:01:48.107] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:arena
+[25Jun2025 16:01:48.118] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:cvill/towncenter4
+[25Jun2025 16:01:48.119] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:cvill/inter2
+[25Jun2025 16:01:48.119] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:cvill/mobs/piglin_lumberjack1
+[25Jun2025 16:01:48.119] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:cvill/stilt1
+[25Jun2025 16:01:48.120] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:cvill/road9
+[25Jun2025 16:01:48.120] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:cvill/houses/small4
+[25Jun2025 16:01:48.121] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:cvill/houses/large8
+[25Jun2025 16:01:48.122] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:cvill/inter1
+[25Jun2025 16:01:48.123] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:cvill/houses/large6
+[25Jun2025 16:01:48.124] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:cvill/houses/large2
+[25Jun2025 16:01:48.125] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:cvill/road11
+[25Jun2025 16:01:48.125] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:cvill/houses/garden3
+[25Jun2025 16:01:48.126] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:cvill/houses/garden2
+[25Jun2025 16:01:48.128] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:cvill/houses/large1
+[25Jun2025 16:01:48.130] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:cvill/houses/large4
+[25Jun2025 16:01:48.132] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:cvill/houses/large7
+[25Jun2025 16:01:48.132] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:cvill/road2
+[25Jun2025 16:01:48.133] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:cvill/houses/small2
+[25Jun2025 16:01:48.134] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:cvill/road8
+[25Jun2025 16:01:48.135] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:cvill/houses/large5
+[25Jun2025 16:01:48.135] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:cvill/road7
+[25Jun2025 16:01:48.136] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:cvill/houses/garden1
+[25Jun2025 16:01:48.137] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:cvill/houses/large3
+[25Jun2025 16:01:48.138] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:cvill/houses/small6
+[25Jun2025 16:01:48.138] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:cvill/road6
+[25Jun2025 16:01:48.139] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:cvill/inter5
+[25Jun2025 16:01:48.139] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:cvill/houses/small3
+[25Jun2025 16:01:48.140] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:cvill/inter6
+[25Jun2025 16:01:48.140] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:cvill/houses/small5
+[25Jun2025 16:01:48.141] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:cvill/road4
+[25Jun2025 16:01:48.141] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:cvill/road1
+[25Jun2025 16:01:48.142] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:cvill/houses/small1
+[25Jun2025 16:01:48.143] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:cvill/road10
+[25Jun2025 16:01:48.144] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:cvill/road5
+[25Jun2025 16:01:48.145] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:cvill/road3
+[25Jun2025 16:01:48.153] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:cvill/inter4
+[25Jun2025 16:01:48.159] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:cvill/inter3
+[25Jun2025 16:01:48.161] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:cvill/mobs/piglin_alchemist1
+[25Jun2025 16:01:48.173] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:cvill/mobs/piglin_miner1
+[25Jun2025 16:01:48.215] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:cvill/mobs/piglin_worker1
+[25Jun2025 16:01:48.216] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:cvill/mobs/piglin_lumberjack2
+[25Jun2025 16:01:48.216] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:cvill/mobs/piglin_armored
+[25Jun2025 16:01:56.305] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:quartz_flats/quartz_kitchen
+[25Jun2025 16:02:11.068] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving claims!
+[25Jun2025 16:03:38.518] [Server thread/DEBUG] [net.lavabucket.hourglass.time.TimeService/hourglass]: Sleep cycle complete on dimension: minecraft:overworld.
+[25Jun2025 16:04:03.897] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[25Jun2025 16:04:03.906] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[25Jun2025 16:04:25.801] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Got action SORT slot 51
+[25Jun2025 16:04:25.801] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Slot mapping {net.minecraft.world.CompoundContainer@4454b786=InventoryMapping{i=net.minecraft.world.CompoundContainer@4454b786, c=net.minecraft.world.inventory.ChestMenu@6160c4ec, b=0, e=53}, []=InventoryMapping{i=[], c=net.minecraft.world.inventory.ChestMenu@6160c4ec, b=54, e=80}, []=InventoryMapping{i=[], c=net.minecraft.world.inventory.ChestMenu@6160c4ec, b=81, e=89}}
+[25Jun2025 16:04:25.801] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Action slot InventoryMapping{i=net.minecraft.world.CompoundContainer@4454b786, c=net.minecraft.world.inventory.ChestMenu@6160c4ec, b=0, e=53}
+[25Jun2025 16:04:29.136] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JhonZ93 was slain by Piglin
+[25Jun2025 16:04:33.989] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BoyfriendArg2004> F
+[25Jun2025 16:04:38.966] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JhonZ93> xd
+[25Jun2025 16:05:30.918] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving player configs...
+[25Jun2025 16:06:32.791] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <untalRichi> ya tengo mi wrench
+[25Jun2025 16:06:38.740] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <untalRichi> ahora soy el ingeniero en ingenieria
+[25Jun2025 16:06:59.305] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Got action ONEITEMIN slot 62
+[25Jun2025 16:06:59.305] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Slot mapping {net.minecraft.world.CompoundContainer@33d5b40d=InventoryMapping{i=net.minecraft.world.CompoundContainer@33d5b40d, c=net.minecraft.world.inventory.ChestMenu@7b0d3712, b=0, e=53}, []=InventoryMapping{i=[], c=net.minecraft.world.inventory.ChestMenu@7b0d3712, b=54, e=80}, []=InventoryMapping{i=[], c=net.minecraft.world.inventory.ChestMenu@7b0d3712, b=81, e=89}}
+[25Jun2025 16:06:59.305] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Action slot InventoryMapping{i=[], c=net.minecraft.world.inventory.ChestMenu@7b0d3712, b=54, e=80}
+[25Jun2025 16:06:59.306] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Got action SORT slot 62
+[25Jun2025 16:06:59.306] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Slot mapping {net.minecraft.world.CompoundContainer@33d5b40d=InventoryMapping{i=net.minecraft.world.CompoundContainer@33d5b40d, c=net.minecraft.world.inventory.ChestMenu@7b0d3712, b=0, e=53}, []=InventoryMapping{i=[], c=net.minecraft.world.inventory.ChestMenu@7b0d3712, b=54, e=80}, []=InventoryMapping{i=[], c=net.minecraft.world.inventory.ChestMenu@7b0d3712, b=81, e=89}}
+[25Jun2025 16:06:59.306] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Action slot InventoryMapping{i=[], c=net.minecraft.world.inventory.ChestMenu@7b0d3712, b=54, e=80}
+[25Jun2025 16:08:03.759] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Got action SORT slot 50
+[25Jun2025 16:08:03.759] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Slot mapping {[]=InventoryMapping{i=[], c=net.minecraft.world.inventory.ChestMenu@ef4b7b4, b=54, e=80}, []=InventoryMapping{i=[], c=net.minecraft.world.inventory.ChestMenu@ef4b7b4, b=81, e=89}, net.minecraft.world.CompoundContainer@6954cced=InventoryMapping{i=net.minecraft.world.CompoundContainer@6954cced, c=net.minecraft.world.inventory.ChestMenu@ef4b7b4, b=0, e=53}}
+[25Jun2025 16:08:03.759] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Action slot InventoryMapping{i=net.minecraft.world.CompoundContainer@6954cced, c=net.minecraft.world.inventory.ChestMenu@ef4b7b4, b=0, e=53}
+[25Jun2025 16:08:50.918] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving server info!
+[25Jun2025 16:08:50.968] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving parties...
+[25Jun2025 16:09:03.892] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[25Jun2025 16:09:03.899] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
