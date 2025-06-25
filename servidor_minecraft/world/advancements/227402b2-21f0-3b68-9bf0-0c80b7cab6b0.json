@@ -467,6 +467,7 @@
     "criteria": {
       "cooked_porkchop": "2025-06-25 01:47:06 +0000",
       "cooked_mutton": "2025-06-25 01:16:35 +0000",
+      "cooked_beef": "2025-06-25 14:58:37 +0000",
       "apple": "2025-06-24 20:49:38 +0000",
       "bread": "2025-06-24 21:31:02 +0000",
       "melon_slice": "2025-06-24 20:56:11 +0000"
@@ -3305,6 +3306,30 @@
   "minecraft:story/lava_bucket": {
     "criteria": {
       "lava_bucket": "2025-06-25 02:51:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/lead": {
+    "criteria": {
+      "has_slime_ball": "2025-06-25 15:03:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/sticky_piston": {
+    "criteria": {
+      "has_slime_ball": "2025-06-25 15:03:49 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_illager_campsite": {
+    "criteria": {
+      "location0": "2025-06-25 15:03:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/slime_block": {
+    "criteria": {
+      "has_slime_ball": "2025-06-25 15:03:49 +0000"
     },
     "done": true
   },

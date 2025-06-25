@@ -7339,3 +7339,47 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [25Jun2025 14:57:46.637] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Got action SORT slot 51
 [25Jun2025 14:57:46.637] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Slot mapping {[]=InventoryMapping{i=[], c=net.minecraft.world.inventory.ChestMenu@6294fd14, b=54, e=80}, []=InventoryMapping{i=[], c=net.minecraft.world.inventory.ChestMenu@6294fd14, b=81, e=89}, net.minecraft.world.CompoundContainer@3b884db4=InventoryMapping{i=net.minecraft.world.CompoundContainer@3b884db4, c=net.minecraft.world.inventory.ChestMenu@6294fd14, b=0, e=53}}
 [25Jun2025 14:57:46.637] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Action slot InventoryMapping{i=net.minecraft.world.CompoundContainer@3b884db4, c=net.minecraft.world.inventory.ChestMenu@6294fd14, b=0, e=53}
+[25Jun2025 14:58:50.568] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving server info!
+[25Jun2025 14:58:50.618] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving parties...
+[25Jun2025 14:58:53.114] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[25Jun2025 14:58:53.125] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[25Jun2025 14:59:23.215] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:regular/glacial/interior1
+[25Jun2025 14:59:51.609] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Got action SORT slot 42
+[25Jun2025 14:59:51.610] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Slot mapping {[]=InventoryMapping{i=[], c=net.minecraft.world.inventory.ChestMenu@20e9fd8e, b=54, e=80}, []=InventoryMapping{i=[], c=net.minecraft.world.inventory.ChestMenu@20e9fd8e, b=81, e=89}, net.minecraft.world.CompoundContainer@7d24144e=InventoryMapping{i=net.minecraft.world.CompoundContainer@7d24144e, c=net.minecraft.world.inventory.ChestMenu@20e9fd8e, b=0, e=53}}
+[25Jun2025 14:59:51.610] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Action slot InventoryMapping{i=net.minecraft.world.CompoundContainer@7d24144e, c=net.minecraft.world.inventory.ChestMenu@20e9fd8e, b=0, e=53}
+[25Jun2025 15:02:10.768] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving claims!
+[25Jun2025 15:02:37.896] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Got action SORT slot 50
+[25Jun2025 15:02:37.896] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Slot mapping {net.minecraft.world.CompoundContainer@6f29e81a=InventoryMapping{i=net.minecraft.world.CompoundContainer@6f29e81a, c=net.minecraft.world.inventory.ChestMenu@784ff9b5, b=0, e=53}, []=InventoryMapping{i=[], c=net.minecraft.world.inventory.ChestMenu@784ff9b5, b=54, e=80}, []=InventoryMapping{i=[], c=net.minecraft.world.inventory.ChestMenu@784ff9b5, b=81, e=89}}
+[25Jun2025 15:02:37.896] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Action slot InventoryMapping{i=net.minecraft.world.CompoundContainer@6f29e81a, c=net.minecraft.world.inventory.ChestMenu@784ff9b5, b=0, e=53}
+[25Jun2025 15:03:32.687] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: untalRichi has made the advancement [People Are Strange]
+[25Jun2025 15:03:53.094] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[25Jun2025 15:03:53.099] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[25Jun2025 15:04:30.550] [Server thread/WARN] [net.minecraft.world.level.storage.loot.LootTable/]: Tried to over-fill a container
+[25Jun2025 15:05:30.668] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving player configs...
+[25Jun2025 15:05:52.039] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BoyfriendArg2004> untalRichi
+[25Jun2025 15:05:56.593] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BoyfriendArg2004> q haces
+[25Jun2025 15:05:59.639] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <untalRichi> nd
+[25Jun2025 15:06:03.405] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <untalRichi> aca looteando
+[25Jun2025 15:06:26.248] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1385, y=69, z=700} BlockPos{x=-1386, y=67, z=699}
+[25Jun2025 15:06:26.306] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1385, y=69, z=700} BlockPos{x=-1386, y=67, z=699}
+[25Jun2025 15:06:26.357] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1385, y=69, z=700} BlockPos{x=-1386, y=67, z=699}
+[25Jun2025 15:06:26.411] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1387, y=69, z=700} BlockPos{x=-1386, y=67, z=699}
+[25Jun2025 15:06:26.462] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1387, y=69, z=700} BlockPos{x=-1386, y=67, z=699}
+[25Jun2025 15:06:26.504] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1387, y=68, z=701} BlockPos{x=-1386, y=67, z=699}
+[25Jun2025 15:06:26.555] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1387, y=68, z=701} BlockPos{x=-1386, y=67, z=699}
+[25Jun2025 15:06:26.646] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1387, y=68, z=701} BlockPos{x=-1386, y=67, z=699}
+[25Jun2025 15:06:26.811] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1388, y=69, z=700} BlockPos{x=-1389, y=67, z=702}
+[25Jun2025 15:06:26.868] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1388, y=69, z=700} BlockPos{x=-1389, y=67, z=702}
+[25Jun2025 15:06:26.943] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1388, y=69, z=700} BlockPos{x=-1389, y=67, z=702}
+[25Jun2025 15:06:26.966] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1388, y=69, z=700} BlockPos{x=-1389, y=67, z=702}
+[25Jun2025 15:06:27.011] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1388, y=69, z=700} BlockPos{x=-1389, y=67, z=702}
+[25Jun2025 15:06:27.059] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1388, y=69, z=700} BlockPos{x=-1389, y=67, z=702}
+[25Jun2025 15:06:27.106] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1388, y=69, z=700} BlockPos{x=-1389, y=67, z=702}
+[25Jun2025 15:06:27.152] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1388, y=69, z=700} BlockPos{x=-1389, y=67, z=702}
+[25Jun2025 15:06:27.239] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1388, y=69, z=700} BlockPos{x=-1389, y=67, z=702}
+[25Jun2025 15:06:27.290] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1388, y=69, z=700} BlockPos{x=-1389, y=67, z=702}
+[25Jun2025 15:06:29.549] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1384, y=68, z=697} BlockPos{x=-1386, y=67, z=697}
+[25Jun2025 15:06:50.488] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1395, y=69, z=702} BlockPos{x=-1395, y=67, z=704}
+[25Jun2025 15:07:08.807] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1384, y=69, z=695} BlockPos{x=-1383, y=67, z=696}
+[25Jun2025 15:08:06.718] [Server thread/DEBUG] [net.lavabucket.hourglass.time.TimeService/hourglass]: Sleep cycle complete on dimension: minecraft:overworld.
+[25Jun2025 15:08:11.894] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BoyfriendArg2004> okey

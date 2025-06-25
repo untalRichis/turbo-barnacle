@@ -618,6 +618,7 @@
     "criteria": {
       "cooked_mutton": "2025-06-25 01:19:45 +0000",
       "sweet_berries": "2025-06-25 14:07:49 +0000",
+      "baked_potato": "2025-06-25 14:58:08 +0000",
       "cooked_cod": "2025-06-25 01:52:31 +0000",
       "pumpkin_pie": "2025-06-25 00:17:01 +0000",
       "bread": "2025-06-24 22:49:52 +0000",
@@ -4370,6 +4371,12 @@
   "farmersdelight:main/get_rich_soil": {
     "criteria": {
       "get_rich_soil": "2025-06-25 14:02:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/lapis_lazuli": {
+    "criteria": {
+      "has_lapis_block": "2025-06-25 14:56:43 +0000"
     },
     "done": true
   },
