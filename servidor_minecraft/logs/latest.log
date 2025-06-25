@@ -363,3 +363,8 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [25Jun2025 12:21:35.490] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Configured OPAC to use the following party system as primary: default
 [25Jun2025 12:21:35.493] [Server thread/INFO] [com.cupboard.Cupboard/]: Loaded config for: smoothchunk.json
 [25Jun2025 12:21:35.497] [Server thread/WARN] [ModernFix/]: Dedicated server took 45.213 seconds to load
+[25Jun2025 12:40:24.960] [ForkJoinPool.commonPool-worker-1/WARN] [SkinRestorer/]: Failed to fetch skin: not found
+[25Jun2025 12:40:25.090] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: BoyfriendArg2004[/127.68.100.184:42535] logged in with entity id 55 at (-1359.202875820244, 71.0, 667.7672552593009)
+[25Jun2025 12:40:25.153] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player BoyfriendArg2004
+[25Jun2025 12:40:25.173] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BoyfriendArg2004 joined the game
+[25Jun2025 12:40:25.255] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for b04a954b-9004-378a-a27a-430b2bbdb8a4
