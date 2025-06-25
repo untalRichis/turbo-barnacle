@@ -511,3 +511,4 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [25Jun2025 17:59:56.960] [Worker-Main-129/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-296, y=-57, z=-313}
 [25Jun2025 17:59:56.960] [Worker-Main-129/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-295, y=-57, z=-315}
 [25Jun2025 17:59:56.960] [Worker-Main-129/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-293, y=-57, z=-315}
+[25Jun2025 18:19:43.007] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BoyfriendArg2004 has made the advancement [Amateur Archaeologist]
