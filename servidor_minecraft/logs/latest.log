@@ -378,3 +378,4 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [25Jun2025 13:20:36.854] [Worker-Main-39/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/8246, l='ServerLevel[world]', x=-369.00, y=31.00, z=216.00] as it would cause deadlock
 [25Jun2025 13:28:14.354] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BoyfriendArg2004 has made the advancement [Not Today, Thank You]
 [25Jun2025 13:28:27.354] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BoyfriendArg2004 has made the advancement [Into Fire]
+[25Jun2025 13:41:02.452] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BoyfriendArg2004 has made the advancement [Best Friends Forever]
