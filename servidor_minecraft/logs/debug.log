@@ -7112,3 +7112,11 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [25Jun2025 14:11:32.697] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving server info!
 [25Jun2025 14:11:39.283] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [25Jun2025 14:11:39.290] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[25Jun2025 14:14:52.897] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving claims!
+[25Jun2025 14:16:39.283] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[25Jun2025 14:16:39.290] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[25Jun2025 14:18:12.797] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving player configs...
+[25Jun2025 14:21:32.747] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving parties...
+[25Jun2025 14:21:32.747] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving server info!
+[25Jun2025 14:21:39.280] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[25Jun2025 14:21:39.287] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
