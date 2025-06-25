@@ -7408,3 +7408,19 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [25Jun2025 15:18:50.668] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving server info!
 [25Jun2025 15:18:50.718] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving parties...
 [25Jun2025 15:18:50.918] [Server thread/DEBUG] [net.lavabucket.hourglass.time.TimeService/hourglass]: Sleep cycle complete on dimension: minecraft:overworld.
+[25Jun2025 15:18:53.096] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[25Jun2025 15:18:53.106] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[25Jun2025 15:22:10.868] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving claims!
+[25Jun2025 15:23:15.983] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Got action SORT slot 24
+[25Jun2025 15:23:15.983] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Slot mapping {noobanidus.mods.lootr.data.SpecialChestInventory@3589ff2f=InventoryMapping{i=noobanidus.mods.lootr.data.SpecialChestInventory@3589ff2f, c=net.minecraft.world.inventory.ChestMenu@4e04bd5f, b=0, e=26}, []=InventoryMapping{i=[], c=net.minecraft.world.inventory.ChestMenu@4e04bd5f, b=27, e=53}, []=InventoryMapping{i=[], c=net.minecraft.world.inventory.ChestMenu@4e04bd5f, b=54, e=62}}
+[25Jun2025 15:23:15.983] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Action slot InventoryMapping{i=noobanidus.mods.lootr.data.SpecialChestInventory@3589ff2f, c=net.minecraft.world.inventory.ChestMenu@4e04bd5f, b=0, e=26}
+[25Jun2025 15:23:19.856] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Got action SORT slot 24
+[25Jun2025 15:23:19.857] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Slot mapping {[]=InventoryMapping{i=[], c=net.minecraft.world.inventory.InventoryMenu@1cdcc7ea, b=45, e=45}, net.minecraft.world.inventory.ResultContainer@92b7dcd=InventoryMapping{i=net.minecraft.world.inventory.ResultContainer@92b7dcd, c=net.minecraft.world.inventory.InventoryMenu@1cdcc7ea, b=0, e=0}, []=InventoryMapping{i=[], c=net.minecraft.world.inventory.InventoryMenu@1cdcc7ea, b=9, e=35}, []=InventoryMapping{i=[], c=net.minecraft.world.inventory.InventoryMenu@1cdcc7ea, b=36, e=44}, dev.shadowsoffire.fastbench.util.CraftingInventoryExt@3636826c=InventoryMapping{i=dev.shadowsoffire.fastbench.util.CraftingInventoryExt@3636826c, c=net.minecraft.world.inventory.InventoryMenu@1cdcc7ea, b=1, e=4}}
+[25Jun2025 15:23:19.857] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Action slot InventoryMapping{i=[], c=net.minecraft.world.inventory.InventoryMenu@1cdcc7ea, b=9, e=35}
+[25Jun2025 15:23:53.084] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[25Jun2025 15:23:53.092] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[25Jun2025 15:25:30.718] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving player configs...
+[25Jun2025 15:28:50.718] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving server info!
+[25Jun2025 15:28:50.768] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving parties...
+[25Jun2025 15:28:53.088] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[25Jun2025 15:28:53.096] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
