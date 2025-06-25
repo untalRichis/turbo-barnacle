@@ -305,6 +305,7 @@
       "minecraft:wooded_badlands": "2025-06-24 20:47:28 +0000",
       "minecraft:badlands": "2025-06-25 16:18:04 +0000",
       "minecraft:beach": "2025-06-25 01:29:22 +0000",
+      "minecraft:dark_forest": "2025-06-25 16:45:39 +0000",
       "minecraft:mangrove_swamp": "2025-06-25 01:27:26 +0000",
       "minecraft:sparse_jungle": "2025-06-25 16:17:08 +0000",
       "minecraft:river": "2025-06-25 01:26:23 +0000",
@@ -1617,7 +1618,8 @@
       "minecraft:creeper": "2025-06-25 02:20:52 +0000",
       "minecraft:witch": "2025-06-25 01:46:30 +0000",
       "minecraft:cave_spider": "2025-06-24 21:39:55 +0000",
-      "minecraft:zombie": "2025-06-24 21:58:30 +0000"
+      "minecraft:zombie": "2025-06-24 21:58:30 +0000",
+      "minecraft:zombie_villager": "2025-06-25 16:39:12 +0000"
     },
     "done": false
   },
@@ -3343,6 +3345,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/waxed_oxidized_cut_copper_stairs_from_waxed_oxidized_cut_copper_stonecutting": {
+    "criteria": {
+      "has_waxed_oxidized_cut_copper": "2025-06-25 16:40:18 +0000"
+    },
+    "done": true
+  },
   "create_connected:recipes/crafting/kinetics/freewheel_clutch": {
     "criteria": {
       "has_item": "2025-06-25 15:50:04 +0000"
@@ -3499,6 +3507,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/waxed_oxidized_cut_copper_slab_from_waxed_oxidized_cut_copper_stonecutting": {
+    "criteria": {
+      "has_waxed_oxidized_cut_copper": "2025-06-25 16:40:18 +0000"
+    },
+    "done": true
+  },
   "create:andesite_casing": {
     "criteria": {
       "0": "2025-06-25 15:51:02 +0000"
@@ -3544,6 +3558,18 @@
   "create:copper": {
     "criteria": {
       "0": "2025-06-25 16:37:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bricks": {
+    "criteria": {
+      "has_brick": "2025-06-25 16:45:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/crimson_planks": {
+    "criteria": {
+      "has_logs": "2025-06-25 16:47:15 +0000"
     },
     "done": true
   },
@@ -3622,6 +3648,12 @@
   "minecraft:recipes/redstone/dark_oak_button": {
     "criteria": {
       "has_planks": "2025-06-25 16:31:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/beehive": {
+    "criteria": {
+      "has_honeycomb": "2025-06-25 16:48:09 +0000"
     },
     "done": true
   },
@@ -3823,6 +3855,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/decorations/skillet": {
+    "criteria": {
+      "has_brick": "2025-06-25 16:45:52 +0000"
+    },
+    "done": true
+  },
   "storagedrawers:recipes/storagedrawers/bamboo_drawers": {
     "criteria": {
       "has_chest": "2025-06-25 16:25:27 +0000"
@@ -3886,6 +3924,12 @@
   "minecraft:recipes/redstone/dark_oak_pressure_plate": {
     "criteria": {
       "has_planks": "2025-06-25 16:31:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/decorated_pot_simple": {
+    "criteria": {
+      "has_brick": "2025-06-25 16:45:52 +0000"
     },
     "done": true
   },
@@ -4051,6 +4095,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/waxed_oxidized_cut_copper_stairs": {
+    "criteria": {
+      "has_waxed_oxidized_cut_copper": "2025-06-25 16:40:18 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/mechanical_mixer": {
     "criteria": {
       "has_item": "2025-06-25 15:49:08 +0000"
@@ -4164,6 +4214,12 @@
       "has_stone_types_andesite": "2025-06-25 15:34:16 +0000"
     },
     "done": true
+  },
+  "minecraft:adventure/salvage_sherd": {
+    "criteria": {
+      "has_sherd": "2025-06-25 16:45:52 +0000"
+    },
+    "done": false
   },
   "create:recipes/misc/crafting/kinetics/hand_crank": {
     "criteria": {
@@ -4279,6 +4335,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/waxed_oxidized_cut_copper_slab": {
+    "criteria": {
+      "has_waxed_oxidized_cut_copper": "2025-06-25 16:40:18 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cut_andesite_wall_from_stone_types_andesite_stonecutting": {
     "criteria": {
       "has_stone_types_andesite": "2025-06-25 15:34:16 +0000"
@@ -4342,6 +4404,18 @@
   "create:recipes/misc/crafting/logistics/item_hatch": {
     "criteria": {
       "has_item": "2025-06-25 15:49:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_glazed_terracotta": {
+    "criteria": {
+      "has_black_terracotta": "2025-06-25 16:40:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/flower_pot": {
+    "criteria": {
+      "has_brick": "2025-06-25 16:45:52 +0000"
     },
     "done": true
   },
@@ -4498,6 +4572,12 @@
   "create:recipes/misc/crafting/kinetics/piston_extension_pole": {
     "criteria": {
       "has_item": "2025-06-25 15:49:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/honeycomb_block": {
+    "criteria": {
+      "has_honeycomb": "2025-06-25 16:48:09 +0000"
     },
     "done": true
   },
