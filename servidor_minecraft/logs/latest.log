@@ -368,3 +368,5 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [25Jun2025 12:40:25.153] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player BoyfriendArg2004
 [25Jun2025 12:40:25.173] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BoyfriendArg2004 joined the game
 [25Jun2025 12:40:25.255] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for b04a954b-9004-378a-a27a-430b2bbdb8a4
+[25Jun2025 12:47:29.859] [Server thread/INFO] [fastsuite/]: Constructed recipe list for minecraft:crafting in 2.241 ms. 1969/2005 recipes are parallelized.
+[25Jun2025 12:49:35.662] [Server thread/INFO] [fastsuite/]: Constructed recipe list for minecraft:smelting in 133.0 μs. 102/102 recipes are parallelized.
