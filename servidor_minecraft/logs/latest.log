@@ -376,3 +376,5 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [25Jun2025 13:18:34.374] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3827ms or 76 ticks behind
 [25Jun2025 13:18:42.989] [Worker-Main-19/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/7991, l='ServerLevel[world]', x=-264.00, y=31.00, z=-103.00] as it would cause deadlock
 [25Jun2025 13:20:36.854] [Worker-Main-39/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/8246, l='ServerLevel[world]', x=-369.00, y=31.00, z=216.00] as it would cause deadlock
+[25Jun2025 13:28:14.354] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BoyfriendArg2004 has made the advancement [Not Today, Thank You]
+[25Jun2025 13:28:27.354] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BoyfriendArg2004 has made the advancement [Into Fire]
