@@ -8796,3 +8796,14 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [25Jun2025 18:19:03.861] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [25Jun2025 18:19:43.007] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BoyfriendArg2004 has made the advancement [Amateur Archaeologist]
 [25Jun2025 18:22:11.768] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving claims!
+[25Jun2025 18:24:03.854] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[25Jun2025 18:24:03.861] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[25Jun2025 18:25:06.825] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: BoyfriendArg2004 lost connection: Timed out
+[25Jun2025 18:25:06.826] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BoyfriendArg2004 left the game
+[25Jun2025 18:25:06.826] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for b04a954b-9004-378a-a27a-430b2bbdb8a4
+[25Jun2025 18:25:31.618] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving player configs...
+[25Jun2025 18:28:51.618] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving server info!
+[25Jun2025 18:28:51.668] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving parties...
+[25Jun2025 18:29:03.838] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[25Jun2025 18:29:03.845] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[25Jun2025 18:32:11.818] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving claims!
