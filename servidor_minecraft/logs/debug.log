@@ -7424,3 +7424,101 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [25Jun2025 15:28:50.768] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving parties...
 [25Jun2025 15:28:53.088] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [25Jun2025 15:28:53.096] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[25Jun2025 15:29:50.218] [Server thread/DEBUG] [net.lavabucket.hourglass.time.TimeService/hourglass]: Sleep cycle complete on dimension: minecraft:overworld.
+[25Jun2025 15:30:53.446] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:regular/glacial/interior2
+[25Jun2025 15:30:58.721] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: untalRichi has made the advancement [The Lighthouse]
+[25Jun2025 15:31:37.958] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:shiraz_palace/shiraz_palace_part_13
+[25Jun2025 15:31:38.513] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:merchant_campsite/merchant_campsite_street_4_main
+[25Jun2025 15:31:38.545] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:plague_asylum/plague_asylum_corridor_4_crossing_pit
+[25Jun2025 15:31:38.555] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:illager_windmill/illager_windmill_part_0
+[25Jun2025 15:31:38.567] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:scorched_mines/scorched_mines_well_0
+[25Jun2025 15:31:38.583] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:scorched_mines/scorched_mines_hub_part_2
+[25Jun2025 15:31:38.591] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:scorched_mines/scorched_mines_hub_part_3
+[25Jun2025 15:31:38.592] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:scorched_mines/scorched_mines_spawner_1
+[25Jun2025 15:31:38.594] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:scorched_mines/scorched_mines_crossing_3
+[25Jun2025 15:31:38.595] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:scorched_mines/scorched_mines_corridor_1_spawner
+[25Jun2025 15:31:38.596] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:scorched_mines/scorched_mines_corridor_0_normal
+[25Jun2025 15:31:38.602] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:scorched_mines/scorched_mines_hub_part_0
+[25Jun2025 15:31:38.609] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:scorched_mines/scorched_mines_hub_part_1
+[25Jun2025 15:31:38.612] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:scorched_mines/scorched_mines_stairway_0
+[25Jun2025 15:31:38.613] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:scorched_mines/scorched_mines_spawner_0
+[25Jun2025 15:31:38.613] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:scorched_mines/scorched_mines_spawner_2
+[25Jun2025 15:31:38.614] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:scorched_mines/scorched_mines_crossing_2
+[25Jun2025 15:31:38.615] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:scorched_mines/scorched_mines_corridor_3_spawner
+[25Jun2025 15:31:38.616] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:scorched_mines/scorched_mines_barrels_1
+[25Jun2025 15:31:38.617] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:scorched_mines/scorched_mines_barrels_0
+[25Jun2025 15:31:38.617] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:scorched_mines/scorched_mines_crossing_1
+[25Jun2025 15:31:38.618] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:scorched_mines/scorched_mines_crossing_0
+[25Jun2025 15:31:38.620] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:scorched_mines/scorched_mines_corridor_2_temptation
+[25Jun2025 15:31:38.621] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:scorched_mines/scorched_mines_treasure_0
+[25Jun2025 15:31:38.622] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:scorched_mines/scorched_mines_housing_0
+[25Jun2025 15:31:39.424] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:thornborn_towers/thornborn_towers_part_0_main
+[25Jun2025 15:31:39.425] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:small_blimp/small_blimp_ladders_0
+[25Jun2025 15:31:39.448] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:small_blimp/small_blimp_part_1
+[25Jun2025 15:31:39.463] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:small_blimp/small_blimp_part_0
+[25Jun2025 15:31:40.242] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:heavenly_rider/heavenly_rider_part_3
+[25Jun2025 15:31:40.332] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mushroom_village/mushroom_village_house_big_0
+[25Jun2025 15:31:40.380] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:heavenly_conqueror/heavenly_conqueror_part_3
+[25Jun2025 15:31:40.386] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:illager_galley/illager_galley_part_1
+[25Jun2025 15:31:40.431] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:aviary/aviary_part_13
+[25Jun2025 15:31:40.442] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:illager_corsair/illager_corsair_part_1
+[25Jun2025 15:31:40.463] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:coliseum/coliseum_part_3
+[25Jun2025 15:31:40.474] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:infested_temple/infested_temple_layout_part_1_middle
+[25Jun2025 15:31:40.486] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mushroom_house/mushroom_house_bottom_3
+[25Jun2025 15:31:40.501] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mushroom_mines/mushroom_mines_part_3
+[25Jun2025 15:31:41.587] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:keep_kayra/keep_kayra_main_0
+[25Jun2025 15:31:41.990] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mechanical_nest/mechanical_nest_start_0
+[25Jun2025 15:31:42.091] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:heavenly_challenger/heavenly_challenger_part_3
+[25Jun2025 15:31:42.112] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bandit_towers/bandit_towers_crossing_0
+[25Jun2025 15:31:42.126] [Worker-Main-3/DEBUG] [ModernFix/]: Structure dungeons_arise:shiraz_palace/shiraz_palace_spider_1 is being run through DFU (hash 2d3f22128285215fef42091a3e26e25e1c0afc9962efcd7724e1f43664f93157), this will cause launch time delays
+[25Jun2025 15:31:42.126] [Worker-Main-3/INFO] [ModernFix/]: Instantiating Mojang DFU
+[25Jun2025 15:31:43.388] [Worker-Main-3/DEBUG] [ModernFix/]: Structure dungeons_arise:shiraz_palace/shiraz_palace_skeleton_elite_0 is being run through DFU (hash 30a5c648bb6461a97f316b573b8e3d8f935d2075b738f2c099ab5981df5edfdd), this will cause launch time delays
+[25Jun2025 15:31:43.497] [Worker-Main-3/DEBUG] [ModernFix/]: Structure dungeons_arise:shiraz_palace/shiraz_palace_skeleton_garden_1 is being run through DFU (hash 27177270087c1d8562ffaf41dfbfeffdc9cdc335d297d6605585df780264b21b), this will cause launch time delays
+[25Jun2025 15:31:43.556] [Worker-Main-3/DEBUG] [ModernFix/]: Structure dungeons_arise:shiraz_palace/shiraz_palace_part_3 is being run through DFU (hash 875c253346308fc6eb37eb9cbbef8777e8f47b1f8fe54e22dc63169af0339af1), this will cause launch time delays
+[25Jun2025 15:31:43.858] [Worker-Main-3/DEBUG] [ModernFix/]: Structure dungeons_arise:shiraz_palace/shiraz_palace_part_1 is being run through DFU (hash ed111614cf0b974bc1c45d0762b19ab4649908cd79cfb6b6401186c35918df49), this will cause launch time delays
+[25Jun2025 15:31:44.044] [Worker-Main-3/DEBUG] [ModernFix/]: Structure dungeons_arise:shiraz_palace/shiraz_palace_part_21 is being run through DFU (hash ec316de1010321bb99b7ea2af77d4a06e9e78d0cc2ce0451c027b10be2805c63), this will cause launch time delays
+[25Jun2025 15:31:44.318] [Worker-Main-3/DEBUG] [ModernFix/]: Structure dungeons_arise:shiraz_palace/shiraz_palace_part_18 is being run through DFU (hash 143b2779f4479b40add7e1bbcf46aa11901f05c809fea67c0d5fd47276af2da7), this will cause launch time delays
+[25Jun2025 15:31:44.558] [Worker-Main-3/DEBUG] [ModernFix/]: Structure dungeons_arise:shiraz_palace/shiraz_palace_part_22 is being run through DFU (hash de48a3f8c1c5556137d8bf7ddc6fa2a7a283726cf1c0260f30703fb1a04c6a34), this will cause launch time delays
+[25Jun2025 15:31:44.698] [Worker-Main-3/DEBUG] [ModernFix/]: Structure dungeons_arise:shiraz_palace/shiraz_palace_part_24 is being run through DFU (hash 53c77b73bd7d221f0b1d6dd73a8953ae4982bf2db3ed70115a38e18089c4ff18), this will cause launch time delays
+[25Jun2025 15:31:44.833] [Worker-Main-3/DEBUG] [ModernFix/]: Structure dungeons_arise:shiraz_palace/shiraz_palace_part_14 is being run through DFU (hash c4d2a612671353470f63f8c340f24b45762115ab4d874d8f9b0843d2b995a4b3), this will cause launch time delays
+[25Jun2025 15:31:45.091] [Worker-Main-3/DEBUG] [ModernFix/]: Structure dungeons_arise:shiraz_palace/shiraz_palace_part_17 is being run through DFU (hash 5039ee705dac5a177b36a0c5f2ef974545a46cc47fdd308bdf53b92b0f561247), this will cause launch time delays
+[25Jun2025 15:31:45.297] [Worker-Main-3/DEBUG] [ModernFix/]: Structure dungeons_arise:shiraz_palace/shiraz_palace_part_23 is being run through DFU (hash 7f843bb4bb13ef9eefc17436d1dadaf8f68515400117c22607e25e86b93cb0d2), this will cause launch time delays
+[25Jun2025 15:31:45.446] [Worker-Main-3/DEBUG] [ModernFix/]: Structure dungeons_arise:shiraz_palace/shiraz_palace_part_26 is being run through DFU (hash 05d823b1c883d0ab1e4cc1c01dcc7738ae606b707a9ad07b1ac7cd7227d3e53a), this will cause launch time delays
+[25Jun2025 15:31:45.587] [Worker-Main-3/DEBUG] [ModernFix/]: Structure dungeons_arise:shiraz_palace/shiraz_palace_part_9 is being run through DFU (hash 0c33fb0128cf0fbeee056b786af2bea38c9d56f72ee1ba0efbc03fde2e3c01e0), this will cause launch time delays
+[25Jun2025 15:31:45.786] [Worker-Main-3/DEBUG] [ModernFix/]: Structure dungeons_arise:shiraz_palace/shiraz_palace_part_16 is being run through DFU (hash 9e741606c695f6b5e1fd43a969788f5420f4ef0daa67f53f2f61440bbd8a818b), this will cause launch time delays
+[25Jun2025 15:31:45.947] [Worker-Main-3/DEBUG] [ModernFix/]: Structure dungeons_arise:shiraz_palace/shiraz_palace_part_6 is being run through DFU (hash e46f53858e980b1d8ae79a5d2fde086eb69788b2b9f163c5144b4ff1ce5479a1), this will cause launch time delays
+[25Jun2025 15:31:46.042] [Worker-Main-3/DEBUG] [ModernFix/]: Structure dungeons_arise:shiraz_palace/shiraz_palace_part_2 is being run through DFU (hash 44d53f5a5fe11013c258ba90183e6bcba737dafe91632bdcebb23e7883a2f79a), this will cause launch time delays
+[25Jun2025 15:31:46.127] [Worker-Main-3/DEBUG] [ModernFix/]: Structure dungeons_arise:shiraz_palace/shiraz_palace_part_5 is being run through DFU (hash c1a2dd1ba3cc512b57b08bb7f913679b270d8edaa3139a843a619b5a5da8fa61), this will cause launch time delays
+[25Jun2025 15:31:46.242] [Worker-Main-3/DEBUG] [ModernFix/]: Structure dungeons_arise:shiraz_palace/shiraz_palace_part_25 is being run through DFU (hash 000149c0da949824b1081352a2611f42d81b0dca53c2f16a27177b365861f56a), this will cause launch time delays
+[25Jun2025 15:31:46.558] [Worker-Main-3/DEBUG] [ModernFix/]: Structure dungeons_arise:shiraz_palace/shiraz_palace_part_15 is being run through DFU (hash 2bdb7b7e3eabd174a7c8d42def82fc3858320402f40385fcaa64aab6a0479e81), this will cause launch time delays
+[25Jun2025 15:31:46.777] [Worker-Main-3/DEBUG] [ModernFix/]: Structure dungeons_arise:shiraz_palace/shiraz_palace_part_11 is being run through DFU (hash 8494a6bcd4a6321fde03cc72a5a5408d0ff04679cac95f43aa1c62239fcfb111), this will cause launch time delays
+[25Jun2025 15:31:47.032] [Worker-Main-3/DEBUG] [ModernFix/]: Structure dungeons_arise:shiraz_palace/shiraz_palace_part_10 is being run through DFU (hash 840e6efea1284b8ddd43897c53adbe344bf5648f4c02976904f27fb145b6ca01), this will cause launch time delays
+[25Jun2025 15:31:47.311] [Worker-Main-3/DEBUG] [ModernFix/]: Structure dungeons_arise:shiraz_palace/shiraz_palace_part_4 is being run through DFU (hash 8d1151ca0e8c67df35639764f4e39d925c182c205e22e94978125dd201cc0b7a), this will cause launch time delays
+[25Jun2025 15:31:47.587] [Worker-Main-3/DEBUG] [ModernFix/]: Structure dungeons_arise:shiraz_palace/shiraz_palace_part_19 is being run through DFU (hash a6f5f595f278290c8287b37d97b3d284dca4ad38e687b50c00fdd03891c472f0), this will cause launch time delays
+[25Jun2025 15:31:47.724] [Worker-Main-3/DEBUG] [ModernFix/]: Structure dungeons_arise:shiraz_palace/shiraz_palace_part_20 is being run through DFU (hash 555a15e63e56e3cd47564f603a834aa8f3ddf481c9cf00eee590a1ed81e75ab4), this will cause launch time delays
+[25Jun2025 15:31:47.858] [Worker-Main-3/DEBUG] [ModernFix/]: Structure dungeons_arise:shiraz_palace/shiraz_palace_part_8 is being run through DFU (hash 745c67f5d14c578a04ddb2528eac10df5447a62982d2f935ece1e1e72d6de15e), this will cause launch time delays
+[25Jun2025 15:31:47.949] [Worker-Main-3/DEBUG] [ModernFix/]: Structure dungeons_arise:shiraz_palace/shiraz_palace_part_0 is being run through DFU (hash 1ece8ff6f261d5ff16d92d33ffc49422cf73039c24824a8f5c3240a24a214bf1), this will cause launch time delays
+[25Jun2025 15:31:48.039] [Worker-Main-3/DEBUG] [ModernFix/]: Structure dungeons_arise:shiraz_palace/shiraz_palace_part_7 is being run through DFU (hash b2694ec431350df16c640c1fae8389a86154cedcba31737635182852b596a2a0), this will cause launch time delays
+[25Jun2025 15:31:48.142] [Worker-Main-3/DEBUG] [ModernFix/]: Structure dungeons_arise:shiraz_palace/shiraz_palace_part_12 is being run through DFU (hash 6a8d0d16ee623c2c1f2d8fb5ba21cb96e280d383cc59f4c90e00dfa068343094), this will cause launch time delays
+[25Jun2025 15:31:48.309] [Worker-Main-3/DEBUG] [ModernFix/]: Structure dungeons_arise:shiraz_palace/shiraz_palace_skeleton_garden_exterior_1 is being run through DFU (hash bc21108b6e83db70a71abb9aa98f7d6131cfaec3938a71a57387663d3469c0e3), this will cause launch time delays
+[25Jun2025 15:31:48.318] [Worker-Main-3/DEBUG] [ModernFix/]: Structure dungeons_arise:shiraz_palace/shiraz_palace_husk_garden_2 is being run through DFU (hash b7657b0628e2bcde12093496b58f0c846ac979f5ac5f71c558c12232e74c5d69), this will cause launch time delays
+[25Jun2025 15:31:48.323] [Worker-Main-3/DEBUG] [ModernFix/]: Structure dungeons_arise:shiraz_palace/shiraz_palace_spider_0 is being run through DFU (hash 3802d8a0bcff5ef25a9e427b51a510d5785f67aa800cd384e61bfd0f23b58185), this will cause launch time delays
+[25Jun2025 15:31:48.327] [Worker-Main-3/DEBUG] [ModernFix/]: Structure dungeons_arise:shiraz_palace/shiraz_palace_husk_garden_0 is being run through DFU (hash cfeef20353dab1554b91d5146d44e06cc88f910761a1338d389d1e44c0e43fb4), this will cause launch time delays
+[25Jun2025 15:31:48.332] [Worker-Main-3/DEBUG] [ModernFix/]: Structure dungeons_arise:shiraz_palace/shiraz_palace_skeleton_illusion_0 is being run through DFU (hash 11e19aea69133766b50315b545a97960abef3b3d49ba1b53f207cacb1c338ff1), this will cause launch time delays
+[25Jun2025 15:31:48.338] [Worker-Main-3/DEBUG] [ModernFix/]: Structure dungeons_arise:shiraz_palace/shiraz_palace_axe_illusion_2 is being run through DFU (hash 68e5b942f2c0f2081c6742bf21823f42c5b8f88df211c1486d5e4ebcfbb6b2a2), this will cause launch time delays
+[25Jun2025 15:31:48.343] [Worker-Main-3/DEBUG] [ModernFix/]: Structure dungeons_arise:shiraz_palace/shiraz_palace_husk_garden_exterior_0 is being run through DFU (hash 507f186f533cc67f7fbe185d35853a8a0178b482a10b6b577273d57a6caa0748), this will cause launch time delays
+[25Jun2025 15:31:48.351] [Worker-Main-3/DEBUG] [ModernFix/]: Structure dungeons_arise:shiraz_palace/shiraz_palace_skeleton_library_0 is being run through DFU (hash d05348def440bed5535081202ced963b5cdeceab1baf844c082961f861a9f123), this will cause launch time delays
+[25Jun2025 15:31:48.356] [Worker-Main-3/DEBUG] [ModernFix/]: Structure dungeons_arise:shiraz_palace/shiraz_palace_husk_tower_0 is being run through DFU (hash 43e5ea92b24acd5811c79242d30e0944bda11c5459955742c76caab68a8512af), this will cause launch time delays
+[25Jun2025 15:31:48.360] [Worker-Main-3/DEBUG] [ModernFix/]: Structure dungeons_arise:shiraz_palace/shiraz_palace_crossbow_illusion_1 is being run through DFU (hash ac7592243285092cc3ed8f7f85e6336bf9d62f3b813146964b3078e9e546784d), this will cause launch time delays
+[25Jun2025 15:31:48.365] [Worker-Main-3/DEBUG] [ModernFix/]: Structure dungeons_arise:shiraz_palace/shiraz_palace_skeleton_tower_1 is being run through DFU (hash 43d348010044266fa1ebecea278cbaf06bf46b0760ca475df0db96fc84c5728d), this will cause launch time delays
+[25Jun2025 15:31:48.720] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10802ms or 216 ticks behind
+[25Jun2025 15:32:10.918] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving claims!
+[25Jun2025 15:33:34.534] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:regular/glacial/interior216
+[25Jun2025 15:34:03.899] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[25Jun2025 15:34:03.907] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[25Jun2025 15:34:51.332] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:fishing_hut/fishing_hut_spawner_0
+[25Jun2025 15:35:30.768] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving player configs...
+[25Jun2025 15:38:50.768] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving server info!
+[25Jun2025 15:38:50.818] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving parties...
+[25Jun2025 15:39:03.875] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[25Jun2025 15:39:03.883] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world

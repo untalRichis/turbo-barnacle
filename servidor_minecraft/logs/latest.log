@@ -417,3 +417,6 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [25Jun2025 15:10:07.143] [Server thread/WARN] [net.minecraft.world.level.storage.loot.LootTable/]: Tried to over-fill a container
 [25Jun2025 15:18:44.303] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <untalRichi> made in heaven
 [25Jun2025 15:18:46.877] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Shepherd'/4104, l='ServerLevel[world]', x=-1252.48, y=92.00, z=786.44] died, message: 'Shepherd hit the ground too hard'
+[25Jun2025 15:30:58.721] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: untalRichi has made the advancement [The Lighthouse]
+[25Jun2025 15:31:42.126] [Worker-Main-3/INFO] [ModernFix/]: Instantiating Mojang DFU
+[25Jun2025 15:31:48.720] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10802ms or 216 ticks behind
