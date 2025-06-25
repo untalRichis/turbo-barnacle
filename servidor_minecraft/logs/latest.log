@@ -477,3 +477,14 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [25Jun2025 16:33:06.302] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: BoyfriendArg2004 moved too quickly! -7.718928313375727,-0.2531999805212024,-6.502335427962635
 [25Jun2025 16:34:27.613] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: BoyfriendArg2004 moved too quickly! -6.849390927184004,0.0,-7.4898797260980245
 [25Jun2025 16:38:40.040] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: untalRichi has made the advancement [Cover Me with Diamonds]
+[25Jun2025 16:52:02.757] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-274, y=3, z=-1563}
+[25Jun2025 16:52:02.759] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-285, y=-11, z=-1606}
+[25Jun2025 16:52:02.759] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-284, y=-11, z=-1606}
+[25Jun2025 16:56:15.798] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <untalRichi> weno
+[25Jun2025 16:56:18.194] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <untalRichi> buen dia
+[25Jun2025 16:56:20.239] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: untalRichi lost connection: Disconnected
+[25Jun2025 16:56:20.239] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: untalRichi left the game
+[25Jun2025 16:56:20.239] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 227402b2-21f0-3b68-9bf0-0c80b7cab6b0
+[25Jun2025 16:58:28.183] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JhonZ93 lost connection: Disconnected
+[25Jun2025 16:58:28.184] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JhonZ93 left the game
+[25Jun2025 16:58:28.184] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 86639520-359c-3409-9340-a481333ab5f9
