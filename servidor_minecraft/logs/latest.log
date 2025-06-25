@@ -373,3 +373,6 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [25Jun2025 13:03:58.031] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-1861, y=-32, z=723}
 [25Jun2025 13:03:58.314] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-1863, y=37, z=607}
 [25Jun2025 13:03:58.315] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-1863, y=37, z=606}
+[25Jun2025 13:18:34.374] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3827ms or 76 ticks behind
+[25Jun2025 13:18:42.989] [Worker-Main-19/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/7991, l='ServerLevel[world]', x=-264.00, y=31.00, z=-103.00] as it would cause deadlock
+[25Jun2025 13:20:36.854] [Worker-Main-39/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/8246, l='ServerLevel[world]', x=-369.00, y=31.00, z=216.00] as it would cause deadlock

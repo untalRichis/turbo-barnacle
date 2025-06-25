@@ -763,10 +763,13 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:blaze": "2025-06-25 13:19:55 +0000",
       "minecraft:skeleton": "2025-06-24 22:43:54 +0000",
       "minecraft:vindicator": "2025-06-24 23:18:56 +0000",
+      "minecraft:magma_cube": "2025-06-25 13:21:30 +0000",
       "minecraft:spider": "2025-06-24 22:42:07 +0000",
       "minecraft:witch": "2025-06-24 23:24:52 +0000",
+      "minecraft:wither_skeleton": "2025-06-25 13:21:07 +0000",
       "minecraft:husk": "2025-06-25 00:25:02 +0000",
       "minecraft:zombie": "2025-06-24 22:43:21 +0000"
     },
@@ -4159,13 +4162,38 @@
   },
   "minecraft:nether/explore_nether": {
     "criteria": {
-      "minecraft:soul_sand_valley": "2025-06-25 02:24:01 +0000"
+      "minecraft:soul_sand_valley": "2025-06-25 02:24:01 +0000",
+      "minecraft:nether_wastes": "2025-06-25 13:20:14 +0000"
     },
     "done": false
   },
   "minecraft:nether/find_fortress": {
     "criteria": {
       "fortress": "2025-06-25 02:24:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_smelting": {
+    "criteria": {
+      "has_golden_horse_armor": "2025-06-25 13:19:14 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/blasting/zinc_ingot_from_raw_ore": {
+    "criteria": {
+      "has_item": "2025-06-25 13:13:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_blasting": {
+    "criteria": {
+      "has_golden_horse_armor": "2025-06-25 13:19:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_wart_block": {
+    "criteria": {
+      "has_nether_wart": "2025-06-25 13:19:13 +0000"
     },
     "done": true
   },
@@ -4184,6 +4212,18 @@
   "minecraft:recipes/building_blocks/spruce_wood": {
     "criteria": {
       "has_log": "2025-06-25 13:05:03 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/smelting/zinc_ingot_from_raw_ore": {
+    "criteria": {
+      "has_item": "2025-06-25 13:13:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_nether_bricks": {
+    "criteria": {
+      "has_nether_wart": "2025-06-25 13:19:13 +0000"
     },
     "done": true
   },
@@ -4220,6 +4260,18 @@
   "minecraft:recipes/decorations/mossy_cobblestone_wall_from_mossy_cobblestone_stonecutting": {
     "criteria": {
       "has_mossy_cobblestone": "2025-06-25 12:43:43 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/materials/raw_zinc_block": {
+    "criteria": {
+      "has_item": "2025-06-25 13:13:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/nether_brick": {
+    "criteria": {
+      "has_netherrack": "2025-06-25 13:21:38 +0000"
     },
     "done": true
   },
