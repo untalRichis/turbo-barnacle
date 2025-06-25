@@ -467,3 +467,5 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [25Jun2025 16:04:38.966] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JhonZ93> xd
 [25Jun2025 16:06:32.791] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <untalRichi> ya tengo mi wrench
 [25Jun2025 16:06:38.740] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <untalRichi> ahora soy el ingeniero en ingenieria
+[25Jun2025 16:10:07.820] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/33317, l='ServerLevel[world]', x=18.26, y=-20.00, z=-215.92] died: Toxic Slime was killed
+[25Jun2025 16:13:41.852] [Server thread/INFO] [fastsuite/]: Constructed recipe list for minecraft:smelting in 75.95 μs. 102/102 recipes are parallelized.

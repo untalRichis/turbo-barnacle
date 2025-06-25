@@ -4416,5 +4416,17 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/nether_bricks": {
+    "criteria": {
+      "has_nether_brick": "2025-06-25 16:14:42 +0000"
+    },
+    "done": true
+  },
+  "nethersdelight:recipes/decorations/blackstone_stove": {
+    "criteria": {
+      "has_nether_brick": "2025-06-25 16:14:42 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
