@@ -370,3 +370,6 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [25Jun2025 12:40:25.255] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for b04a954b-9004-378a-a27a-430b2bbdb8a4
 [25Jun2025 12:47:29.859] [Server thread/INFO] [fastsuite/]: Constructed recipe list for minecraft:crafting in 2.241 ms. 1969/2005 recipes are parallelized.
 [25Jun2025 12:49:35.662] [Server thread/INFO] [fastsuite/]: Constructed recipe list for minecraft:smelting in 133.0 μs. 102/102 recipes are parallelized.
+[25Jun2025 13:03:58.031] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-1861, y=-32, z=723}
+[25Jun2025 13:03:58.314] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-1863, y=37, z=607}
+[25Jun2025 13:03:58.315] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-1863, y=37, z=606}
