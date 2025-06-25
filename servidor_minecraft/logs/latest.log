@@ -473,3 +473,7 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [25Jun2025 16:23:38.488] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BoyfriendArg2004> A LA MIERDA
 [25Jun2025 16:28:09.187] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <untalRichi> 22
 [25Jun2025 16:28:15.245] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <untalRichi> 22 MODERFOKIN DIAMANTES
+[25Jun2025 16:31:56.369] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JhonZ93 has made the advancement [Close Quarters]
+[25Jun2025 16:33:06.302] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: BoyfriendArg2004 moved too quickly! -7.718928313375727,-0.2531999805212024,-6.502335427962635
+[25Jun2025 16:34:27.613] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: BoyfriendArg2004 moved too quickly! -6.849390927184004,0.0,-7.4898797260980245
+[25Jun2025 16:38:40.040] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: untalRichi has made the advancement [Cover Me with Diamonds]

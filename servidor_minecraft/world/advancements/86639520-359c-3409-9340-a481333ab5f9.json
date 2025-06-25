@@ -558,7 +558,9 @@
       "minecraft:mangrove_swamp": "2025-06-25 02:31:19 +0000",
       "minecraft:sparse_jungle": "2025-06-25 02:31:25 +0000",
       "minecraft:river": "2025-06-25 02:31:54 +0000",
+      "minecraft:lukewarm_ocean": "2025-06-25 16:32:13 +0000",
       "minecraft:dripstone_caves": "2025-06-25 02:04:21 +0000",
+      "minecraft:lush_caves": "2025-06-25 16:36:15 +0000",
       "minecraft:jungle": "2025-06-25 02:32:01 +0000",
       "minecraft:savanna": "2025-06-25 16:23:48 +0000"
     },
@@ -1648,6 +1650,7 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_porkchop": "2025-06-25 15:59:01 +0000",
+      "cooked_beef": "2025-06-25 16:30:52 +0000",
       "tropical_fish": "2025-06-25 16:18:04 +0000",
       "salmon": "2025-06-25 02:55:16 +0000",
       "mushroom_stew": "2025-06-25 16:18:16 +0000",
@@ -2206,6 +2209,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/bookshelf": {
+    "criteria": {
+      "has_book": "2025-06-25 16:32:37 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/crafting/logistics/green_table_cloth": {
     "criteria": {
       "has_wool": "2025-06-25 16:19:04 +0000"
@@ -2239,6 +2248,12 @@
   "create:recipes/building_blocks/crafting/kinetics/gray_seat": {
     "criteria": {
       "has_wool": "2025-06-25 16:19:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_nuggets": {
+    "criteria": {
+      "has_gold_nugget": "2025-06-25 16:31:21 +0000"
     },
     "done": true
   },
@@ -2320,6 +2335,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/golden_carrot": {
+    "criteria": {
+      "has_gold_nugget": "2025-06-25 16:31:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/lectern": {
+    "criteria": {
+      "has_book": "2025-06-25 16:32:37 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/crafting/kinetics/light_blue_seat": {
     "criteria": {
       "has_wool": "2025-06-25 16:19:04 +0000"
@@ -2329,6 +2356,12 @@
   "minecraft:recipes/food/cooked_porkchop_from_campfire_cooking": {
     "criteria": {
       "has_porkchop": "2025-06-25 16:19:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_bookshelf": {
+    "criteria": {
+      "has_book": "2025-06-25 16:32:37 +0000"
     },
     "done": true
   },
@@ -2356,6 +2389,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/writable_book": {
+    "criteria": {
+      "has_book": "2025-06-25 16:32:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/leather_horse_armor": {
     "criteria": {
       "has_leather": "2025-06-25 16:25:41 +0000"
@@ -2365,6 +2404,12 @@
   "create:recipes/building_blocks/crafting/kinetics/cyan_seat": {
     "criteria": {
       "has_wool": "2025-06-25 16:19:04 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/apple_cider": {
+    "criteria": {
+      "has_apple": "2025-06-25 16:30:02 +0000"
     },
     "done": true
   },
@@ -2527,6 +2572,12 @@
   "farmersdelight:recipes/cooking/pasta_with_meatballs": {
     "criteria": {
       "has_any_ingredient": "2025-06-25 16:25:48 +0000"
+    },
+    "done": true
+  },
+  "lootr:25loot": {
+    "criteria": {
+      "loot_stat": "2025-06-25 16:31:56 +0000"
     },
     "done": true
   },
