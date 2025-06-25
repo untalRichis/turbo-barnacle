@@ -424,3 +424,26 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [25Jun2025 15:46:54.389] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <untalRichi> diga
 [25Jun2025 15:46:56.659] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BoyfriendArg2004> hare una granja de xp
 [25Jun2025 15:47:01.748] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <untalRichi> tto
+[25Jun2025 15:49:46.831] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: BoyfriendArg2004 was kicked for floating too long!
+[25Jun2025 15:49:46.886] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: BoyfriendArg2004 lost connection: Flying is not enabled on this server
+[25Jun2025 15:49:46.886] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BoyfriendArg2004 left the game
+[25Jun2025 15:49:46.886] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for b04a954b-9004-378a-a27a-430b2bbdb8a4
+[25Jun2025 15:50:39.981] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting com.mojang.authlib.GameProfile@2e0610e2[id=<null>,name=BoyfriendArg2004,properties={},legacy=false] (/127.68.100.184:56161): Took too long to log in
+[25Jun2025 15:50:39.982] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@2e0610e2[id=<null>,name=BoyfriendArg2004,properties={},legacy=false] (/127.68.100.184:56161) lost connection: Took too long to log in
+[25Jun2025 15:50:40.026] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[25Jun2025 15:51:02.905] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: untalRichi has made the advancement [The Andesite Age]
+[25Jun2025 15:53:11.936] [ForkJoinPool.commonPool-worker-8/WARN] [SkinRestorer/]: Failed to fetch skin: not found
+[25Jun2025 15:53:11.995] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: BoyfriendArg2004[/127.68.100.184:59213] logged in with entity id 26467 at (-1825.8767521562152, 64.12160004615784, 726.0959654349898)
+[25Jun2025 15:53:12.003] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player BoyfriendArg2004
+[25Jun2025 15:53:12.005] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BoyfriendArg2004 joined the game
+[25Jun2025 15:53:12.015] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for b04a954b-9004-378a-a27a-430b2bbdb8a4
+[25Jun2025 15:55:44.091] [ForkJoinPool.commonPool-worker-10/WARN] [SkinRestorer/]: Failed to fetch skin: no profile with uuid fd165f69-1c92-3675-92e8-2a614fb70b26
+[25Jun2025 15:55:44.104] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: JhonZ93[/127.7.203.159:35237] logged in with entity id 27279 at (32.87945508911874, 67.0, -198.2778559759037)
+[25Jun2025 15:55:44.154] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player JhonZ93
+[25Jun2025 15:55:44.156] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JhonZ93 joined the game
+[25Jun2025 15:55:44.166] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 86639520-359c-3409-9340-a481333ab5f9
+[25Jun2025 15:55:51.990] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <untalRichi> ablame yon
+[25Jun2025 15:55:55.306] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JhonZ93> holap
+[25Jun2025 15:56:21.583] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: untalRichi has made the advancement [Bonk!]
+[25Jun2025 15:58:35.191] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JhonZ93 has made the advancement [Ol' Betsy]
+[25Jun2025 15:58:35.489] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JhonZ93 has made the advancement [Take Aim]
