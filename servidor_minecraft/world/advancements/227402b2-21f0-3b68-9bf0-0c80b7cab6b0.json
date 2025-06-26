@@ -4625,6 +4625,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/stuffed_pumpkin_block": {
+    "criteria": {
+      "has_pumpkin": "2025-06-26 01:26:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/brick_slab_from_bricks_stonecutting": {
     "criteria": {
       "has_bricks": "2025-06-26 00:20:59 +0000"
@@ -4634,6 +4640,12 @@
   "minecraft:recipes/building_blocks/brick_stairs_from_bricks_stonecutting": {
     "criteria": {
       "has_bricks": "2025-06-26 00:20:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/pumpkin_seeds": {
+    "criteria": {
+      "has_pumpkin": "2025-06-26 01:26:22 +0000"
     },
     "done": true
   },
@@ -4649,6 +4661,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/pumpkin_pie": {
+    "criteria": {
+      "has_pumpkin": "2025-06-26 01:26:22 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/decorations/stove": {
     "criteria": {
       "has_campfire": "2025-06-26 00:23:59 +0000"
@@ -4658,6 +4676,12 @@
   "minecraft:recipes/building_blocks/brick_slab": {
     "criteria": {
       "has_bricks": "2025-06-26 00:20:59 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_bathhouse": {
+    "criteria": {
+      "location0": "2025-06-26 01:30:03 +0000"
     },
     "done": true
   },

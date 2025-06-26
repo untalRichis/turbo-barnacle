@@ -143,6 +143,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/stuffed_pumpkin_block": {
+    "criteria": {
+      "has_pumpkin": "2025-06-26 01:25:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/golden_axe": {
     "criteria": {
       "has_gold_ingot": "2025-06-26 01:18:08 +0000"
@@ -614,6 +620,12 @@
   "create:recipes/building_blocks/crafting/logistics/blue_table_cloth": {
     "criteria": {
       "has_wool": "2025-06-26 01:14:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/pumpkin_seeds": {
+    "criteria": {
+      "has_pumpkin": "2025-06-26 01:25:55 +0000"
     },
     "done": true
   },
@@ -1220,6 +1232,12 @@
   "storagedrawers:recipes/storagedrawers/mangrove_trim": {
     "criteria": {
       "has_planks": "2025-06-26 00:25:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/pumpkin_pie": {
+    "criteria": {
+      "has_pumpkin": "2025-06-26 01:25:55 +0000"
     },
     "done": true
   },

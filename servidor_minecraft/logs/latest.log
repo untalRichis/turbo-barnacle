@@ -129,3 +129,37 @@
 [26Jun2025 01:17:33.466] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: zVqazy lost connection: Disconnected
 [26Jun2025 01:17:33.467] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zVqazy left the game
 [26Jun2025 01:17:33.468] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 8aa45e06-55bc-31b5-899e-25bcd6eed7ca
+[26Jun2025 01:26:20.964] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2393, y=66, z=1120} BlockPos{x=-2394, y=64, z=1119}
+[26Jun2025 01:26:21.013] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2393, y=66, z=1120} BlockPos{x=-2394, y=64, z=1119}
+[26Jun2025 01:26:31.762] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2380, y=66, z=1099} BlockPos{x=-2381, y=65, z=1102}
+[26Jun2025 01:26:38.012] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2373, y=68, z=1118} BlockPos{x=-2373, y=66, z=1117}
+[26Jun2025 01:26:38.054] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2373, y=68, z=1118} BlockPos{x=-2373, y=66, z=1117}
+[26Jun2025 01:26:46.625] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2354, y=71, z=1145} BlockPos{x=-2355, y=69, z=1144}
+[26Jun2025 01:26:46.675] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2354, y=71, z=1145} BlockPos{x=-2355, y=69, z=1144}
+[26Jun2025 01:26:46.735] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2354, y=71, z=1145} BlockPos{x=-2355, y=69, z=1144}
+[26Jun2025 01:26:46.777] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2354, y=71, z=1145} BlockPos{x=-2355, y=69, z=1144}
+[26Jun2025 01:26:46.827] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2354, y=71, z=1145} BlockPos{x=-2355, y=69, z=1144}
+[26Jun2025 01:26:47.221] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2357, y=71, z=1143} BlockPos{x=-2358, y=69, z=1143}
+[26Jun2025 01:27:04.613] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2406, y=69, z=1149} BlockPos{x=-2405, y=68, z=1151}
+[26Jun2025 01:27:04.663] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2406, y=69, z=1149} BlockPos{x=-2405, y=68, z=1151}
+[26Jun2025 01:27:04.715] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2406, y=69, z=1149} BlockPos{x=-2405, y=68, z=1151}
+[26Jun2025 01:27:16.413] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2369, y=73, z=1148} BlockPos{x=-2370, y=71, z=1148}
+[26Jun2025 01:27:20.476] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2381, y=72, z=1154} BlockPos{x=-2381, y=71, z=1151}
+[26Jun2025 01:27:45.259] [ForkJoinPool.commonPool-worker-16/WARN] [SkinRestorer/]: Failed to fetch skin: no profile with uuid fd165f69-1c92-3675-92e8-2a614fb70b26
+[26Jun2025 01:27:45.277] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: JhonZ93[/127.7.203.159:32855] logged in with entity id 35237 at (88.69999998807907, 58.0, 6.300000011920929)
+[26Jun2025 01:27:45.282] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player JhonZ93
+[26Jun2025 01:27:45.284] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JhonZ93 joined the game
+[26Jun2025 01:27:45.332] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 86639520-359c-3409-9340-a481333ab5f9
+[26Jun2025 01:28:26.225] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <untalRichi> xaero-waypoint:Dungeon!:D:-894:100:1:12:false:0:Internal-overworld-waypoints
+[26Jun2025 01:28:57.018] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Armor95 lost connection: Disconnected
+[26Jun2025 01:28:57.018] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Armor95 left the game
+[26Jun2025 01:28:57.019] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 395abf40-9d0b-34c9-b405-20e74c765288
+[26Jun2025 01:29:13.278] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Armor95[/127.156.201.144:44001] logged in with entity id 35718 at (-2297.669798101834, 67.17675927506424, 1087.1961217679623)
+[26Jun2025 01:29:13.282] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player Armor95
+[26Jun2025 01:29:13.284] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Armor95 joined the game
+[26Jun2025 01:29:13.327] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 395abf40-9d0b-34c9-b405-20e74c765288
+[26Jun2025 01:29:34.639] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JhonZ93 has made the advancement [Enchanter]
+[26Jun2025 01:30:19.128] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: untalRichi moved wrongly!
+[26Jun2025 01:32:03.617] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: untalRichi was slain by Husk
+[26Jun2025 01:32:34.468] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JhonZ93 has made the advancement [Penteconter]
+[26Jun2025 01:33:39.000] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: untalRichi has completed the challenge [Centennial]
