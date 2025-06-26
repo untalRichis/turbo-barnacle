@@ -209,3 +209,7 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.world.entity.Entity
 [26Jun2025 02:00:46.514] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: SoySamsito lost connection: Disconnected
 [26Jun2025 02:00:46.514] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SoySamsito left the game
 [26Jun2025 02:00:46.514] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 352decb4-99e8-3d8c-aa55-3e2d4f5447b3
+[26Jun2025 02:08:06.922] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: untalRichi lost connection: Disconnected
+[26Jun2025 02:08:06.923] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: untalRichi left the game
+[26Jun2025 02:08:06.923] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 227402b2-21f0-3b68-9bf0-0c80b7cab6b0
+[26Jun2025 02:11:07.761] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/44402, l='ServerLevel[world]', x=-1218.83, y=93.00, z=794.51] died, message: 'Villager was slain by Zombie'
