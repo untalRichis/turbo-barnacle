@@ -1362,7 +1362,8 @@
   },
   "minecraft:nether/explore_nether": {
     "criteria": {
-      "minecraft:soul_sand_valley": "2025-06-25 02:22:49 +0000"
+      "minecraft:soul_sand_valley": "2025-06-25 02:22:49 +0000",
+      "minecraft:nether_wastes": "2025-06-26 02:47:38 +0000"
     },
     "done": false
   },
@@ -1757,6 +1758,7 @@
     "criteria": {
       "minecraft:blaze": "2025-06-26 02:33:59 +0000",
       "minecraft:skeleton": "2025-06-25 02:43:50 +0000",
+      "minecraft:ghast": "2025-06-26 02:45:24 +0000",
       "minecraft:magma_cube": "2025-06-25 16:07:12 +0000",
       "minecraft:piglin_brute": "2025-06-25 15:59:30 +0000",
       "minecraft:spider": "2025-06-25 16:27:39 +0000",
@@ -2957,6 +2959,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/bread": {
+    "criteria": {
+      "has_wheat": "2025-06-26 02:48:49 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/small_calcite_brick_stairs_from_stone_types_calcite_stonecutting": {
     "criteria": {
       "has_stone_types_calcite": "2025-06-26 02:01:50 +0000"
@@ -2966,6 +2974,12 @@
   "create:recipes/building_blocks/cut_calcite_bricks_from_stone_types_calcite_stonecutting": {
     "criteria": {
       "has_stone_types_calcite": "2025-06-26 02:01:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/hay_block": {
+    "criteria": {
+      "has_wheat": "2025-06-26 02:48:49 +0000"
     },
     "done": true
   },
@@ -3221,6 +3235,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/wheat_dough": {
+    "criteria": {
+      "has_wheat": "2025-06-26 02:48:49 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/food/shepherds_pie_block": {
     "criteria": {
       "has_cooked_mutton": "2025-06-26 01:41:00 +0000"
@@ -3242,6 +3262,12 @@
   "minecraft:recipes/misc/firework_rocket_simple": {
     "criteria": {
       "has_gunpowder": "2025-06-26 02:28:13 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/pie_crust": {
+    "criteria": {
+      "has_wheat": "2025-06-26 02:48:49 +0000"
     },
     "done": true
   },
