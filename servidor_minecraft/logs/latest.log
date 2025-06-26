@@ -1,236 +1,364 @@
-[26Jun2025 00:01:43.306] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: untalRichi[/127.47.213.142:51257] logged in with entity id 57 at (143.69999998807907, 72.0, -1999.0574465681043)
-[26Jun2025 00:01:43.372] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player untalRichi
-[26Jun2025 00:01:43.425] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: untalRichi joined the game
-[26Jun2025 00:01:43.488] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 227402b2-21f0-3b68-9bf0-0c80b7cab6b0
-[26Jun2025 00:17:20.841] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Armor95[/127.2.247.189:53157] logged in with entity id 2260 at (-2212.6607216912403, -4.0, 1569.4863155252444)
-[26Jun2025 00:17:20.849] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player Armor95
-[26Jun2025 00:17:20.853] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Armor95 joined the game
-[26Jun2025 00:17:20.862] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 395abf40-9d0b-34c9-b405-20e74c765288
-[26Jun2025 00:19:53.497] [Server thread/INFO] [fastsuite/]: Constructed recipe list for minecraft:smelting in 374.2 μs. 102/102 recipes are parallelized.
-[26Jun2025 00:20:58.920] [Server thread/INFO] [fastsuite/]: Constructed recipe list for minecraft:crafting in 1.735 ms. 1969/2005 recipes are parallelized.
-[26Jun2025 00:23:36.869] [ForkJoinPool.commonPool-worker-5/WARN] [SkinRestorer/]: Failed to fetch skin: not found
-[26Jun2025 00:23:36.923] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: SoySamsito[/127.219.227.19:37837] logged in with entity id 4612 at (140.5, 93.0, 96.5)
-[26Jun2025 00:23:36.929] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player SoySamsito
-[26Jun2025 00:23:36.930] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SoySamsito joined the game
-[26Jun2025 00:23:36.980] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 352decb4-99e8-3d8c-aa55-3e2d4f5447b3
-[26Jun2025 00:23:50.751] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=131, y=92, z=88}
-[26Jun2025 00:23:50.823] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=132, y=92, z=87}
-[26Jun2025 00:24:37.046] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: untalRichi has reached the goal [Dinner's Served!]
-[26Jun2025 00:25:02.191] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <untalRichi> MADE IN HEAVEN
-[26Jun2025 00:25:17.423] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SoySamsito has made the advancement [Stone Age]
-[26Jun2025 00:36:31.648] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SoySamsito has made the advancement [Acquire Hardware]
-[26Jun2025 00:37:21.240] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SoySamsito has made the advancement [Suit Up]
-[26Jun2025 00:41:24.944] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SoySamsito fell from a high place
-[26Jun2025 00:41:31.922] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=139, y=95, z=84}
-[26Jun2025 00:41:32.073] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=139, y=95, z=85}
-[26Jun2025 00:41:32.130] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=140, y=95, z=84}
-[26Jun2025 00:41:32.171] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=141, y=95, z=84}
-[26Jun2025 00:41:32.223] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=141, y=95, z=84}
-[26Jun2025 00:41:32.472] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=143, y=95, z=85}
-[26Jun2025 00:41:32.528] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=143, y=95, z=86}
-[26Jun2025 00:41:32.674] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=143, y=95, z=86}
-[26Jun2025 00:41:32.722] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=143, y=95, z=86}
-[26Jun2025 00:41:32.773] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=143, y=95, z=86}
-[26Jun2025 00:41:33.171] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=142, y=95, z=88}
-[26Jun2025 00:41:33.225] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=143, y=95, z=88}
-[26Jun2025 00:41:33.874] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=141, y=95, z=88}
-[26Jun2025 00:41:34.170] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=139, y=95, z=86}
-[26Jun2025 00:41:36.220] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=134, y=95, z=84}
-[26Jun2025 00:41:50.765] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2314, y=63, z=1561} BlockPos{x=142, y=95, z=86}
-[26Jun2025 00:41:54.271] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=136, y=95, z=84}
-[26Jun2025 00:41:54.513] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=134, y=95, z=84}
-[26Jun2025 00:42:01.320] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=142, y=95, z=83}
-[26Jun2025 00:42:01.474] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=141, y=95, z=84}
-[26Jun2025 00:42:01.914] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=142, y=95, z=85}
-[26Jun2025 00:42:06.863] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=130, y=99, z=79}
-[26Jun2025 00:42:07.017] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=130, y=99, z=79}
-[26Jun2025 00:42:07.315] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=129, y=99, z=79}
-[26Jun2025 00:42:13.376] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=130, y=97, z=80}
-[26Jun2025 00:42:13.724] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=130, y=97, z=80}
-[26Jun2025 00:42:13.764] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=130, y=97, z=81}
-[26Jun2025 00:42:51.630] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SoySamsito fell from a high place
-[26Jun2025 00:42:57.867] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=125, y=94, z=91}
-[26Jun2025 00:46:20.944] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: zVqazy[/127.193.211.236:54797] logged in with entity id 16452 at (-2258.699999988079, -42.0, 1540.300000011921)
-[26Jun2025 00:46:20.949] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player zVqazy
-[26Jun2025 00:46:20.950] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zVqazy joined the game
-[26Jun2025 00:46:20.958] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 8aa45e06-55bc-31b5-899e-25bcd6eed7ca
-[26Jun2025 00:46:50.438] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zVqazy> nose XD
-[26Jun2025 00:47:16.772] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zVqazy> dame comida bro
-[26Jun2025 00:52:35.271] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SoySamsito has made the advancement [Diamonds!]
-[26Jun2025 00:52:48.479] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zVqazy> necesitamos comida urgente XD
-[26Jun2025 00:53:48.698] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SoySamsito has made the advancement [Isn't It Iron Pick]
-[26Jun2025 00:54:58.881] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zVqazy> 28
-[26Jun2025 00:55:12.669] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: untalRichi has reached the goal [Plant Food]
-[26Jun2025 00:59:04.422] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SoySamsito fell from a high place
-[26Jun2025 00:59:07.676] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zVqazy> xd
-[26Jun2025 01:00:07.535] [Worker-Main-16/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-2390, y=-10, z=1807}
-[26Jun2025 01:01:05.770] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zVqazy> cuero no
-[26Jun2025 01:01:42.220] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: untalRichi has made the advancement [Frosted Prison]
-[26Jun2025 01:02:05.242] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <untalRichi> ere
-[26Jun2025 01:02:07.388] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <untalRichi> ewe
-[26Jun2025 01:02:09.593] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <untalRichi> donde estan
-[26Jun2025 01:02:21.421] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Armor95> explorando xd
-[26Jun2025 01:02:28.476] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <untalRichi> pasa coords
-[26Jun2025 01:02:40.235] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Armor95> paq .w.
-[26Jun2025 01:02:44.499] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <untalRichi> pa visitar po
-[26Jun2025 01:02:50.099] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Armor95> no hay casa XD
-[26Jun2025 01:02:58.980] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <untalRichi> ya dale ni q fuera el yon pa raidear y joder
-[26Jun2025 01:03:11.627] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Armor95> banca
-[26Jun2025 01:03:13.286] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <untalRichi> pa estar con gente en lo que llega el pol
-[26Jun2025 01:03:15.261] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Armor95> como pasaba las cords?
-[26Jun2025 01:03:16.132] [Worker-Main-26/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-187, y=-46, z=-151}
-[26Jun2025 01:03:16.133] [Worker-Main-26/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-187, y=-46, z=-143}
-[26Jun2025 01:03:16.133] [Worker-Main-26/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-185, y=-46, z=-142}
-[26Jun2025 01:03:16.145] [Worker-Main-26/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-289, y=-57, z=-281}
-[26Jun2025 01:03:16.145] [Worker-Main-26/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-287, y=-56, z=-283}
-[26Jun2025 01:03:16.145] [Worker-Main-26/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-287, y=-57, z=-283}
-[26Jun2025 01:03:19.816] [Worker-Main-26/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-281, y=-50, z=-279}
-[26Jun2025 01:03:19.817] [Worker-Main-26/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-281, y=-57, z=-280}
-[26Jun2025 01:03:19.908] [Worker-Main-17/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-176, y=-50, z=-133}
-[26Jun2025 01:03:19.909] [Worker-Main-17/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-172, y=-50, z=-135}
-[26Jun2025 01:03:19.929] [Worker-Main-17/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-283, y=-56, z=-275}
-[26Jun2025 01:03:30.582] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <untalRichi> bro, literalmente las tenes abajo del minimap
-[26Jun2025 01:03:35.271] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Armor95> a ya
-[26Jun2025 01:03:49.491] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Armor95> -2253, 76, 1428
-[26Jun2025 01:07:01.027] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <untalRichi> la proxima ve que tu me de unas coordenadas falsas te corto las pelotas
-[26Jun2025 01:07:08.673] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Armor95> XDD
-[26Jun2025 01:07:13.471] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Armor95> te paso las reales banca
-[26Jun2025 01:07:17.973] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Armor95> los movimos un poquito poreso
-[26Jun2025 01:07:23.173] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Armor95> estabamos buscando comida
-[26Jun2025 01:07:58.924] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Armor95> -2401, 65, 1111
-[26Jun2025 01:09:38.448] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Armor95> como llegaste tan rapido xd
-[26Jun2025 01:09:42.462] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <untalRichi> llegando
-[26Jun2025 01:09:45.947] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Armor95> chistoso
-[26Jun2025 01:09:47.234] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <untalRichi> caminando
-[26Jun2025 01:09:51.798] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Armor95> uff
-[26Jun2025 01:10:03.531] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <untalRichi> pregunta totalmente por curiosidad
-[26Jun2025 01:10:09.304] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Armor95> diga
-[26Jun2025 01:10:10.979] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <untalRichi> quien aca tiene una tez de piel oscura?
-[26Jun2025 01:10:25.092] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Armor95> comoasi
-[26Jun2025 01:10:28.050] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Armor95> tinte oscura?
-[26Jun2025 01:10:30.826] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <untalRichi> quien es negro pues
-[26Jun2025 01:10:36.784] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Armor95> nadie :v
-[26Jun2025 01:10:41.062] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <untalRichi> ptmr
-[26Jun2025 01:10:43.865] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Armor95> XD
-[26Jun2025 01:10:46.450] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <untalRichi> y ahora q hago con esto
-[26Jun2025 01:10:54.937] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Armor95> diavlo
-[26Jun2025 01:10:59.565] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Armor95> bueno el yisus es peruano xd
-[26Jun2025 01:11:23.012] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SoySamsito has made the advancement [Sweet Dreams]
-[26Jun2025 01:11:53.562] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <untalRichi> eta tu no la tiene
-[26Jun2025 01:11:59.842] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Armor95> V;
-[26Jun2025 01:12:32.216] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Armor95> unite a la call para que nos escuches ricky
-[26Jun2025 01:12:42.127] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <untalRichi> yaba
-[26Jun2025 01:14:44.027] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Armor95> rich configura tu mochila
-[26Jun2025 01:14:55.834] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Armor95> te la puedo abrir xd
-[26Jun2025 01:14:59.116] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <untalRichi> ya
-[26Jun2025 01:15:04.868] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <untalRichi> justo hice eso
-[26Jun2025 01:15:06.938] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Armor95> god
-[26Jun2025 01:15:25.253] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zVqazy> sam esta en los zombies esos
-[26Jun2025 01:17:33.466] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: zVqazy lost connection: Disconnected
-[26Jun2025 01:17:33.467] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zVqazy left the game
-[26Jun2025 01:17:33.468] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 8aa45e06-55bc-31b5-899e-25bcd6eed7ca
-[26Jun2025 01:26:20.964] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2393, y=66, z=1120} BlockPos{x=-2394, y=64, z=1119}
-[26Jun2025 01:26:21.013] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2393, y=66, z=1120} BlockPos{x=-2394, y=64, z=1119}
-[26Jun2025 01:26:31.762] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2380, y=66, z=1099} BlockPos{x=-2381, y=65, z=1102}
-[26Jun2025 01:26:38.012] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2373, y=68, z=1118} BlockPos{x=-2373, y=66, z=1117}
-[26Jun2025 01:26:38.054] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2373, y=68, z=1118} BlockPos{x=-2373, y=66, z=1117}
-[26Jun2025 01:26:46.625] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2354, y=71, z=1145} BlockPos{x=-2355, y=69, z=1144}
-[26Jun2025 01:26:46.675] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2354, y=71, z=1145} BlockPos{x=-2355, y=69, z=1144}
-[26Jun2025 01:26:46.735] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2354, y=71, z=1145} BlockPos{x=-2355, y=69, z=1144}
-[26Jun2025 01:26:46.777] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2354, y=71, z=1145} BlockPos{x=-2355, y=69, z=1144}
-[26Jun2025 01:26:46.827] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2354, y=71, z=1145} BlockPos{x=-2355, y=69, z=1144}
-[26Jun2025 01:26:47.221] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2357, y=71, z=1143} BlockPos{x=-2358, y=69, z=1143}
-[26Jun2025 01:27:04.613] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2406, y=69, z=1149} BlockPos{x=-2405, y=68, z=1151}
-[26Jun2025 01:27:04.663] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2406, y=69, z=1149} BlockPos{x=-2405, y=68, z=1151}
-[26Jun2025 01:27:04.715] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2406, y=69, z=1149} BlockPos{x=-2405, y=68, z=1151}
-[26Jun2025 01:27:16.413] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2369, y=73, z=1148} BlockPos{x=-2370, y=71, z=1148}
-[26Jun2025 01:27:20.476] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2381, y=72, z=1154} BlockPos{x=-2381, y=71, z=1151}
-[26Jun2025 01:27:45.259] [ForkJoinPool.commonPool-worker-16/WARN] [SkinRestorer/]: Failed to fetch skin: no profile with uuid fd165f69-1c92-3675-92e8-2a614fb70b26
-[26Jun2025 01:27:45.277] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: JhonZ93[/127.7.203.159:32855] logged in with entity id 35237 at (88.69999998807907, 58.0, 6.300000011920929)
-[26Jun2025 01:27:45.282] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player JhonZ93
-[26Jun2025 01:27:45.284] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JhonZ93 joined the game
-[26Jun2025 01:27:45.332] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 86639520-359c-3409-9340-a481333ab5f9
-[26Jun2025 01:28:26.225] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <untalRichi> xaero-waypoint:Dungeon!:D:-894:100:1:12:false:0:Internal-overworld-waypoints
-[26Jun2025 01:28:57.018] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Armor95 lost connection: Disconnected
-[26Jun2025 01:28:57.018] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Armor95 left the game
-[26Jun2025 01:28:57.019] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 395abf40-9d0b-34c9-b405-20e74c765288
-[26Jun2025 01:29:13.278] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Armor95[/127.156.201.144:44001] logged in with entity id 35718 at (-2297.669798101834, 67.17675927506424, 1087.1961217679623)
-[26Jun2025 01:29:13.282] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player Armor95
-[26Jun2025 01:29:13.284] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Armor95 joined the game
-[26Jun2025 01:29:13.327] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 395abf40-9d0b-34c9-b405-20e74c765288
-[26Jun2025 01:29:34.639] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JhonZ93 has made the advancement [Enchanter]
-[26Jun2025 01:30:19.128] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: untalRichi moved wrongly!
-[26Jun2025 01:32:03.617] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: untalRichi was slain by Husk
-[26Jun2025 01:32:34.468] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JhonZ93 has made the advancement [Penteconter]
-[26Jun2025 01:33:39.000] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: untalRichi has completed the challenge [Centennial]
-[26Jun2025 01:36:02.972] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SoySamsito has made the advancement ['X' Marks the Spot]
-[26Jun2025 01:36:09.967] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SoySamsito has made the advancement [Barrel Booty]
-[26Jun2025 01:42:33.124] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: zVqazy[/127.193.211.236:53715] logged in with entity id 38813 at (-2394.4661556222704, 65.0, 1099.0002300566443)
-[26Jun2025 01:42:33.128] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player zVqazy
-[26Jun2025 01:42:33.130] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zVqazy joined the game
-[26Jun2025 01:42:33.158] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 8aa45e06-55bc-31b5-899e-25bcd6eed7ca
-[26Jun2025 01:43:22.716] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: zVqazy lost connection: Disconnected
-[26Jun2025 01:43:22.716] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zVqazy left the game
-[26Jun2025 01:43:22.716] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 8aa45e06-55bc-31b5-899e-25bcd6eed7ca
-[26Jun2025 01:44:44.220] [Server thread/INFO] [STDERR/]: [fox.mods.tpa.procedures.SendTpaProcedure$1:getEntity:28]: com.mojang.brigadier.exceptions.CommandSyntaxException: No entity was found
-[26Jun2025 01:44:44.220] [Server thread/INFO] [STDERR/]: [fox.mods.tpa.procedures.SendTpaProcedure$2:getEntity:41]: com.mojang.brigadier.exceptions.CommandSyntaxException: No entity was found
-[26Jun2025 01:44:44.220] [Server thread/ERROR] [net.minecraft.commands.Commands/]: Command exception: /tpa z
-java.lang.NullPointerException: Cannot invoke "net.minecraft.world.entity.Entity.getCapability(net.minecraftforge.common.capabilities.Capability, net.minecraft.core.Direction)" because the return value of "fox.mods.tpa.procedures.SendTpaProcedure$2.getEntity()" is null
-	at fox.mods.tpa.procedures.SendTpaProcedure.execute(SendTpaProcedure.java:45) ~[tpa-1.5.0-forge-1.20.1%20(1).jar%23198!/:?]
-	at fox.mods.tpa.command.TpaCommand.lambda$registerCommand$0(TpaCommand.java:37) ~[tpa-1.5.0-forge-1.20.1%20(1).jar%23198!/:?]
-	at com.mojang.brigadier.CommandDispatcher.execute(CommandDispatcher.java:264) ~[brigadier-1.1.8.jar%2376!/:?]
-	at net.minecraft.commands.Commands.m_242674_(Commands.java:257) ~[server-1.20.1-20230612.114412-srg.jar%23203!/:?]
-	at net.minecraft.server.network.ServerGamePacketListenerImpl.m_246958_(ServerGamePacketListenerImpl.java:1244) ~[server-1.20.1-20230612.114412-srg.jar%23203!/:?]
-	at net.minecraft.server.network.ServerGamePacketListenerImpl.m_244885_(ServerGamePacketListenerImpl.java:1221) ~[server-1.20.1-20230612.114412-srg.jar%23203!/:?]
-	at net.minecraft.util.thread.BlockableEventLoop.m_18693_(BlockableEventLoop.java:67) ~[server-1.20.1-20230612.114412-srg.jar%23203!/:?]
-	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
-	at net.minecraft.server.TickTask.run(TickTask.java:18) ~[server-1.20.1-20230612.114412-srg.jar%23203!/:?]
-	at net.minecraft.util.thread.BlockableEventLoop.m_6367_(BlockableEventLoop.java:156) ~[server-1.20.1-20230612.114412-srg.jar%23203!/:?]
-	at net.minecraft.util.thread.ReentrantBlockableEventLoop.m_6367_(ReentrantBlockableEventLoop.java:23) ~[server-1.20.1-20230612.114412-srg.jar%23203!/:?]
-	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:770) ~[server-1.20.1-20230612.114412-srg.jar%23203!/:?]
-	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:161) ~[server-1.20.1-20230612.114412-srg.jar%23203!/:?]
-	at net.minecraft.util.thread.BlockableEventLoop.m_7245_(BlockableEventLoop.java:130) ~[server-1.20.1-20230612.114412-srg.jar%23203!/:?]
-	at net.minecraft.server.MinecraftServer.m_129961_(MinecraftServer.java:753) ~[server-1.20.1-20230612.114412-srg.jar%23203!/:?]
-	at net.minecraft.server.MinecraftServer.m_7245_(MinecraftServer.java:747) ~[server-1.20.1-20230612.114412-srg.jar%23203!/:?]
-	at net.minecraft.util.thread.BlockableEventLoop.m_18699_(BlockableEventLoop.java:115) ~[server-1.20.1-20230612.114412-srg.jar%23203!/:?]
-	at net.minecraft.server.MinecraftServer.m_130012_(MinecraftServer.java:732) ~[server-1.20.1-20230612.114412-srg.jar%23203!/:?]
-	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:665) ~[server-1.20.1-20230612.114412-srg.jar%23203!/:?]
-	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251) ~[server-1.20.1-20230612.114412-srg.jar%23203!/:?]
-	at java.lang.Thread.run(Thread.java:840) ~[?:?]
-[26Jun2025 01:53:32.263] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JhonZ93 has made the advancement [Sweet Dreams]
-[26Jun2025 01:53:36.713] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: untalRichi lost connection: Disconnected
-[26Jun2025 01:53:36.713] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: untalRichi left the game
-[26Jun2025 01:53:36.713] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 227402b2-21f0-3b68-9bf0-0c80b7cab6b0
-[26Jun2025 01:53:36.762] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
-[26Jun2025 01:54:47.125] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: untalRichi[/127.47.213.142:59009] logged in with entity id 41933 at (-1887.896763952552, 62.07326432466506, 894.9958731497165)
-[26Jun2025 01:54:47.129] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player untalRichi
-[26Jun2025 01:54:47.139] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: untalRichi joined the game
-[26Jun2025 01:54:47.195] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 227402b2-21f0-3b68-9bf0-0c80b7cab6b0
-[26Jun2025 02:00:46.514] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: SoySamsito lost connection: Disconnected
-[26Jun2025 02:00:46.514] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SoySamsito left the game
-[26Jun2025 02:00:46.514] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 352decb4-99e8-3d8c-aa55-3e2d4f5447b3
-[26Jun2025 02:08:06.922] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: untalRichi lost connection: Disconnected
-[26Jun2025 02:08:06.923] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: untalRichi left the game
-[26Jun2025 02:08:06.923] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 227402b2-21f0-3b68-9bf0-0c80b7cab6b0
-[26Jun2025 02:11:07.761] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/44402, l='ServerLevel[world]', x=-1218.83, y=93.00, z=794.51] died, message: 'Villager was slain by Zombie'
-[26Jun2025 02:25:05.527] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JhonZ93 has made the advancement [What a Deal!]
-[26Jun2025 02:30:32.700] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1307, y=74, z=681} BlockPos{x=-1309, y=73, z=679}
-[26Jun2025 02:30:32.750] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1307, y=74, z=681} BlockPos{x=-1309, y=73, z=679}
-[26Jun2025 02:31:11.293] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Armor95 has made the advancement [We Need to Go Deeper]
-[26Jun2025 02:31:11.293] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Armor95 has made the advancement [Incendium]
-[26Jun2025 02:31:13.994] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Armor95 has made the advancement [A Terrible Fortress]
-[26Jun2025 02:31:14.048] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2742ms or 54 ticks behind
-[26Jun2025 02:32:25.967] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Nitwit'/50638, l='ServerLevel[world]', x=-145.30, y=31.04, z=49.39] died, message: 'Nitwit tried to swim in lava to escape Armor95'
-[26Jun2025 02:32:29.232] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JhonZ93 has made the advancement [A Terrible Fortress]
-[26Jun2025 02:35:39.913] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JhonZ93 has made the advancement [Into Fire]
-[26Jun2025 02:37:14.563] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Armor95 has made the advancement [Into Fire]
-[26Jun2025 02:44:07.671] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Armor95 was burnt to a crisp whilst fighting Blaze
-[26Jun2025 02:53:42.400] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1329, y=77, z=674} BlockPos{x=-1328, y=75, z=674}
-[26Jun2025 02:53:42.452] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1329, y=77, z=674} BlockPos{x=-1328, y=75, z=674}
-[26Jun2025 03:02:52.815] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/57734, l='ServerLevel[world]', x=-168.30, y=31.61, z=92.38] died, message: 'Villager tried to swim in lava to escape Zombie'
-[26Jun2025 03:05:56.363] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/54067, l='ServerLevel[world]', x=-1360.32, y=60.28, z=665.43] died, message: 'Villager was slain by Zombie'
-[26Jun2025 03:14:10.176] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Armor95 has made the advancement [The Soul Forge]
-[26Jun2025 03:21:51.936] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Armor95 hit the ground too hard whilst trying to escape Netherite Monstrosity
-[26Jun2025 03:22:10.810] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Armor95 was slain by Netherite Monstrosity
-[26Jun2025 03:22:26.901] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=140, y=94, z=93}
-[26Jun2025 03:22:40.965] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JhonZ93 has made the advancement [Amateur Archaeologist]
+[26Jun2025 03:50:20.149] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 47.3.7, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412, nogui]
+[26Jun2025 03:50:20.153] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 17.0.15 by Ubuntu; OS Linux arch amd64 version 6.8.0-1027-azure
+[26Jun2025 03:50:21.349] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgeserver
+[26Jun2025 03:50:21.401] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/turbo-barnacle/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2365!/ Service=ModLauncher Env=SERVER
+[26Jun2025 03:50:21.702] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/turbo-barnacle/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.20.1-47.3.7/fmlcore-1.20.1-47.3.7.jar is missing mods.toml file
+[26Jun2025 03:50:21.705] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/turbo-barnacle/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.20.1-47.3.7/javafmllanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[26Jun2025 03:50:21.706] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/turbo-barnacle/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.20.1-47.3.7/lowcodelanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[26Jun2025 03:50:21.708] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/turbo-barnacle/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.20.1-47.3.7/mclanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[26Jun2025 03:50:21.992] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 14 dependencies adding them to mods collection
+[26Jun2025 03:50:24.762] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
+[26Jun2025 03:50:24.785] [main/ERROR] [mixin/]: Mixin config azurelib.mixins.json does not specify "minVersion" property
+[26Jun2025 03:50:24.787] [main/ERROR] [mixin/]: Mixin config azurelib.forge.mixins.json does not specify "minVersion" property
+[26Jun2025 03:50:24.873] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments [nogui]
+[26Jun2025 03:50:25.009] [main/INFO] [ModernFix/]: Loaded configuration file for ModernFix 5.23.1+mc1.20.1: 95 options available, 0 override(s) found
+[26Jun2025 03:50:25.010] [main/INFO] [ModernFix/]: Applying Nashorn fix
+[26Jun2025 03:50:25.032] [main/INFO] [ModernFix/]: Applied Forge config corruption patch
+[26Jun2025 03:50:25.205] [main/WARN] [mixin/]: Reference map 'coroutil.refmap.json' for coroutil.mixins.json could not be read. If this is a development environment you can ignore this message
+[26Jun2025 03:50:25.588] [main/INFO] [net.minecraftforge.coremod.CoreMod.placebo/COREMODLOG]: Patching IForgeItemStack#getEnchantmentLevel
+[26Jun2025 03:50:25.599] [main/INFO] [net.minecraftforge.coremod.CoreMod.placebo/COREMODLOG]: Patching IForgeItemStack#getEnchantmentLevel
+[26Jun2025 03:50:26.559] [main/WARN] [mixin/]: Error loading class: com/copycatsplus/copycats/content/copycat/slab/CopycatSlabBlock (java.lang.ClassNotFoundException: com.copycatsplus.copycats.content.copycat.slab.CopycatSlabBlock)
+[26Jun2025 03:50:26.559] [main/WARN] [mixin/]: @Mixin target com.copycatsplus.copycats.content.copycat.slab.CopycatSlabBlock was not found create_connected.mixins.json:compat.CopycatBlockMixin
+[26Jun2025 03:50:26.566] [main/WARN] [mixin/]: Error loading class: com/copycatsplus/copycats/content/copycat/board/CopycatBoardBlock (java.lang.ClassNotFoundException: com.copycatsplus.copycats.content.copycat.board.CopycatBoardBlock)
+[26Jun2025 03:50:26.566] [main/WARN] [mixin/]: @Mixin target com.copycatsplus.copycats.content.copycat.board.CopycatBoardBlock was not found create_connected.mixins.json:compat.CopycatBlockMixin
+[26Jun2025 03:50:26.779] [main/WARN] [mixin/]: Error loading class: me/jellysquid/mods/lithium/common/ai/pathing/PathNodeDefaults (java.lang.ClassNotFoundException: me.jellysquid.mods.lithium.common.ai.pathing.PathNodeDefaults)
+[26Jun2025 03:50:27.349] [main/INFO] [dev.uncandango.alltheleaks.AllTheLeaks/]: Skipping issue ItemStackCreationStatistics from mod jei as it's dev only!
+[26Jun2025 03:50:27.352] [main/INFO] [dev.uncandango.alltheleaks.AllTheLeaks/]: Class dev.uncandango.alltheleaks.leaks.common.mods.travelersbackpack.UntrackedIssue002 will NOT be loaded as mod travelersbackpack is not present
+[26Jun2025 03:50:27.352] [main/INFO] [dev.uncandango.alltheleaks.AllTheLeaks/]: Class dev.uncandango.alltheleaks.leaks.common.mods.travelersbackpack.UntrackedIssue001 will NOT be loaded as mod travelersbackpack is not present
+[26Jun2025 03:50:27.352] [main/INFO] [dev.uncandango.alltheleaks.AllTheLeaks/]: Class dev.uncandango.alltheleaks.leaks.common.mods.toolbelt.UntrackedIssue001 will NOT be loaded as mod toolbelt is not present
+[26Jun2025 03:50:27.352] [main/INFO] [dev.uncandango.alltheleaks.AllTheLeaks/]: Class dev.uncandango.alltheleaks.leaks.common.mods.tfcthermaldeposits.UntrackedIssue001 will NOT be loaded as mod tfcthermaldeposits is not present
+[26Jun2025 03:50:27.353] [main/INFO] [dev.uncandango.alltheleaks.AllTheLeaks/]: Class dev.uncandango.alltheleaks.leaks.common.mods.smallships.UntrackedIssue001 will NOT be loaded as mod smallships is not present
+[26Jun2025 03:50:27.354] [main/INFO] [dev.uncandango.alltheleaks.AllTheLeaks/]: Class dev.uncandango.alltheleaks.leaks.common.mods.sereneseasons.UntrackedIssue001 will NOT be loaded as mod sereneseasons is not present
+[26Jun2025 03:50:27.356] [main/INFO] [dev.uncandango.alltheleaks.AllTheLeaks/]: Class dev.uncandango.alltheleaks.leaks.common.mods.railcraft.UntrackedIssue001 will NOT be loaded as mod railcraft is not present
+[26Jun2025 03:50:27.357] [main/INFO] [dev.uncandango.alltheleaks.AllTheLeaks/]: Class dev.uncandango.alltheleaks.leaks.common.mods.pneumaticcraft.UntrackedIssue001 will NOT be loaded as mod pneumaticcraft is not present
+[26Jun2025 03:50:27.358] [main/INFO] [dev.uncandango.alltheleaks.AllTheLeaks/]: Class dev.uncandango.alltheleaks.leaks.common.mods.phosphophyllite.UntrackedIssue001 will NOT be loaded as mod phosphophyllite is not present
+[26Jun2025 03:50:27.359] [main/INFO] [dev.uncandango.alltheleaks.AllTheLeaks/]: Class dev.uncandango.alltheleaks.leaks.common.mods.occultism.UntrackedIssue001 will NOT be loaded as mod occultism is not present
+[26Jun2025 03:50:27.359] [main/INFO] [dev.uncandango.alltheleaks.AllTheLeaks/]: Class dev.uncandango.alltheleaks.leaks.common.mods.moonlight.UntrackedIssue001 will NOT be loaded as mod moonlight is not present
+[26Jun2025 03:50:27.361] [main/INFO] [dev.uncandango.alltheleaks.AllTheLeaks/]: Class dev.uncandango.alltheleaks.leaks.common.mods.minecraft.UntrackedIssue002 will be loaded as it matches versions: 1.20.1 in 1.20.1
+[26Jun2025 03:50:27.362] [main/INFO] [dev.uncandango.alltheleaks.AllTheLeaks/]: Mixins added to allowed list: [main.EntityTickListMixin]
+[26Jun2025 03:50:27.362] [main/INFO] [dev.uncandango.alltheleaks.AllTheLeaks/]: Class dev.uncandango.alltheleaks.leaks.common.mods.minecraft.UntrackedIssue001 will be loaded as it matches versions: 1.20.1 in 1.20.1
+[26Jun2025 03:50:27.363] [main/INFO] [dev.uncandango.alltheleaks.AllTheLeaks/]: Class dev.uncandango.alltheleaks.leaks.common.mods.irons_spellbooks.UntrackedIssue001 will NOT be loaded as mod irons_spellbooks is not present
+[26Jun2025 03:50:27.364] [main/INFO] [dev.uncandango.alltheleaks.AllTheLeaks/]: Class dev.uncandango.alltheleaks.leaks.common.mods.forge.UntrackedIssue003 will be loaded as it matches versions: 47.3.7 in [47.2,)
+[26Jun2025 03:50:27.364] [main/INFO] [dev.uncandango.alltheleaks.AllTheLeaks/]: Class dev.uncandango.alltheleaks.leaks.common.mods.forge.UntrackedIssue002 will be loaded as it matches versions: 47.3.7 in [47.2,)
+[26Jun2025 03:50:27.365] [main/INFO] [dev.uncandango.alltheleaks.AllTheLeaks/]: Mixins added to allowed list: [accessor.FakePlayerNetHandlerAccessor, accessor.ConnectionAccessor]
+[26Jun2025 03:50:27.366] [main/INFO] [dev.uncandango.alltheleaks.AllTheLeaks/]: Class dev.uncandango.alltheleaks.leaks.common.mods.forge.UntrackedIssue001 will be loaded as it matches versions: 47.3.7 in [47.2,)
+[26Jun2025 03:50:27.366] [main/INFO] [dev.uncandango.alltheleaks.AllTheLeaks/]: Mixins added to allowed list: [main.ServerPlayerMixin, main.PlayerListMixin]
+[26Jun2025 03:50:27.367] [main/INFO] [dev.uncandango.alltheleaks.AllTheLeaks/]: Class dev.uncandango.alltheleaks.leaks.common.mods.forbidden_arcanus.UntrackedIssue001 will NOT be loaded as mod forbidden_arcanus is not present
+[26Jun2025 03:50:27.370] [main/INFO] [dev.uncandango.alltheleaks.AllTheLeaks/]: Class dev.uncandango.alltheleaks.leaks.common.mods.domesticationinnovation.UntrackedIssue001 will NOT be loaded as mod domesticationinnovation is not present
+[26Jun2025 03:50:27.371] [main/INFO] [dev.uncandango.alltheleaks.AllTheLeaks/]: Class dev.uncandango.alltheleaks.leaks.common.mods.curios.UntrackedIssue001 will be loaded as it matches versions: 5.14.1+1.20.1 in [5.9.1,)
+[26Jun2025 03:50:27.371] [main/INFO] [dev.uncandango.alltheleaks.AllTheLeaks/]: Mixins added to allowed list: [main.CuriosEventHandlerMixin]
+[26Jun2025 03:50:27.372] [main/INFO] [dev.uncandango.alltheleaks.AllTheLeaks/]: Class dev.uncandango.alltheleaks.leaks.common.mods.createaddition.UntrackedIssue001 will NOT be loaded as mod createaddition does not match versions: 1.20.1-1.3.1 in [1.20.1-1.0.0b,1.20.1-1.2.3]
+[26Jun2025 03:50:27.373] [main/INFO] [dev.uncandango.alltheleaks.AllTheLeaks/]: Class dev.uncandango.alltheleaks.leaks.common.mods.create.UntrackedIssue001 will be loaded as it matches versions: 6.0.6 in [0.5.1.c,)
+[26Jun2025 03:50:27.374] [main/INFO] [dev.uncandango.alltheleaks.AllTheLeaks/]: Mixins added to allowed list: [accessor.ExtendoGripItemAccessor]
+[26Jun2025 03:50:27.374] [main/INFO] [dev.uncandango.alltheleaks.AllTheLeaks/]: Class dev.uncandango.alltheleaks.leaks.common.mods.citadel.UntrackedIssue001 will NOT be loaded as mod citadel is not present
+[26Jun2025 03:50:27.374] [main/INFO] [dev.uncandango.alltheleaks.AllTheLeaks/]: Class dev.uncandango.alltheleaks.leaks.common.mods.betterf3.UntrackedIssue001 will NOT be loaded as mod betterf3 is not present
+[26Jun2025 03:50:27.376] [main/INFO] [dev.uncandango.alltheleaks.AllTheLeaks/]: Class dev.uncandango.alltheleaks.leaks.common.mods.badpackets.UntrackedIssue001 will NOT be loaded as mod badpackets is not present
+[26Jun2025 03:50:27.377] [main/INFO] [dev.uncandango.alltheleaks.AllTheLeaks/]: Class dev.uncandango.alltheleaks.leaks.common.mods.ars_nouveau.UntrackedIssue002 will NOT be loaded as mod ars_nouveau is not present
+[26Jun2025 03:50:27.377] [main/INFO] [dev.uncandango.alltheleaks.AllTheLeaks/]: Class dev.uncandango.alltheleaks.leaks.common.mods.ars_nouveau.UntrackedIssue001 will NOT be loaded as mod ars_nouveau is not present
+[26Jun2025 03:50:27.379] [main/INFO] [dev.uncandango.alltheleaks.AllTheLeaks/]: Class dev.uncandango.alltheleaks.leaks.common.mods.architectury.UntrackedIssue001 will be loaded as it matches versions: 9.2.14 in [9.0.8,)
+[26Jun2025 03:50:27.380] [main/INFO] [dev.uncandango.alltheleaks.AllTheLeaks/]: Class dev.uncandango.alltheleaks.leaks.common.mods.alexsmobs.Issue2165 will NOT be loaded as mod alexsmobs is not present
+[26Jun2025 03:50:27.381] [main/INFO] [dev.uncandango.alltheleaks.AllTheLeaks/]: Class dev.uncandango.alltheleaks.leaks.common.mods.aether.UntrackedIssue001 will NOT be loaded as mod aether is not present
+[26Jun2025 03:50:27.382] [main/INFO] [dev.uncandango.alltheleaks.AllTheLeaks/]: Class dev.uncandango.alltheleaks.leaks.common.mods.ae2wtlib.UntrackedIssue001 will NOT be loaded as mod ae2wtlib is not present
+[26Jun2025 03:50:27.382] [main/INFO] [dev.uncandango.alltheleaks.AllTheLeaks/]: Skipping issue [untracked] from mod twilightforest as it is client side only!
+[26Jun2025 03:50:27.383] [main/INFO] [dev.uncandango.alltheleaks.AllTheLeaks/]: Skipping issue [untracked] from mod travelersbackpack as it is client side only!
+[26Jun2025 03:50:27.383] [main/INFO] [dev.uncandango.alltheleaks.AllTheLeaks/]: Skipping issue [untracked] from mod tombstone as it is client side only!
+[26Jun2025 03:50:27.383] [main/INFO] [dev.uncandango.alltheleaks.AllTheLeaks/]: Skipping issue [untracked] from mod sereneseasons as it is client side only!
+[26Jun2025 03:50:27.384] [main/INFO] [dev.uncandango.alltheleaks.AllTheLeaks/]: Skipping issue [untracked] from mod pneumaticcraft as it is client side only!
+[26Jun2025 03:50:27.384] [main/INFO] [dev.uncandango.alltheleaks.AllTheLeaks/]: Skipping issue [untracked] from mod nuclearcraft as it is client side only!
+[26Jun2025 03:50:27.384] [main/INFO] [dev.uncandango.alltheleaks.AllTheLeaks/]: Skipping issue [untracked] from mod mowziesmobs as it is client side only!
+[26Jun2025 03:50:27.385] [main/INFO] [dev.uncandango.alltheleaks.AllTheLeaks/]: Skipping issue [untracked] from mod mowziesmobs as it is client side only!
+[26Jun2025 03:50:27.385] [main/INFO] [dev.uncandango.alltheleaks.AllTheLeaks/]: Skipping issue [untracked] from mod mousetweaks as it is client side only!
+[26Jun2025 03:50:27.385] [main/INFO] [dev.uncandango.alltheleaks.AllTheLeaks/]: Skipping issue [untracked] from mod mna as it is client side only!
+[26Jun2025 03:50:27.386] [main/INFO] [dev.uncandango.alltheleaks.AllTheLeaks/]: Skipping issue [untracked] from mod minecraft as it is client side only!
+[26Jun2025 03:50:27.386] [main/INFO] [dev.uncandango.alltheleaks.AllTheLeaks/]: Skipping issue [untracked] from mod minecraft as mod modernfix is present!
+[26Jun2025 03:50:27.387] [main/INFO] [dev.uncandango.alltheleaks.AllTheLeaks/]: Skipping issue [untracked] from mod minecolonies as it is client side only!
+[26Jun2025 03:50:27.388] [main/INFO] [dev.uncandango.alltheleaks.AllTheLeaks/]: Skipping issue [untracked] from mod minecolonies as it is client side only!
+[26Jun2025 03:50:27.388] [main/INFO] [dev.uncandango.alltheleaks.AllTheLeaks/]: Skipping issue [untracked] from mod ldlib as it is client side only!
+[26Jun2025 03:50:27.388] [main/INFO] [dev.uncandango.alltheleaks.AllTheLeaks/]: Skipping issue [untracked] from mod journeymap as it is client side only!
+[26Jun2025 03:50:27.390] [main/INFO] [dev.uncandango.alltheleaks.AllTheLeaks/]: Skipping issue [untracked] from mod jeresources as it is client side only!
+[26Jun2025 03:50:27.390] [main/INFO] [dev.uncandango.alltheleaks.AllTheLeaks/]: Skipping issue [untracked] from mod jei as it is client side only!
+[26Jun2025 03:50:27.391] [main/INFO] [dev.uncandango.alltheleaks.AllTheLeaks/]: Skipping issue [untracked] from mod jei as it is client side only!
+[26Jun2025 03:50:27.391] [main/INFO] [dev.uncandango.alltheleaks.AllTheLeaks/]: Skipping issue [untracked] from mod irons_spellbooks as it is client side only!
+[26Jun2025 03:50:27.392] [main/INFO] [dev.uncandango.alltheleaks.AllTheLeaks/]: Skipping issue [untracked] from mod irons_spellbooks as it is client side only!
+[26Jun2025 03:50:27.393] [main/INFO] [dev.uncandango.alltheleaks.AllTheLeaks/]: Skipping issue [untracked] from mod iceberg as it is client side only!
+[26Jun2025 03:50:27.394] [main/INFO] [dev.uncandango.alltheleaks.AllTheLeaks/]: Skipping issue [untracked] from mod iceberg as it is client side only!
+[26Jun2025 03:50:27.395] [main/INFO] [dev.uncandango.alltheleaks.AllTheLeaks/]: Skipping issue [untracked] from mod iceberg as it is client side only!
+[26Jun2025 03:50:27.395] [main/INFO] [dev.uncandango.alltheleaks.AllTheLeaks/]: Skipping issue [untracked] from mod geckolib as it is client side only!
+[26Jun2025 03:50:27.396] [main/INFO] [dev.uncandango.alltheleaks.AllTheLeaks/]: Skipping issue [untracked] from mod ftblibrary as it is client side only!
+[26Jun2025 03:50:27.397] [main/INFO] [dev.uncandango.alltheleaks.AllTheLeaks/]: Skipping issue [untracked] from mod flywheel as it is client side only!
+[26Jun2025 03:50:27.398] [main/INFO] [dev.uncandango.alltheleaks.AllTheLeaks/]: Skipping issue [untracked] from mod findme as it is client side only!
+[26Jun2025 03:50:27.398] [main/INFO] [dev.uncandango.alltheleaks.AllTheLeaks/]: Skipping issue [untracked] from mod entity_texture_features as it is client side only!
+[26Jun2025 03:50:27.399] [main/INFO] [dev.uncandango.alltheleaks.AllTheLeaks/]: Skipping issue [untracked] from mod entity_model_features as it is client side only!
+[26Jun2025 03:50:27.400] [main/INFO] [dev.uncandango.alltheleaks.AllTheLeaks/]: Skipping issue [untracked] from mod emi_loot as it is client side only!
+[26Jun2025 03:50:27.401] [main/INFO] [dev.uncandango.alltheleaks.AllTheLeaks/]: Skipping issue [untracked] from mod emi as it is client side only!
+[26Jun2025 03:50:27.401] [main/INFO] [dev.uncandango.alltheleaks.AllTheLeaks/]: Skipping issue [untracked] from mod easy_villagers as it is client side only!
+[26Jun2025 03:50:27.402] [main/INFO] [dev.uncandango.alltheleaks.AllTheLeaks/]: Skipping issue [untracked] from mod difficultylock as it is client side only!
+[26Jun2025 03:50:27.403] [main/INFO] [dev.uncandango.alltheleaks.AllTheLeaks/]: Skipping issue [untracked] from mod cyclopscore as it is client side only!
+[26Jun2025 03:50:27.403] [main/INFO] [dev.uncandango.alltheleaks.AllTheLeaks/]: Skipping issue [untracked] from mod corpse as it is client side only!
+[26Jun2025 03:50:27.403] [main/INFO] [dev.uncandango.alltheleaks.AllTheLeaks/]: Skipping issue [untracked] from mod citadel as it is client side only!
+[26Jun2025 03:50:27.403] [main/INFO] [dev.uncandango.alltheleaks.AllTheLeaks/]: Skipping issue [untracked] from mod blue_skies as it is client side only!
+[26Jun2025 03:50:27.404] [main/INFO] [dev.uncandango.alltheleaks.AllTheLeaks/]: Skipping issue [untracked] from mod beansbackpacks as it is client side only!
+[26Jun2025 03:50:27.404] [main/INFO] [dev.uncandango.alltheleaks.AllTheLeaks/]: Skipping issue [untracked] from mod badpackets as it is client side only!
+[26Jun2025 03:50:27.404] [main/INFO] [dev.uncandango.alltheleaks.AllTheLeaks/]: Skipping issue [untracked] from mod ae2wtlib as it is client side only!
+[26Jun2025 03:50:27.405] [main/INFO] [dev.uncandango.alltheleaks.AllTheLeaks/]: Skipping issue [untracked] from mod ae2wtlib as it is client side only!
+[26Jun2025 03:50:27.405] [main/INFO] [dev.uncandango.alltheleaks.AllTheLeaks/]: Class dev.uncandango.alltheleaks.fix.common.mods.modernfix.CancelRLMixin will be loaded as it matches versions: 5.23.1+mc1.20.1 in [5.0.0,)
+[26Jun2025 03:50:27.405] [main/INFO] [dev.uncandango.alltheleaks.AllTheLeaks/]: Mixins added to cancel list: [org.embeddedt.modernfix.common.mixin.perf.deduplicate_location.MixinResourceLocation]
+[26Jun2025 03:50:27.411] [main/INFO] [dev.uncandango.alltheleaks.AllTheLeaks/]: Skipping feature ResourceLocation Deduplication from mod minecraft as it's feature flag is not activated!
+[26Jun2025 03:50:27.412] [main/INFO] [dev.uncandango.alltheleaks.AllTheLeaks/]: Skipping feature Ingredient Deduplication from mod minecraft as it's feature flag is not activated!
+[26Jun2025 03:50:27.412] [main/INFO] [dev.uncandango.alltheleaks.AllTheLeaks/]: Skipping feature Prevent Search Ignored Items from mod jei as it's feature flag is not activated!
+[26Jun2025 03:50:27.625] [main/WARN] [mixin/]: Error loading class: vazkii/quark/addons/oddities/inventory/BackpackMenu (java.lang.ClassNotFoundException: vazkii.quark.addons.oddities.inventory.BackpackMenu)
+[26Jun2025 03:50:27.630] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/gui/screens/inventory/CraftingScreen (java.lang.ClassNotFoundException: net.minecraft.client.gui.screens.inventory.CraftingScreen)
+[26Jun2025 03:50:27.630] [main/WARN] [mixin/]: @Mixin target net.minecraft.client.gui.screens.inventory.CraftingScreen was not found fastbench.mixins.json:MixinCraftingScreen
+[26Jun2025 03:50:27.983] [main/INFO] [MixinExtras|Service/]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
+[26Jun2025 03:50:28.608] [main/INFO] [net.minecraft.server.Bootstrap/]: ModernFix reached bootstrap stage (10.70 s after launch)
+[26Jun2025 03:50:28.759] [main/WARN] [mixin/]: @Final field delegatesByName:Ljava/util/Map; in modernfix-forge.mixins.json:perf.forge_registry_alloc.ForgeRegistryMixin should be final
+[26Jun2025 03:50:28.761] [main/WARN] [mixin/]: @Final field delegatesByValue:Ljava/util/Map; in modernfix-forge.mixins.json:perf.forge_registry_alloc.ForgeRegistryMixin should be final
+[26Jun2025 03:50:30.481] [main/INFO] [net.minecraft.server.Bootstrap/]: Vanilla bootstrap took 1869 milliseconds
+[26Jun2025 03:50:30.835] [main/INFO] [net.minecraftforge.coremod.CoreMod.placebo/COREMODLOG]: Patching IForgeItemStack#getEnchantmentLevel
+[26Jun2025 03:50:30.836] [main/INFO] [net.minecraftforge.coremod.CoreMod.placebo/COREMODLOG]: Patching IForgeItemStack#getEnchantmentLevel
+[26Jun2025 03:50:30.977] [main/INFO] [net.minecraftforge.coremod.CoreMod.placebo/COREMODLOG]: Patching IForgeItemStack#getEnchantmentLevel
+[26Jun2025 03:50:30.977] [main/INFO] [net.minecraftforge.coremod.CoreMod.placebo/COREMODLOG]: Patching IForgeItemStack#getEnchantmentLevel
+[26Jun2025 03:50:32.495] [main/WARN] [mixin/]: Static binding violation: PRIVATE @Overwrite method m_47505_ in modernfix-common.mixins.json:perf.remove_biome_temperature_cache.BiomeMixin cannot reduce visibiliy of PUBLIC target method, visibility will be upgraded.
+[26Jun2025 03:50:32.961] [modloading-worker-0/INFO] [coroutil/]: forge loader environment detected
+[26Jun2025 03:50:33.024] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 47.3.7, for MC 1.20.1 with MCP 20230612.114412
+[26Jun2025 03:50:33.025] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v47.3.7 Initialized
+[26Jun2025 03:50:33.030] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id architectury:sync_ids
+[26Jun2025 03:50:33.031] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/42a7ad70b1cc371599a0eff744096b8a
+[26Jun2025 03:50:33.037] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/74a5e841822a3a87854ae896a33430d6
+[26Jun2025 03:50:33.038] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/eb3d1e2748533430848cadf0f37c7e9c
+[26Jun2025 03:50:33.039] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/91c8520f19f93b3e8b6a727568e194ab
+[26Jun2025 03:50:33.043] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/8c2784d778293fd482ed84b8aa5fedb9
+[26Jun2025 03:50:33.045] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/ea038224ea783d40b2863f52239e2604
+[26Jun2025 03:50:33.048] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/97ad64b7ecaf33209991c4f031501a58
+[26Jun2025 03:50:33.077] [modloading-worker-0/INFO] [azurelib/FileWatching]: Registered azurelib config for auto-sync function
+[26Jun2025 03:50:33.212] [modloading-worker-0/INFO] [necronomicon/]: Necronomicon Initialized
+[26Jun2025 03:50:33.220] [modloading-worker-0/INFO] [necronomicon/]: File exists, reading config for elocindev.necronomicon.NecronomiconConfig.
+[26Jun2025 03:50:33.223] [modloading-worker-0/INFO] [necronomicon/]: Config for elocindev.necronomicon.NecronomiconConfig read successfully.
+[26Jun2025 03:50:33.435] [modloading-worker-0/INFO] [com.simibubi.create.Create/]: Create 6.0.6 initializing! Commit hash: 338bfa0aec952fa51656e8f61bd621ca9b3b2e00
+[26Jun2025 03:50:34.022] [modloading-worker-0/INFO] [thedarkcolour.kotlinforforge.test.KotlinForForge/]: Kotlin For Forge Enabled!
+[26Jun2025 03:50:34.033] [modloading-worker-0/INFO] [noisium/]: Loading Noisium.
+[26Jun2025 03:50:34.165] [modloading-worker-0/INFO] [com.cupboard.Cupboard/]: Loaded config for: cupboard.json
+[26Jun2025 03:50:34.174] [modloading-worker-0/INFO] [be.florens.expandability.ExpandAbility/]: ExpandAbility here, who dis?
+[26Jun2025 03:50:37.597] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry forge:global_loot_modifier_serializers: The object RecordCodec[UnitDecoder[vectorwing.farmersdelight.common.loot.modifier.AddItemModifier$$Lambda$9761/0x0000714f114521f0@4d96c7e3] * Field[conditions: passthrough[flatXmapped]] * Field[item: net.minecraftforge.registries.ForgeRegistry$RegistryCodec@6fe0e4a9] * OptionalFieldCodec[count: Int][xmapped]] has been registered twice for the same name farmersdelight:add_item.
+[26Jun2025 03:50:37.597] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry forge:global_loot_modifier_serializers: The object RecordCodec[UnitDecoder[vectorwing.farmersdelight.common.loot.modifier.ReplaceItemModifier$$Lambda$9766/0x0000714f11452d30@1dbb4d70] * Field[conditions: passthrough[flatXmapped]] * Field[removed_item: net.minecraftforge.registries.ForgeRegistry$RegistryCodec@6fe0e4a9] * Field[added_item: net.minecraftforge.registries.ForgeRegistry$RegistryCodec@6fe0e4a9] * OptionalFieldCodec[count: Int][xmapped]] has been registered twice for the same name farmersdelight:replace_item.
+[26Jun2025 03:50:37.597] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry forge:global_loot_modifier_serializers: The object RecordCodec[UnitDecoder[vectorwing.farmersdelight.common.loot.modifier.AddLootTableModifier$$Lambda$9769/0x0000714f11453400@5429db71] * Field[conditions: passthrough[flatXmapped]] * Field[lootTable: String[comapFlatMapped]]] has been registered twice for the same name farmersdelight:add_loot_table.
+[26Jun2025 03:50:37.598] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry forge:global_loot_modifier_serializers: The object RecordCodec[UnitDecoder[vectorwing.farmersdelight.common.loot.modifier.PastrySlicingModifier$$Lambda$9772/0x0000714f11453ab0@2ffba7c8] * Field[conditions: passthrough[flatXmapped]] * Field[slice: net.minecraftforge.registries.ForgeRegistry$RegistryCodec@6fe0e4a9]] has been registered twice for the same name farmersdelight:pastry_slicing.
+[26Jun2025 03:50:37.959] [Thread-0/INFO] [ModernFix/]: Please use /mfsrc to reload any changed mod config files
+[26Jun2025 03:50:38.067] [modloading-worker-0/INFO] [xaero.pac.OpenPartiesAndClaims/]: Loading Open Parties and Claims!
+[26Jun2025 03:50:38.123] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [hourglass] Starting version check at https://raw.githubusercontent.com/DuckyCrayfish/hourglass/main/res/versions.json
+[26Jun2025 03:50:38.243] [modloading-worker-0/INFO] [com.jaquadro.minecraft.storagedrawers.StorageDrawers/]: New compacting rule 4 clay_ball = 1 clay
+[26Jun2025 03:50:38.246] [modloading-worker-0/INFO] [com.jaquadro.minecraft.storagedrawers.StorageDrawers/]: New compacting rule 4 snowball = 1 snow_block
+[26Jun2025 03:50:38.246] [modloading-worker-0/INFO] [com.jaquadro.minecraft.storagedrawers.StorageDrawers/]: New compacting rule 4 glowstone_dust = 1 glowstone
+[26Jun2025 03:50:38.246] [modloading-worker-0/INFO] [com.jaquadro.minecraft.storagedrawers.StorageDrawers/]: New compacting rule 4 brick = 1 bricks
+[26Jun2025 03:50:38.247] [modloading-worker-0/INFO] [com.jaquadro.minecraft.storagedrawers.StorageDrawers/]: New compacting rule 4 nether_brick = 1 nether_bricks
+[26Jun2025 03:50:38.247] [modloading-worker-0/INFO] [com.jaquadro.minecraft.storagedrawers.StorageDrawers/]: New compacting rule 9 nether_wart = 1 nether_wart_block
+[26Jun2025 03:50:38.247] [modloading-worker-0/INFO] [com.jaquadro.minecraft.storagedrawers.StorageDrawers/]: New compacting rule 4 quartz = 1 quartz_block
+[26Jun2025 03:50:38.247] [modloading-worker-0/INFO] [com.jaquadro.minecraft.storagedrawers.StorageDrawers/]: New compacting rule 9 melon_slice = 1 melon
+[26Jun2025 03:50:38.250] [modloading-worker-0/INFO] [com.jaquadro.minecraft.storagedrawers.StorageDrawers/]: New compacting rule 4 sand = 1 sandstone
+[26Jun2025 03:50:38.250] [modloading-worker-0/INFO] [com.jaquadro.minecraft.storagedrawers.StorageDrawers/]: New compacting rule 4 red_sand = 1 red_sandstone
+[26Jun2025 03:50:38.287] [modloading-worker-0/INFO] [com.jaquadro.minecraft.storagedrawers.StorageDrawers/]: New compacting rule 4 clay_ball = 1 clay
+[26Jun2025 03:50:38.460] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [hourglass] Found status: UP_TO_DATE Current: 1.2.1.1 Target: null
+[26Jun2025 03:50:38.462] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [clumps] Starting version check at https://updates.blamejared.com/get?n=clumps&gv=1.20.1
+[26Jun2025 03:50:38.498] [modloading-worker-0/INFO] [xaero.map.server.WorldMapServer/]: Loading Xaero's World Map - Stage 1/2 (Server)
+[26Jun2025 03:50:38.500] [modloading-worker-0/INFO] [xaero.minimap.XaeroMinimap/]: Loading Xaero's Minimap - Stage 1/2 (Server)
+[26Jun2025 03:50:38.523] [main/INFO] [xaero.map.server.WorldMapServer/]: Loading Xaero's World Map - Stage 2/2 (Server)
+[26Jun2025 03:50:38.524] [main/INFO] [xaero.minimap.XaeroMinimap/]: Loading Xaero's Minimap - Stage 2/2 (Server)
+[26Jun2025 03:50:38.816] [modloading-worker-0/INFO] [STDOUT/]: [com.mrh0.createaddition.CreateAddition:postInit:136]: Create Crafts & Additions Initialized!
+[26Jun2025 03:50:38.844] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [clumps] Found status: BETA Current: 12.0.0.4 Target: 12.0.0.4
+[26Jun2025 03:50:38.844] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
+[26Jun2025 03:50:39.034] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 47.3.7 Target: 47.4.0
+[26Jun2025 03:50:39.034] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [create_connected] Starting version check at https://raw.githubusercontent.com/hlysine/create_connected/main/update.json
+[26Jun2025 03:50:39.048] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [create_connected] Found status: UP_TO_DATE Current: 1.1.7-mc1.20.1 Target: null
+[26Jun2025 03:50:39.418] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[26Jun2025 03:50:39.529] [main/INFO] [ModernFix/]: Bypassed Mojang DFU
+[26Jun2025 03:50:39.835] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/turbo-barnacle/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23203!/assets/.mcassetsroot' uses unexpected schema
+[26Jun2025 03:50:39.835] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/turbo-barnacle/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23203!/data/.mcassetsroot' uses unexpected schema
+[26Jun2025 03:50:39.930] [main/INFO] [com.simibubi.create.Create/]: Created 161 recipes which will be injected into the game
+[26Jun2025 03:50:39.942] [main/INFO] [com.simibubi.create.Create/]: Created 1 tags which will be injected into the game
+[26Jun2025 03:50:42.262] [Worker-Main-1/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag minecraft:impact_projectiles as it is missing following references: cataclysm:ceraunus (from L_Enders_Cataclysm-3.03.jar)
+[26Jun2025 03:50:43.132] [main/WARN] [com.simibubi.create.Create/]: Your custom createaddition:rolling/electrum_ingot recipe (createaddition:rolling/electrum_ingot) specified a duration. Durations have no impact on this type of recipe.
+[26Jun2025 03:50:43.140] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe create_connected:crafting/palettes/copycat_slab_compat as it's serializer returned null
+[26Jun2025 03:50:43.142] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe create_connected:crafting/palettes/copycat_fence_compat as it's serializer returned null
+[26Jun2025 03:50:43.151] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe create_connected:crafting/palettes/copycat_fence_gate_compat as it's serializer returned null
+[26Jun2025 03:50:43.185] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe create_connected:crafting/palettes/copycat_vertical_step_compat as it's serializer returned null
+[26Jun2025 03:50:43.214] [main/WARN] [com.simibubi.create.Create/]: Your custom createaddition:rolling/brass_ingot recipe (createaddition:rolling/brass_ingot) specified a duration. Durations have no impact on this type of recipe.
+[26Jun2025 03:50:43.216] [main/WARN] [com.simibubi.create.Create/]: Your custom createaddition:rolling/electrum_plate recipe (createaddition:rolling/electrum_plate) specified a duration. Durations have no impact on this type of recipe.
+[26Jun2025 03:50:43.216] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe create_connected:crafting/palettes/copycat_wall_compat as it's serializer returned null
+[26Jun2025 03:50:43.218] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe create_connected:crafting/palettes/copycat_block_compat as it's serializer returned null
+[26Jun2025 03:50:43.235] [main/WARN] [com.simibubi.create.Create/]: Your custom createaddition:rolling/iron_ingot recipe (createaddition:rolling/iron_ingot) specified a duration. Durations have no impact on this type of recipe.
+[26Jun2025 03:50:43.246] [main/WARN] [com.simibubi.create.Create/]: Your custom createaddition:rolling/copper_ingot recipe (createaddition:rolling/copper_ingot) specified a duration. Durations have no impact on this type of recipe.
+[26Jun2025 03:50:43.250] [main/WARN] [com.simibubi.create.Create/]: Your custom createaddition:rolling/copper_plate recipe (createaddition:rolling/copper_plate) specified a duration. Durations have no impact on this type of recipe.
+[26Jun2025 03:50:43.252] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe create_connected:crafting/palettes/copycat_beam_compat as it's serializer returned null
+[26Jun2025 03:50:43.255] [main/WARN] [com.simibubi.create.Create/]: Your custom createaddition:rolling/iron_plate recipe (createaddition:rolling/iron_plate) specified a duration. Durations have no impact on this type of recipe.
+[26Jun2025 03:50:43.267] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe create_connected:crafting/palettes/copycat_board_compat as it's serializer returned null
+[26Jun2025 03:50:43.273] [main/WARN] [com.simibubi.create.Create/]: Your custom createaddition:rolling/gold_ingot recipe (createaddition:rolling/gold_ingot) specified a duration. Durations have no impact on this type of recipe.
+[26Jun2025 03:50:43.274] [main/WARN] [com.simibubi.create.Create/]: Your custom createaddition:rolling/straw recipe (createaddition:rolling/straw) specified a duration. Durations have no impact on this type of recipe.
+[26Jun2025 03:50:43.278] [main/WARN] [com.simibubi.create.Create/]: Your custom createaddition:rolling/gold_plate recipe (createaddition:rolling/gold_plate) specified a duration. Durations have no impact on this type of recipe.
+[26Jun2025 03:50:43.281] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe create_connected:crafting/palettes/copycat_stairs_compat as it's serializer returned null
+[26Jun2025 03:50:43.287] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 29 recipes
+[26Jun2025 03:50:43.437] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 2956 advancements
+[26Jun2025 03:50:43.442] [main/INFO] [placebo/]: Registered 0 additional recipes.
+[26Jun2025 03:50:43.448] [main/WARN] [net.minecraftforge.common.loot.LootModifierManager/]: Unable to decode loot conditions
+com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternatives'
+	at net.minecraft.world.level.storage.loot.GsonAdapterFactory$JsonAdapter.deserialize(GsonAdapterFactory.java:99) ~[server-1.20.1-20230612.114412-srg.jar%23203!/:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:76) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.internal.bind.TypeAdapterRuntimeTypeWrapper.read(TypeAdapterRuntimeTypeWrapper.java:40) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.internal.bind.ArrayTypeAdapter.read(ArrayTypeAdapter.java:72) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1214) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1319) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1261) ~[gson-2.10.jar%2372!/:?]
+	at net.minecraftforge.common.loot.IGlobalLootModifier.lambda$static$1(IGlobalLootModifier.java:39) ~[forge-1.20.1-47.3.7-universal.jar%23208!/:?]
+	at com.mojang.serialization.Decoder$1.lambda$decode$1(Decoder.java:49) ~[datafixerupper-6.0.8.jar%2377!/:?]
+	at com.mojang.serialization.DataResult.lambda$flatMap$11(DataResult.java:139) ~[datafixerupper-6.0.8.jar%2377!/:?]
+	at com.mojang.datafixers.util.Either$Left.map(Either.java:38) ~[datafixerupper-6.0.8.jar%2377!/:?]
+	at com.mojang.serialization.DataResult.flatMap(DataResult.java:137) ~[datafixerupper-6.0.8.jar%2377!/:?]
+	at com.mojang.serialization.Decoder$1.decode(Decoder.java:49) ~[datafixerupper-6.0.8.jar%2377!/:?]
+	at com.mojang.serialization.Codec$2.decode(Codec.java:71) ~[datafixerupper-6.0.8.jar%2377!/:?]
+	at com.mojang.serialization.Decoder.parse(Decoder.java:18) ~[datafixerupper-6.0.8.jar%2377!/:?]
+	at com.mojang.serialization.codecs.FieldDecoder.decode(FieldDecoder.java:29) ~[datafixerupper-6.0.8.jar%2377!/:?]
+	at com.mojang.serialization.MapCodec$1.decode(MapCodec.java:34) ~[datafixerupper-6.0.8.jar%2377!/:?]
+	at com.mojang.serialization.codecs.RecordCodecBuilder$Instance$5.decode(RecordCodecBuilder.java:323) ~[datafixerupper-6.0.8.jar%2377!/:?]
+	at com.mojang.serialization.codecs.RecordCodecBuilder$2.decode(RecordCodecBuilder.java:107) ~[datafixerupper-6.0.8.jar%2377!/:?]
+	at com.mojang.serialization.codecs.KeyDispatchCodec.lambda$decode$3(KeyDispatchCodec.java:67) ~[datafixerupper-6.0.8.jar%2377!/:?]
+	at com.mojang.serialization.DataResult.lambda$flatMap$11(DataResult.java:139) ~[datafixerupper-6.0.8.jar%2377!/:?]
+	at com.mojang.datafixers.util.Either$Left.map(Either.java:38) ~[datafixerupper-6.0.8.jar%2377!/:?]
+	at com.mojang.serialization.DataResult.flatMap(DataResult.java:137) ~[datafixerupper-6.0.8.jar%2377!/:?]
+	at com.mojang.serialization.codecs.KeyDispatchCodec.lambda$decode$4(KeyDispatchCodec.java:58) ~[datafixerupper-6.0.8.jar%2377!/:?]
+	at com.mojang.serialization.DataResult.lambda$flatMap$11(DataResult.java:139) ~[datafixerupper-6.0.8.jar%2377!/:?]
+	at com.mojang.datafixers.util.Either$Left.map(Either.java:38) ~[datafixerupper-6.0.8.jar%2377!/:?]
+	at com.mojang.serialization.DataResult.flatMap(DataResult.java:137) ~[datafixerupper-6.0.8.jar%2377!/:?]
+	at com.mojang.serialization.codecs.KeyDispatchCodec.decode(KeyDispatchCodec.java:56) ~[datafixerupper-6.0.8.jar%2377!/:?]
+	at com.mojang.serialization.MapDecoder.lambda$compressedDecode$1(MapDecoder.java:52) ~[datafixerupper-6.0.8.jar%2377!/:?]
+	at com.mojang.serialization.DataResult.lambda$flatMap$11(DataResult.java:139) ~[datafixerupper-6.0.8.jar%2377!/:?]
+	at com.mojang.datafixers.util.Either$Left.map(Either.java:38) ~[datafixerupper-6.0.8.jar%2377!/:?]
+	at com.mojang.serialization.DataResult.flatMap(DataResult.java:137) ~[datafixerupper-6.0.8.jar%2377!/:?]
+	at com.mojang.serialization.MapDecoder.compressedDecode(MapDecoder.java:52) ~[datafixerupper-6.0.8.jar%2377!/:?]
+	at com.mojang.serialization.MapCodec$MapCodecCodec.decode(MapCodec.java:91) ~[datafixerupper-6.0.8.jar%2377!/:?]
+	at com.mojang.serialization.Decoder.parse(Decoder.java:18) ~[datafixerupper-6.0.8.jar%2377!/:?]
+	at net.minecraftforge.common.loot.LootModifierManager.apply(LootModifierManager.java:79) ~[forge-1.20.1-47.3.7-universal.jar%23208!/:?]
+	at net.minecraftforge.common.loot.LootModifierManager.m_5787_(LootModifierManager.java:38) ~[forge-1.20.1-47.3.7-universal.jar%23208!/:?]
+	at net.minecraft.server.packs.resources.SimplePreparableReloadListener.m_10789_(SimplePreparableReloadListener.java:13) ~[server-1.20.1-20230612.114412-srg.jar%23203!/:?]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:718) ~[?:?]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?]
+	at net.minecraft.server.packs.resources.SimpleReloadInstance.m_143940_(SimpleReloadInstance.java:69) ~[server-1.20.1-20230612.114412-srg.jar%23203!/:?]
+	at net.minecraft.Util.m_214652_(Util.java:783) ~[server-1.20.1-20230612.114412-srg.jar%23203!/:?]
+	at net.minecraft.Util.m_214679_(Util.java:772) ~[server-1.20.1-20230612.114412-srg.jar%23203!/:?]
+	at net.minecraft.server.Main.main(Main.java:166) ~[server-1.20.1-20230612.114412-srg.jar%23203!/:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77) ~[?:?]
+	at jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:569) ~[?:?]
+	at net.minecraftforge.fml.loading.targets.CommonLaunchHandler.runTarget(CommonLaunchHandler.java:111) ~[fmlloader-1.20.1-47.3.7.jar%2369!/:?]
+	at net.minecraftforge.fml.loading.targets.CommonLaunchHandler.serverService(CommonLaunchHandler.java:103) ~[fmlloader-1.20.1-47.3.7.jar%2369!/:?]
+	at net.minecraftforge.fml.loading.targets.CommonServerLaunchHandler.lambda$makeService$0(CommonServerLaunchHandler.java:27) ~[fmlloader-1.20.1-47.3.7.jar%2369!/:?]
+	at cpw.mods.modlauncher.LaunchServiceHandlerDecorator.launch(LaunchServiceHandlerDecorator.java:30) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:53) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:71) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.Launcher.run(Launcher.java:108) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.Launcher.main(Launcher.java:78) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
+[26Jun2025 03:50:43.455] [main/WARN] [net.minecraftforge.common.loot.LootModifierManager/]: Could not decode GlobalLootModifier with json id nethersdelight:chopping_leather - error: Unknown type 'minecraft:alternatives'
+[26Jun2025 03:50:43.458] [main/WARN] [net.minecraftforge.common.loot.LootModifierManager/]: Unable to decode loot conditions
+com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
+	at net.minecraft.world.level.storage.loot.GsonAdapterFactory$JsonAdapter.deserialize(GsonAdapterFactory.java:99) ~[server-1.20.1-20230612.114412-srg.jar%23203!/:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:76) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.internal.bind.TypeAdapterRuntimeTypeWrapper.read(TypeAdapterRuntimeTypeWrapper.java:40) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.internal.bind.ArrayTypeAdapter.read(ArrayTypeAdapter.java:72) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1214) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1319) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1261) ~[gson-2.10.jar%2372!/:?]
+	at net.minecraftforge.common.loot.IGlobalLootModifier.lambda$static$1(IGlobalLootModifier.java:39) ~[forge-1.20.1-47.3.7-universal.jar%23208!/:?]
+	at com.mojang.serialization.Decoder$1.lambda$decode$1(Decoder.java:49) ~[datafixerupper-6.0.8.jar%2377!/:?]
+	at com.mojang.serialization.DataResult.lambda$flatMap$11(DataResult.java:139) ~[datafixerupper-6.0.8.jar%2377!/:?]
+	at com.mojang.datafixers.util.Either$Left.map(Either.java:38) ~[datafixerupper-6.0.8.jar%2377!/:?]
+	at com.mojang.serialization.DataResult.flatMap(DataResult.java:137) ~[datafixerupper-6.0.8.jar%2377!/:?]
+	at com.mojang.serialization.Decoder$1.decode(Decoder.java:49) ~[datafixerupper-6.0.8.jar%2377!/:?]
+	at com.mojang.serialization.Codec$2.decode(Codec.java:71) ~[datafixerupper-6.0.8.jar%2377!/:?]
+	at com.mojang.serialization.Decoder.parse(Decoder.java:18) ~[datafixerupper-6.0.8.jar%2377!/:?]
+	at com.mojang.serialization.codecs.FieldDecoder.decode(FieldDecoder.java:29) ~[datafixerupper-6.0.8.jar%2377!/:?]
+	at com.mojang.serialization.MapCodec$1.decode(MapCodec.java:34) ~[datafixerupper-6.0.8.jar%2377!/:?]
+	at com.mojang.serialization.codecs.RecordCodecBuilder$Instance$5.decode(RecordCodecBuilder.java:323) ~[datafixerupper-6.0.8.jar%2377!/:?]
+	at com.mojang.serialization.codecs.RecordCodecBuilder$2.decode(RecordCodecBuilder.java:107) ~[datafixerupper-6.0.8.jar%2377!/:?]
+	at com.mojang.serialization.codecs.KeyDispatchCodec.lambda$decode$3(KeyDispatchCodec.java:67) ~[datafixerupper-6.0.8.jar%2377!/:?]
+	at com.mojang.serialization.DataResult.lambda$flatMap$11(DataResult.java:139) ~[datafixerupper-6.0.8.jar%2377!/:?]
+	at com.mojang.datafixers.util.Either$Left.map(Either.java:38) ~[datafixerupper-6.0.8.jar%2377!/:?]
+	at com.mojang.serialization.DataResult.flatMap(DataResult.java:137) ~[datafixerupper-6.0.8.jar%2377!/:?]
+	at com.mojang.serialization.codecs.KeyDispatchCodec.lambda$decode$4(KeyDispatchCodec.java:58) ~[datafixerupper-6.0.8.jar%2377!/:?]
+	at com.mojang.serialization.DataResult.lambda$flatMap$11(DataResult.java:139) ~[datafixerupper-6.0.8.jar%2377!/:?]
+	at com.mojang.datafixers.util.Either$Left.map(Either.java:38) ~[datafixerupper-6.0.8.jar%2377!/:?]
+	at com.mojang.serialization.DataResult.flatMap(DataResult.java:137) ~[datafixerupper-6.0.8.jar%2377!/:?]
+	at com.mojang.serialization.codecs.KeyDispatchCodec.decode(KeyDispatchCodec.java:56) ~[datafixerupper-6.0.8.jar%2377!/:?]
+	at com.mojang.serialization.MapDecoder.lambda$compressedDecode$1(MapDecoder.java:52) ~[datafixerupper-6.0.8.jar%2377!/:?]
+	at com.mojang.serialization.DataResult.lambda$flatMap$11(DataResult.java:139) ~[datafixerupper-6.0.8.jar%2377!/:?]
+	at com.mojang.datafixers.util.Either$Left.map(Either.java:38) ~[datafixerupper-6.0.8.jar%2377!/:?]
+	at com.mojang.serialization.DataResult.flatMap(DataResult.java:137) ~[datafixerupper-6.0.8.jar%2377!/:?]
+	at com.mojang.serialization.MapDecoder.compressedDecode(MapDecoder.java:52) ~[datafixerupper-6.0.8.jar%2377!/:?]
+	at com.mojang.serialization.MapCodec$MapCodecCodec.decode(MapCodec.java:91) ~[datafixerupper-6.0.8.jar%2377!/:?]
+	at com.mojang.serialization.Decoder.parse(Decoder.java:18) ~[datafixerupper-6.0.8.jar%2377!/:?]
+	at net.minecraftforge.common.loot.LootModifierManager.apply(LootModifierManager.java:79) ~[forge-1.20.1-47.3.7-universal.jar%23208!/:?]
+	at net.minecraftforge.common.loot.LootModifierManager.m_5787_(LootModifierManager.java:38) ~[forge-1.20.1-47.3.7-universal.jar%23208!/:?]
+	at net.minecraft.server.packs.resources.SimplePreparableReloadListener.m_10789_(SimplePreparableReloadListener.java:13) ~[server-1.20.1-20230612.114412-srg.jar%23203!/:?]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:718) ~[?:?]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?]
+	at net.minecraft.server.packs.resources.SimpleReloadInstance.m_143940_(SimpleReloadInstance.java:69) ~[server-1.20.1-20230612.114412-srg.jar%23203!/:?]
+	at net.minecraft.Util.m_214652_(Util.java:783) ~[server-1.20.1-20230612.114412-srg.jar%23203!/:?]
+	at net.minecraft.Util.m_214679_(Util.java:772) ~[server-1.20.1-20230612.114412-srg.jar%23203!/:?]
+	at net.minecraft.server.Main.main(Main.java:166) ~[server-1.20.1-20230612.114412-srg.jar%23203!/:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77) ~[?:?]
+	at jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:569) ~[?:?]
+	at net.minecraftforge.fml.loading.targets.CommonLaunchHandler.runTarget(CommonLaunchHandler.java:111) ~[fmlloader-1.20.1-47.3.7.jar%2369!/:?]
+	at net.minecraftforge.fml.loading.targets.CommonLaunchHandler.serverService(CommonLaunchHandler.java:103) ~[fmlloader-1.20.1-47.3.7.jar%2369!/:?]
+	at net.minecraftforge.fml.loading.targets.CommonServerLaunchHandler.lambda$makeService$0(CommonServerLaunchHandler.java:27) ~[fmlloader-1.20.1-47.3.7.jar%2369!/:?]
+	at cpw.mods.modlauncher.LaunchServiceHandlerDecorator.launch(LaunchServiceHandlerDecorator.java:30) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:53) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:71) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.Launcher.run(Launcher.java:108) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.Launcher.main(Launcher.java:78) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
+[26Jun2025 03:50:43.465] [main/WARN] [net.minecraftforge.common.loot.LootModifierManager/]: Could not decode GlobalLootModifier with json id nethersdelight:chopping_string - error: Unknown type 'minecraft:alternative'
+[26Jun2025 03:50:43.476] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 11 curio slots
+[26Jun2025 03:50:43.479] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 11 curio entities
+[26Jun2025 03:50:43.481] [main/INFO] [placebo/]: Registered 0 gear_sets.
+[26Jun2025 03:50:43.515] [main/WARN] [ModernFix/]: Initial datapack load took 3.537 s
+[26Jun2025 03:50:43.698] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.20.1
+[26Jun2025 03:50:43.698] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
+[26Jun2025 03:50:43.699] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
+[26Jun2025 03:50:43.699] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
+[26Jun2025 03:50:43.780] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
+[26Jun2025 03:50:43.808] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
+[26Jun2025 03:50:43.865] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[26Jun2025 03:50:43.865] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
+[26Jun2025 03:50:43.866] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[26Jun2025 03:50:43.866] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
+[26Jun2025 03:50:43.963] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Initializing Open Parties and Claims for the server...
+[26Jun2025 03:50:43.975] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Loading server info!
+[26Jun2025 03:50:44.032] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Loading player configs...
+[26Jun2025 03:50:44.105] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Loaded player configs!
+[26Jun2025 03:50:44.106] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Loading parties...
+[26Jun2025 03:50:44.107] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Loaded parties!
+[26Jun2025 03:50:44.107] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Fixing party inconsistencies...
+[26Jun2025 03:50:44.151] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Registered party system for OPAC: default
+[26Jun2025 03:50:44.152] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Registered permission system for OPAC: permission_api
+[26Jun2025 03:50:44.152] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
+[26Jun2025 03:50:44.589] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
+[26Jun2025 03:50:45.890] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[26Jun2025 03:50:45.892] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[26Jun2025 03:50:45.893] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[26Jun2025 03:50:46.095] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[26Jun2025 03:50:46.580] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 1986 ms
+[26Jun2025 03:50:46.581] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (2.696s)! For help, type "help"
+[26Jun2025 03:50:46.619] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
+[26Jun2025 03:50:46.645] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Loading claims...
+[26Jun2025 03:50:46.652] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Loaded claims in 7ms
+[26Jun2025 03:50:46.652] [Server thread/WARN] [xaero.pac.OpenPartiesAndClaims/]: The configured permission system "prometheus" isn't registered!
+[26Jun2025 03:50:46.653] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Configured OPAC to use the following permission system: permission_api
+[26Jun2025 03:50:46.653] [Server thread/WARN] [xaero.pac.OpenPartiesAndClaims/]: The configured primary party system "argonauts_guilds" isn't registered!
+[26Jun2025 03:50:46.653] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Configured OPAC to use the following party system as primary: default
+[26Jun2025 03:50:46.655] [Server thread/INFO] [com.cupboard.Cupboard/]: Loaded config for: smoothchunk.json
+[26Jun2025 03:50:46.661] [Server thread/WARN] [ModernFix/]: Dedicated server took 28.749 seconds to load
