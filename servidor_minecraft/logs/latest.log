@@ -222,3 +222,6 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.world.entity.Entity
 [26Jun2025 02:31:14.048] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2742ms or 54 ticks behind
 [26Jun2025 02:32:25.967] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Nitwit'/50638, l='ServerLevel[world]', x=-145.30, y=31.04, z=49.39] died, message: 'Nitwit tried to swim in lava to escape Armor95'
 [26Jun2025 02:32:29.232] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JhonZ93 has made the advancement [A Terrible Fortress]
+[26Jun2025 02:35:39.913] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JhonZ93 has made the advancement [Into Fire]
+[26Jun2025 02:37:14.563] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Armor95 has made the advancement [Into Fire]
+[26Jun2025 02:44:07.671] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Armor95 was burnt to a crisp whilst fighting Blaze
