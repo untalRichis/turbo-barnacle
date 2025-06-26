@@ -2,3 +2,9 @@
 [26Jun2025 00:01:43.372] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player untalRichi
 [26Jun2025 00:01:43.425] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: untalRichi joined the game
 [26Jun2025 00:01:43.488] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 227402b2-21f0-3b68-9bf0-0c80b7cab6b0
+[26Jun2025 00:17:20.841] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Armor95[/127.2.247.189:53157] logged in with entity id 2260 at (-2212.6607216912403, -4.0, 1569.4863155252444)
+[26Jun2025 00:17:20.849] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player Armor95
+[26Jun2025 00:17:20.853] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Armor95 joined the game
+[26Jun2025 00:17:20.862] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 395abf40-9d0b-34c9-b405-20e74c765288
+[26Jun2025 00:19:53.497] [Server thread/INFO] [fastsuite/]: Constructed recipe list for minecraft:smelting in 374.2 μs. 102/102 recipes are parallelized.
+[26Jun2025 00:20:58.920] [Server thread/INFO] [fastsuite/]: Constructed recipe list for minecraft:crafting in 1.735 ms. 1969/2005 recipes are parallelized.
