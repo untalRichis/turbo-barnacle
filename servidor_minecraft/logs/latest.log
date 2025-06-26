@@ -8,3 +8,13 @@
 [26Jun2025 00:17:20.862] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 395abf40-9d0b-34c9-b405-20e74c765288
 [26Jun2025 00:19:53.497] [Server thread/INFO] [fastsuite/]: Constructed recipe list for minecraft:smelting in 374.2 μs. 102/102 recipes are parallelized.
 [26Jun2025 00:20:58.920] [Server thread/INFO] [fastsuite/]: Constructed recipe list for minecraft:crafting in 1.735 ms. 1969/2005 recipes are parallelized.
+[26Jun2025 00:23:36.869] [ForkJoinPool.commonPool-worker-5/WARN] [SkinRestorer/]: Failed to fetch skin: not found
+[26Jun2025 00:23:36.923] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: SoySamsito[/127.219.227.19:37837] logged in with entity id 4612 at (140.5, 93.0, 96.5)
+[26Jun2025 00:23:36.929] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player SoySamsito
+[26Jun2025 00:23:36.930] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SoySamsito joined the game
+[26Jun2025 00:23:36.980] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 352decb4-99e8-3d8c-aa55-3e2d4f5447b3
+[26Jun2025 00:23:50.751] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=131, y=92, z=88}
+[26Jun2025 00:23:50.823] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=132, y=92, z=87}
+[26Jun2025 00:24:37.046] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: untalRichi has reached the goal [Dinner's Served!]
+[26Jun2025 00:25:02.191] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <untalRichi> MADE IN HEAVEN
+[26Jun2025 00:25:17.423] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SoySamsito has made the advancement [Stone Age]
