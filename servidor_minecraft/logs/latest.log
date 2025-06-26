@@ -396,3 +396,21 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [26Jun2025 19:38:11.424] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: BoyfriendArg2004 moved too quickly! -10.119196971564179,0.8322033533667508,-1.6919750544824979
 [26Jun2025 19:38:30.485] [Worker-Main-46/INFO] [ModernFix/]: Instantiating Mojang DFU
 [26Jun2025 19:46:37.324] [Server thread/INFO] [fastsuite/]: Constructed recipe list for minecraft:crafting in 2.033 ms. 1969/2005 recipes are parallelized.
+[26Jun2025 20:01:51.574] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BoyfriendArg2004 has made the advancement [Ol' Betsy]
+[26Jun2025 20:02:53.072] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: BoyfriendArg2004 lost connection: Disconnected
+[26Jun2025 20:02:53.072] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BoyfriendArg2004 left the game
+[26Jun2025 20:02:53.072] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for b04a954b-9004-378a-a27a-430b2bbdb8a4
+[26Jun2025 20:03:10.514] [ForkJoinPool.commonPool-worker-7/WARN] [SkinRestorer/]: Failed to fetch skin: not found
+[26Jun2025 20:03:10.576] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: BoyfriendArg2004[/127.68.100.184:33901] logged in with entity id 10140 at (-2116.74674748596, 91.5, 687.1935612024533)
+[26Jun2025 20:03:10.581] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player BoyfriendArg2004
+[26Jun2025 20:03:10.582] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BoyfriendArg2004 joined the game
+[26Jun2025 20:03:10.592] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for b04a954b-9004-378a-a27a-430b2bbdb8a4
+[26Jun2025 20:03:13.672] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: BoyfriendArg2004 lost connection: Disconnected
+[26Jun2025 20:03:13.672] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BoyfriendArg2004 left the game
+[26Jun2025 20:03:13.672] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for b04a954b-9004-378a-a27a-430b2bbdb8a4
+[26Jun2025 20:03:23.906] [ForkJoinPool.commonPool-worker-7/WARN] [SkinRestorer/]: Failed to fetch skin: not found
+[26Jun2025 20:03:23.925] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: BoyfriendArg2004[/127.68.100.184:57937] logged in with entity id 10374 at (-2116.74674748596, 91.5, 687.1935612024533)
+[26Jun2025 20:03:23.930] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player BoyfriendArg2004
+[26Jun2025 20:03:23.932] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BoyfriendArg2004 joined the game
+[26Jun2025 20:03:23.942] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for b04a954b-9004-378a-a27a-430b2bbdb8a4
+[26Jun2025 20:03:27.173] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BoyfriendArg2004 was slain by Husk
