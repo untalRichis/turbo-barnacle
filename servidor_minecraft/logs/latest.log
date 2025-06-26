@@ -172,3 +172,33 @@
 [26Jun2025 01:43:22.716] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: zVqazy lost connection: Disconnected
 [26Jun2025 01:43:22.716] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zVqazy left the game
 [26Jun2025 01:43:22.716] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 8aa45e06-55bc-31b5-899e-25bcd6eed7ca
+[26Jun2025 01:44:44.220] [Server thread/INFO] [STDERR/]: [fox.mods.tpa.procedures.SendTpaProcedure$1:getEntity:28]: com.mojang.brigadier.exceptions.CommandSyntaxException: No entity was found
+[26Jun2025 01:44:44.220] [Server thread/INFO] [STDERR/]: [fox.mods.tpa.procedures.SendTpaProcedure$2:getEntity:41]: com.mojang.brigadier.exceptions.CommandSyntaxException: No entity was found
+[26Jun2025 01:44:44.220] [Server thread/ERROR] [net.minecraft.commands.Commands/]: Command exception: /tpa z
+java.lang.NullPointerException: Cannot invoke "net.minecraft.world.entity.Entity.getCapability(net.minecraftforge.common.capabilities.Capability, net.minecraft.core.Direction)" because the return value of "fox.mods.tpa.procedures.SendTpaProcedure$2.getEntity()" is null
+	at fox.mods.tpa.procedures.SendTpaProcedure.execute(SendTpaProcedure.java:45) ~[tpa-1.5.0-forge-1.20.1%20(1).jar%23198!/:?]
+	at fox.mods.tpa.command.TpaCommand.lambda$registerCommand$0(TpaCommand.java:37) ~[tpa-1.5.0-forge-1.20.1%20(1).jar%23198!/:?]
+	at com.mojang.brigadier.CommandDispatcher.execute(CommandDispatcher.java:264) ~[brigadier-1.1.8.jar%2376!/:?]
+	at net.minecraft.commands.Commands.m_242674_(Commands.java:257) ~[server-1.20.1-20230612.114412-srg.jar%23203!/:?]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.m_246958_(ServerGamePacketListenerImpl.java:1244) ~[server-1.20.1-20230612.114412-srg.jar%23203!/:?]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.m_244885_(ServerGamePacketListenerImpl.java:1221) ~[server-1.20.1-20230612.114412-srg.jar%23203!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_18693_(BlockableEventLoop.java:67) ~[server-1.20.1-20230612.114412-srg.jar%23203!/:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
+	at net.minecraft.server.TickTask.run(TickTask.java:18) ~[server-1.20.1-20230612.114412-srg.jar%23203!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_6367_(BlockableEventLoop.java:156) ~[server-1.20.1-20230612.114412-srg.jar%23203!/:?]
+	at net.minecraft.util.thread.ReentrantBlockableEventLoop.m_6367_(ReentrantBlockableEventLoop.java:23) ~[server-1.20.1-20230612.114412-srg.jar%23203!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:770) ~[server-1.20.1-20230612.114412-srg.jar%23203!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:161) ~[server-1.20.1-20230612.114412-srg.jar%23203!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_7245_(BlockableEventLoop.java:130) ~[server-1.20.1-20230612.114412-srg.jar%23203!/:?]
+	at net.minecraft.server.MinecraftServer.m_129961_(MinecraftServer.java:753) ~[server-1.20.1-20230612.114412-srg.jar%23203!/:?]
+	at net.minecraft.server.MinecraftServer.m_7245_(MinecraftServer.java:747) ~[server-1.20.1-20230612.114412-srg.jar%23203!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_18699_(BlockableEventLoop.java:115) ~[server-1.20.1-20230612.114412-srg.jar%23203!/:?]
+	at net.minecraft.server.MinecraftServer.m_130012_(MinecraftServer.java:732) ~[server-1.20.1-20230612.114412-srg.jar%23203!/:?]
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:665) ~[server-1.20.1-20230612.114412-srg.jar%23203!/:?]
+	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251) ~[server-1.20.1-20230612.114412-srg.jar%23203!/:?]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+[26Jun2025 01:53:32.263] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JhonZ93 has made the advancement [Sweet Dreams]
+[26Jun2025 01:53:36.713] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: untalRichi lost connection: Disconnected
+[26Jun2025 01:53:36.713] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: untalRichi left the game
+[26Jun2025 01:53:36.713] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 227402b2-21f0-3b68-9bf0-0c80b7cab6b0
+[26Jun2025 01:53:36.762] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
