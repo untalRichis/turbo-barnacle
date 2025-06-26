@@ -228,3 +228,5 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.world.entity.Entity
 [26Jun2025 02:53:42.400] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1329, y=77, z=674} BlockPos{x=-1328, y=75, z=674}
 [26Jun2025 02:53:42.452] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1329, y=77, z=674} BlockPos{x=-1328, y=75, z=674}
 [26Jun2025 03:02:52.815] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/57734, l='ServerLevel[world]', x=-168.30, y=31.61, z=92.38] died, message: 'Villager tried to swim in lava to escape Zombie'
+[26Jun2025 03:05:56.363] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/54067, l='ServerLevel[world]', x=-1360.32, y=60.28, z=665.43] died, message: 'Villager was slain by Zombie'
+[26Jun2025 03:14:10.176] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Armor95 has made the advancement [The Soul Forge]
