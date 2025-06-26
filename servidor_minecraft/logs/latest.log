@@ -395,3 +395,4 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [26Jun2025 19:37:14.019] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BoyfriendArg2004 has made the advancement [The Parrots and the Bats]
 [26Jun2025 19:38:11.424] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: BoyfriendArg2004 moved too quickly! -10.119196971564179,0.8322033533667508,-1.6919750544824979
 [26Jun2025 19:38:30.485] [Worker-Main-46/INFO] [ModernFix/]: Instantiating Mojang DFU
+[26Jun2025 19:46:37.324] [Server thread/INFO] [fastsuite/]: Constructed recipe list for minecraft:crafting in 2.033 ms. 1969/2005 recipes are parallelized.

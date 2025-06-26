@@ -618,6 +618,7 @@
     "criteria": {
       "cooked_mutton": "2025-06-25 01:19:45 +0000",
       "sweet_berries": "2025-06-25 14:07:49 +0000",
+      "cooked_beef": "2025-06-26 19:37:43 +0000",
       "baked_potato": "2025-06-25 14:58:08 +0000",
       "cooked_cod": "2025-06-25 01:52:31 +0000",
       "pumpkin_pie": "2025-06-25 00:17:01 +0000",
@@ -4789,9 +4790,21 @@
     },
     "done": true
   },
+  "minecraft:husbandry/breed_an_animal": {
+    "criteria": {
+      "bred": "2025-06-26 19:37:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:husbandry/complete_catalogue": {
     "criteria": {
       "minecraft:siamese": "2025-06-26 19:33:42 +0000"
+    },
+    "done": false
+  },
+  "minecraft:husbandry/bred_all_animals": {
+    "criteria": {
+      "minecraft:wolf": "2025-06-26 19:37:14 +0000"
     },
     "done": false
   },
