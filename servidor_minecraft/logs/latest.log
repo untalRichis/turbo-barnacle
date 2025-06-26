@@ -378,3 +378,11 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [26Jun2025 19:16:55.224] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: untalRichi lost connection: Disconnected
 [26Jun2025 19:16:55.225] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: untalRichi left the game
 [26Jun2025 19:16:55.225] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 227402b2-21f0-3b68-9bf0-0c80b7cab6b0
+[26Jun2025 19:20:18.744] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: untalRichi[/127.47.213.142:55273] logged in with entity id 534 at (-1601.300000011921, 97.0, 674.2038635148369)
+[26Jun2025 19:20:18.751] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player untalRichi
+[26Jun2025 19:20:18.765] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: untalRichi joined the game
+[26Jun2025 19:20:18.779] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 227402b2-21f0-3b68-9bf0-0c80b7cab6b0
+[26Jun2025 19:25:52.179] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-1241, y=-41, z=74}
+[26Jun2025 19:27:25.021] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: untalRichi lost connection: Disconnected
+[26Jun2025 19:27:25.021] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: untalRichi left the game
+[26Jun2025 19:27:25.022] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 227402b2-21f0-3b68-9bf0-0c80b7cab6b0
