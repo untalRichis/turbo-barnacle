@@ -5,6 +5,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/fried_egg_from_smoking": {
+    "criteria": {
+      "fried_egg": "2025-06-26 00:48:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_deepslate": {
     "criteria": {
       "has_cobbled_deepslate": "2025-06-26 00:25:17 +0000"
@@ -20,6 +26,12 @@
   "minecraft:recipes/decorations/ladder": {
     "criteria": {
       "has_stick": "2025-06-26 00:33:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cake": {
+    "criteria": {
+      "has_egg": "2025-06-26 00:48:13 +0000"
     },
     "done": true
   },
@@ -59,6 +71,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_chicken_from_campfire_cooking": {
+    "criteria": {
+      "has_chicken": "2025-06-26 00:47:05 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/iron_nugget_from_smelting": {
     "criteria": {
       "has_iron_helmet": "2025-06-26 00:37:21 +0000"
@@ -68,6 +86,12 @@
   "create:recipes/misc/crafting/kinetics/steam_whistle": {
     "criteria": {
       "has_item": "2025-06-26 00:35:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_blackstone_brick_wall_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-06-26 00:50:36 +0000"
     },
     "done": true
   },
@@ -104,6 +128,12 @@
   "create:recipes/misc/crafting/appliances/copper_backtank": {
     "criteria": {
       "has_item": "2025-06-26 00:35:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken": {
+    "criteria": {
+      "has_chicken": "2025-06-26 00:47:05 +0000"
     },
     "done": true
   },
@@ -233,9 +263,33 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/noodle_soup": {
+    "criteria": {
+      "has_any_ingredient": "2025-06-26 00:45:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/arrow": {
+    "criteria": {
+      "has_feather": "2025-06-26 00:47:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blackstone_wall": {
+    "criteria": {
+      "has_blackstone": "2025-06-26 00:50:36 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_salmon": {
     "criteria": {
       "has_salmon": "2025-06-26 00:40:09 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/chicken_soup": {
+    "criteria": {
+      "has_any_ingredient": "2025-06-26 00:47:05 +0000"
     },
     "done": true
   },
@@ -260,6 +314,12 @@
   "nethersdelight:recipes/decorations/blackstone_blast_furnace": {
     "criteria": {
       "has_iron": "2025-06-26 00:36:31 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/fried_egg_from_campfire_cooking": {
+    "criteria": {
+      "fried_egg": "2025-06-26 00:48:13 +0000"
     },
     "done": true
   },
@@ -395,6 +455,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-06-26 00:50:36 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/chain": {
     "criteria": {
       "has_iron_ingot": "2025-06-26 00:36:31 +0000"
@@ -407,9 +473,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_blackstone_bricks_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-06-26 00:50:36 +0000"
+    },
+    "done": true
+  },
   "storagedrawers:recipes/storagedrawers/remote_upgrade": {
     "criteria": {
       "has_template": "2025-06-26 00:25:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop_from_campfire_cooking": {
+    "criteria": {
+      "has_porkchop": "2025-06-26 00:45:48 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/pumpkin_soup": {
+    "criteria": {
+      "has_any_ingredient": "2025-06-26 00:45:48 +0000"
     },
     "done": true
   },
@@ -452,6 +536,12 @@
   "storagedrawers:recipes/storagedrawers/birch_drawers": {
     "criteria": {
       "has_chest": "2025-06-26 00:28:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bone_meal": {
+    "criteria": {
+      "has_bone": "2025-06-26 00:51:47 +0000"
     },
     "done": true
   },
@@ -515,6 +605,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/baked_cod_stew": {
+    "criteria": {
+      "has_any_ingredient": "2025-06-26 00:48:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/candle": {
     "criteria": {
       "has_string": "2025-06-26 00:29:19 +0000"
@@ -548,6 +644,12 @@
   "storagedrawers:recipes/storagedrawers/bamboo_trim": {
     "criteria": {
       "has_planks": "2025-06-26 00:25:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_stairs_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-06-26 00:50:36 +0000"
     },
     "done": true
   },
@@ -641,9 +743,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/polished_blackstone_wall_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-06-26 00:50:36 +0000"
+    },
+    "done": true
+  },
   "storagedrawers:recipes/storagedrawers/acacia_trim": {
     "criteria": {
       "has_planks": "2025-06-26 00:25:17 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/fried_rice": {
+    "criteria": {
+      "has_any_ingredient": "2025-06-26 00:48:13 +0000"
     },
     "done": true
   },
@@ -662,6 +776,12 @@
   "create:recipes/misc/crafting/kinetics/fluid_pipe_vertical": {
     "criteria": {
       "has_item": "2025-06-26 00:35:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_polished_blackstone_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-06-26 00:50:36 +0000"
     },
     "done": true
   },
@@ -821,6 +941,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_porkchop": {
+    "criteria": {
+      "has_porkchop": "2025-06-26 00:45:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/raw_copper_block": {
     "criteria": {
       "has_raw_copper": "2025-06-26 00:31:48 +0000"
@@ -839,6 +965,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/blackstone_stairs": {
+    "criteria": {
+      "has_blackstone": "2025-06-26 00:50:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blackstone_slab_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-06-26 00:50:36 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/appliances/copper_diving_boots": {
     "criteria": {
       "has_item": "2025-06-26 00:35:05 +0000"
@@ -854,6 +992,12 @@
   "minecraft:recipes/combat/iron_boots": {
     "criteria": {
       "has_iron_ingot": "2025-06-26 00:36:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_slab_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-06-26 00:50:36 +0000"
     },
     "done": true
   },
@@ -947,6 +1091,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_chicken_from_smoking": {
+    "criteria": {
+      "has_chicken": "2025-06-26 00:47:05 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/charcoal": {
     "criteria": {
       "has_log": "2025-06-26 00:32:52 +0000"
@@ -968,6 +1118,12 @@
   "minecraft:recipes/tools/iron_shovel": {
     "criteria": {
       "has_iron_ingot": "2025-06-26 00:36:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone": {
+    "criteria": {
+      "has_blackstone": "2025-06-26 00:50:36 +0000"
     },
     "done": true
   },
@@ -995,6 +1151,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/bone_broth": {
+    "criteria": {
+      "has_bone": "2025-06-26 00:51:47 +0000"
+    },
+    "done": true
+  },
   "storagedrawers:recipes/storagedrawers/quantify_key": {
     "criteria": {
       "has_template": "2025-06-26 00:25:17 +0000"
@@ -1013,6 +1175,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/blackstone_slab": {
+    "criteria": {
+      "has_blackstone": "2025-06-26 00:50:36 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/copper_valve_handle": {
     "criteria": {
       "has_item": "2025-06-26 00:35:05 +0000"
@@ -1028,6 +1196,12 @@
   "storagedrawers:recipes/storagedrawers/drawer_key": {
     "criteria": {
       "has_template": "2025-06-26 00:25:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_slab_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-06-26 00:50:36 +0000"
     },
     "done": true
   },
@@ -1079,6 +1253,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_blackstone_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-06-26 00:50:36 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/hose_pulley": {
     "criteria": {
       "has_item": "2025-06-26 00:35:05 +0000"
@@ -1127,6 +1307,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_something": "2025-06-26 00:45:47 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/white_wool_from_string": {
     "criteria": {
       "has_string": "2025-06-26 00:29:19 +0000"
@@ -1157,6 +1343,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/blackstone_wall_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-06-26 00:50:36 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/wooden_sword": {
     "criteria": {
       "has_stick": "2025-06-26 00:33:07 +0000"
@@ -1172,6 +1364,12 @@
   "minecraft:recipes/combat/crossbow": {
     "criteria": {
       "has_string": "2025-06-26 00:29:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop_from_smoking": {
+    "criteria": {
+      "has_porkchop": "2025-06-26 00:45:48 +0000"
     },
     "done": true
   },
@@ -1196,14 +1394,24 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:frozen_river": "2025-06-26 00:27:45 +0000",
+      "minecraft:savanna_plateau": "2025-06-26 00:45:57 +0000",
+      "minecraft:stony_peaks": "2025-06-26 00:46:35 +0000",
+      "minecraft:river": "2025-06-26 00:43:20 +0000",
       "minecraft:snowy_plains": "2025-06-26 00:24:26 +0000",
-      "minecraft:snowy_taiga": "2025-06-26 00:32:43 +0000"
+      "minecraft:snowy_taiga": "2025-06-26 00:32:43 +0000",
+      "minecraft:jungle": "2025-06-26 00:43:25 +0000"
     },
     "done": false
   },
   "minecraft:recipes/decorations/barrel": {
     "criteria": {
       "has_planks": "2025-06-26 00:33:15 +0000"
+    },
+    "done": true
+  },
+  "nethersdelight:recipes/decorations/blackstone_furnace": {
+    "criteria": {
+      "has_blackstone": "2025-06-26 00:50:36 +0000"
     },
     "done": true
   },
@@ -1251,6 +1459,8 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "chicken": "2025-06-26 00:47:16 +0000",
+      "porkchop": "2025-06-26 00:45:52 +0000",
       "salmon": "2025-06-26 00:40:14 +0000"
     },
     "done": false
@@ -1345,6 +1555,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/blackstone_stairs_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-06-26 00:50:36 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/jungle_boat": {
     "criteria": {
       "in_water": "2025-06-26 00:25:11 +0000"
@@ -1372,6 +1588,12 @@
   "sophisticatedbackpacks:recipes/misc/iron_backpack": {
     "criteria": {
       "has_backpack": "2025-06-26 00:30:19 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/fried_egg": {
+    "criteria": {
+      "fried_egg": "2025-06-26 00:48:13 +0000"
     },
     "done": true
   },

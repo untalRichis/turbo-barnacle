@@ -48,3 +48,13 @@
 [26Jun2025 00:42:13.376] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=130, y=97, z=80}
 [26Jun2025 00:42:13.724] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=130, y=97, z=80}
 [26Jun2025 00:42:13.764] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=130, y=97, z=81}
+[26Jun2025 00:42:51.630] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SoySamsito fell from a high place
+[26Jun2025 00:42:57.867] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=125, y=94, z=91}
+[26Jun2025 00:46:20.944] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: zVqazy[/127.193.211.236:54797] logged in with entity id 16452 at (-2258.699999988079, -42.0, 1540.300000011921)
+[26Jun2025 00:46:20.949] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player zVqazy
+[26Jun2025 00:46:20.950] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zVqazy joined the game
+[26Jun2025 00:46:20.958] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 8aa45e06-55bc-31b5-899e-25bcd6eed7ca
+[26Jun2025 00:46:50.438] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zVqazy> nose XD
+[26Jun2025 00:47:16.772] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zVqazy> dame comida bro
+[26Jun2025 00:52:35.271] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SoySamsito has made the advancement [Diamonds!]
+[26Jun2025 00:52:48.479] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zVqazy> necesitamos comida urgente XD
