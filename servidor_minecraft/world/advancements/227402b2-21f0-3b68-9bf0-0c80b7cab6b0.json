@@ -301,6 +301,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:frozen_river": "2025-06-26 01:01:35 +0000",
       "minecraft:sunflower_plains": "2025-06-25 02:52:38 +0000",
       "minecraft:birch_forest": "2025-06-25 16:49:57 +0000",
       "minecraft:wooded_badlands": "2025-06-24 20:47:28 +0000",
@@ -312,15 +313,20 @@
       "minecraft:sparse_jungle": "2025-06-25 16:17:08 +0000",
       "minecraft:river": "2025-06-25 01:26:23 +0000",
       "minecraft:lukewarm_ocean": "2025-06-25 01:40:04 +0000",
+      "minecraft:snowy_plains": "2025-06-26 01:01:45 +0000",
       "minecraft:dripstone_caves": "2025-06-24 20:52:28 +0000",
+      "minecraft:snowy_taiga": "2025-06-26 01:03:48 +0000",
       "minecraft:swamp": "2025-06-25 01:46:11 +0000",
       "minecraft:forest": "2025-06-25 15:34:13 +0000",
+      "minecraft:frozen_ocean": "2025-06-26 01:01:57 +0000",
       "minecraft:desert": "2025-06-25 01:11:36 +0000",
       "minecraft:ocean": "2025-06-25 01:50:41 +0000",
       "minecraft:jungle": "2025-06-25 16:16:01 +0000",
+      "minecraft:snowy_beach": "2025-06-26 01:01:32 +0000",
       "minecraft:windswept_savanna": "2025-06-25 01:22:02 +0000",
       "minecraft:deep_lukewarm_ocean": "2025-06-25 01:41:31 +0000",
       "minecraft:deep_dark": "2025-06-24 21:17:06 +0000",
+      "minecraft:meadow": "2025-06-26 00:55:53 +0000",
       "minecraft:savanna": "2025-06-25 01:28:10 +0000",
       "minecraft:plains": "2025-06-25 02:45:35 +0000"
     },
@@ -4613,6 +4619,12 @@
     },
     "done": true
   },
+  "farmersdelight:main/get_rich_soil": {
+    "criteria": {
+      "get_rich_soil": "2025-06-26 00:55:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/brick_slab_from_bricks_stonecutting": {
     "criteria": {
       "has_bricks": "2025-06-26 00:20:59 +0000"
@@ -4652,6 +4664,12 @@
   "minecraft:recipes/decorations/brick_wall_from_bricks_stonecutting": {
     "criteria": {
       "has_bricks": "2025-06-26 00:20:59 +0000"
+    },
+    "done": true
+  },
+  "cataclysm:find_frosted_prison": {
+    "criteria": {
+      "prison": "2025-06-26 01:01:42 +0000"
     },
     "done": true
   },
