@@ -202,3 +202,10 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.world.entity.Entity
 [26Jun2025 01:53:36.713] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: untalRichi left the game
 [26Jun2025 01:53:36.713] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 227402b2-21f0-3b68-9bf0-0c80b7cab6b0
 [26Jun2025 01:53:36.762] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[26Jun2025 01:54:47.125] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: untalRichi[/127.47.213.142:59009] logged in with entity id 41933 at (-1887.896763952552, 62.07326432466506, 894.9958731497165)
+[26Jun2025 01:54:47.129] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player untalRichi
+[26Jun2025 01:54:47.139] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: untalRichi joined the game
+[26Jun2025 01:54:47.195] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 227402b2-21f0-3b68-9bf0-0c80b7cab6b0
+[26Jun2025 02:00:46.514] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: SoySamsito lost connection: Disconnected
+[26Jun2025 02:00:46.514] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SoySamsito left the game
+[26Jun2025 02:00:46.514] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 352decb4-99e8-3d8c-aa55-3e2d4f5447b3
