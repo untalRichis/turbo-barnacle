@@ -8824,3 +8824,75 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.world.entity.Entity
 [26Jun2025 02:22:38.867] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Got action ONEITEMOUT slot 58
 [26Jun2025 02:22:38.867] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Slot mapping {[]=InventoryMapping{i=[], c=net.p3pp3rf1y.sophisticatedbackpacks.common.gui.BackpackContainer@4e89057a, b=135, e=143}, []=InventoryMapping{i=[], c=net.p3pp3rf1y.sophisticatedbackpacks.common.gui.BackpackContainer@4e89057a, b=108, e=134}, []=InventoryMapping{i=[], c=net.p3pp3rf1y.sophisticatedbackpacks.common.gui.BackpackContainer@4e89057a, b=0, e=107}}
 [26Jun2025 02:22:38.867] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Action slot InventoryMapping{i=[], c=net.p3pp3rf1y.sophisticatedbackpacks.common.gui.BackpackContainer@4e89057a, b=0, e=107}
+[26Jun2025 02:25:05.527] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JhonZ93 has made the advancement [What a Deal!]
+[26Jun2025 02:25:44.505] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving claims!
+[26Jun2025 02:27:27.746] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[26Jun2025 02:27:27.753] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[26Jun2025 02:29:04.455] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving player configs...
+[26Jun2025 02:30:32.700] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1307, y=74, z=681} BlockPos{x=-1309, y=73, z=679}
+[26Jun2025 02:30:32.750] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1307, y=74, z=681} BlockPos{x=-1309, y=73, z=679}
+[26Jun2025 02:31:11.293] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Armor95 has made the advancement [We Need to Go Deeper]
+[26Jun2025 02:31:11.293] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Armor95 has made the advancement [Incendium]
+[26Jun2025 02:31:11.581] [Worker-Main-26/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:quartz_flats/quartz_tower1
+[26Jun2025 02:31:11.630] [Worker-Main-26/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:arena
+[26Jun2025 02:31:11.663] [Worker-Main-26/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:the_lab
+[26Jun2025 02:31:11.671] [Worker-Main-26/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:cvill/towncenter4
+[26Jun2025 02:31:11.673] [Worker-Main-26/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:pipeline/start1
+[26Jun2025 02:31:11.686] [Worker-Main-26/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:quartz_flats/quartz_kitchen
+[26Jun2025 02:31:11.882] [Worker-Main-26/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:quartz_flats/quartz_tower2
+[26Jun2025 02:31:12.674] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:reactor/reactor
+[26Jun2025 02:31:12.700] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:reactor/reactor_south
+[26Jun2025 02:31:12.719] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:reactor/reactor_top1
+[26Jun2025 02:31:12.740] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:reactor/reactor_east
+[26Jun2025 02:31:12.745] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:reactor/reactor_bottom
+[26Jun2025 02:31:12.762] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:reactor/reactor_last
+[26Jun2025 02:31:13.994] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Armor95 has made the advancement [A Terrible Fortress]
+[26Jun2025 02:31:14.048] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2742ms or 54 ticks behind
+[26Jun2025 02:32:24.256] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving server info!
+[26Jun2025 02:32:24.405] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving parties...
+[26Jun2025 02:32:25.967] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Nitwit'/50638, l='ServerLevel[world]', x=-145.30, y=31.04, z=49.39] died, message: 'Nitwit tried to swim in lava to escape Armor95'
+[26Jun2025 02:32:29.232] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JhonZ93 has made the advancement [A Terrible Fortress]
+[26Jun2025 02:32:30.448] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[26Jun2025 02:32:30.455] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[26Jun2025 02:34:17.793] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:cvill/road2
+[26Jun2025 02:34:17.794] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:cvill/stilt1
+[26Jun2025 02:34:17.794] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:cvill/road8
+[26Jun2025 02:34:17.795] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:cvill/inter2
+[26Jun2025 02:34:17.795] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:cvill/mobs/piglin_miner1
+[26Jun2025 02:34:17.796] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:cvill/road10
+[26Jun2025 02:34:17.797] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:cvill/houses/small5
+[26Jun2025 02:34:17.797] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:cvill/houses/small3
+[26Jun2025 02:34:17.799] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:cvill/houses/large1
+[26Jun2025 02:34:17.801] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:cvill/houses/large5
+[26Jun2025 02:34:17.802] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:cvill/houses/small1
+[26Jun2025 02:34:17.803] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:cvill/houses/small2
+[26Jun2025 02:34:17.804] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:cvill/houses/garden1
+[26Jun2025 02:34:17.805] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:cvill/inter5
+[26Jun2025 02:34:17.806] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:cvill/houses/large7
+[26Jun2025 02:34:17.807] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:cvill/road9
+[26Jun2025 02:34:17.809] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:cvill/houses/garden2
+[26Jun2025 02:34:17.810] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:cvill/houses/small4
+[26Jun2025 02:34:17.811] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:cvill/houses/large6
+[26Jun2025 02:34:17.812] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:cvill/houses/large3
+[26Jun2025 02:34:17.813] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:cvill/houses/large2
+[26Jun2025 02:34:17.815] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:cvill/houses/garden3
+[26Jun2025 02:34:17.815] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:cvill/road11
+[26Jun2025 02:34:17.816] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:cvill/houses/small6
+[26Jun2025 02:34:17.817] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:cvill/houses/large8
+[26Jun2025 02:34:17.818] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:cvill/road6
+[26Jun2025 02:34:17.819] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:cvill/houses/large4
+[26Jun2025 02:34:17.820] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:cvill/road7
+[26Jun2025 02:34:17.821] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:cvill/road1
+[26Jun2025 02:34:17.821] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:cvill/inter1
+[26Jun2025 02:34:17.822] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:cvill/road3
+[26Jun2025 02:34:17.822] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:cvill/road4
+[26Jun2025 02:34:17.822] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:cvill/road5
+[26Jun2025 02:34:17.823] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:cvill/inter6
+[26Jun2025 02:34:17.826] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:cvill/mobs/piglin_lumberjack1
+[26Jun2025 02:34:17.827] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:cvill/mobs/piglin_lumberjack2
+[26Jun2025 02:34:17.827] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:cvill/mobs/piglin_alchemist1
+[26Jun2025 02:34:17.827] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:cvill/mobs/piglin_worker1
+[26Jun2025 02:34:17.828] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:cvill/mobs/piglin_armored
+[26Jun2025 02:34:17.851] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:cvill/inter3
+[26Jun2025 02:34:17.859] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:cvill/inter4
+[26Jun2025 02:34:21.016] [Worker-Main-17/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:castle/floors/1x1_l1

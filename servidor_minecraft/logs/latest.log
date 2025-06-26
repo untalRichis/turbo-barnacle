@@ -213,3 +213,12 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.world.entity.Entity
 [26Jun2025 02:08:06.923] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: untalRichi left the game
 [26Jun2025 02:08:06.923] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 227402b2-21f0-3b68-9bf0-0c80b7cab6b0
 [26Jun2025 02:11:07.761] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/44402, l='ServerLevel[world]', x=-1218.83, y=93.00, z=794.51] died, message: 'Villager was slain by Zombie'
+[26Jun2025 02:25:05.527] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JhonZ93 has made the advancement [What a Deal!]
+[26Jun2025 02:30:32.700] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1307, y=74, z=681} BlockPos{x=-1309, y=73, z=679}
+[26Jun2025 02:30:32.750] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1307, y=74, z=681} BlockPos{x=-1309, y=73, z=679}
+[26Jun2025 02:31:11.293] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Armor95 has made the advancement [We Need to Go Deeper]
+[26Jun2025 02:31:11.293] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Armor95 has made the advancement [Incendium]
+[26Jun2025 02:31:13.994] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Armor95 has made the advancement [A Terrible Fortress]
+[26Jun2025 02:31:14.048] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2742ms or 54 ticks behind
+[26Jun2025 02:32:25.967] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Nitwit'/50638, l='ServerLevel[world]', x=-145.30, y=31.04, z=49.39] died, message: 'Nitwit tried to swim in lava to escape Armor95'
+[26Jun2025 02:32:29.232] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JhonZ93 has made the advancement [A Terrible Fortress]

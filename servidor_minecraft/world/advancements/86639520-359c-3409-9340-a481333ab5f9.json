@@ -1654,6 +1654,7 @@
       "cooked_porkchop": "2025-06-25 15:59:01 +0000",
       "cooked_beef": "2025-06-25 16:30:52 +0000",
       "tropical_fish": "2025-06-25 16:18:04 +0000",
+      "bread": "2025-06-26 02:26:23 +0000",
       "salmon": "2025-06-25 02:55:16 +0000",
       "mushroom_stew": "2025-06-25 16:18:16 +0000",
       "cooked_salmon": "2025-06-25 02:36:25 +0000"
@@ -1756,6 +1757,7 @@
       "minecraft:magma_cube": "2025-06-25 16:07:12 +0000",
       "minecraft:piglin_brute": "2025-06-25 15:59:30 +0000",
       "minecraft:spider": "2025-06-25 16:27:39 +0000",
+      "minecraft:creeper": "2025-06-26 02:28:10 +0000",
       "minecraft:piglin": "2025-06-25 16:04:23 +0000",
       "minecraft:enderman": "2025-06-26 01:54:39 +0000",
       "minecraft:zombie": "2025-06-25 02:43:16 +0000"
@@ -2794,6 +2796,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/rabbit_stew": {
+    "criteria": {
+      "has_any_ingredient": "2025-06-26 02:28:17 +0000"
+    },
+    "done": true
+  },
   "storagedrawers:recipes/storagedrawers/compacting_drawers": {
     "criteria": {
       "has_chest": "2025-06-26 01:42:55 +0000"
@@ -2863,6 +2871,18 @@
   "sophisticatedbackpacks:recipes/misc/diamond_backpack": {
     "criteria": {
       "has_gold_backpack": "2025-06-26 01:43:50 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/chicken_soup": {
+    "criteria": {
+      "has_any_ingredient": "2025-06-26 02:28:17 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/vegetable_noodles": {
+    "criteria": {
+      "has_any_ingredient": "2025-06-26 02:28:17 +0000"
     },
     "done": true
   },
@@ -2938,6 +2958,18 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/misc/netherite_backpack": {
+    "criteria": {
+      "has_diamond_backpack": "2025-06-26 02:29:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/trade": {
+    "criteria": {
+      "traded": "2025-06-26 02:25:05 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/stone_brick_wall_from_stone_bricks_stonecutting": {
     "criteria": {
       "has_stone_bricks": "2025-06-26 02:10:55 +0000"
@@ -2959,6 +2991,12 @@
   "minecraft:recipes/tools/lead": {
     "criteria": {
       "has_slime_ball": "2025-06-26 02:02:55 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/fried_rice": {
+    "criteria": {
+      "has_any_ingredient": "2025-06-26 02:28:17 +0000"
     },
     "done": true
   },
@@ -3100,6 +3138,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/carrot_on_a_stick": {
+    "criteria": {
+      "has_carrot": "2025-06-26 02:28:17 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/spruce_trapdoor": {
     "criteria": {
       "has_planks": "2025-06-26 01:57:00 +0000"
@@ -3172,15 +3216,39 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/firework_rocket_simple": {
+    "criteria": {
+      "has_gunpowder": "2025-06-26 02:28:13 +0000"
+    },
+    "done": true
+  },
   "storagedrawers:recipes/storagedrawers/controller_slave": {
     "criteria": {
       "has_chest": "2025-06-26 01:42:55 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/redstone/tnt": {
+    "criteria": {
+      "has_gunpowder": "2025-06-26 02:28:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/spruce_stairs": {
     "criteria": {
       "has_planks": "2025-06-26 01:57:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_fortress": {
+    "criteria": {
+      "fortress": "2025-06-26 02:32:29 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/vegetable_soup": {
+    "criteria": {
+      "has_any_ingredient": "2025-06-26 02:28:17 +0000"
     },
     "done": true
   },
