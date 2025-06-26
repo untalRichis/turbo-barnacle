@@ -629,7 +629,8 @@
       "cooked_rabbit": "2025-06-25 01:56:43 +0000",
       "cooked_chicken": "2025-06-24 22:47:40 +0000",
       "rabbit_stew": "2025-06-25 01:10:57 +0000",
-      "cooked_salmon": "2025-06-25 13:29:03 +0000"
+      "cooked_salmon": "2025-06-25 13:29:03 +0000",
+      "carrot": "2025-06-26 19:52:18 +0000"
     },
     "done": false
   },
@@ -4787,6 +4788,12 @@
   "farmersdelight:recipes/building_blocks/rice_bag": {
     "criteria": {
       "has_rice": "2025-06-25 18:19:44 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/decorations/mangrove_cabinet": {
+    "criteria": {
+      "has_mangrove_trapdoor": "2025-06-26 19:56:22 +0000"
     },
     "done": true
   },
