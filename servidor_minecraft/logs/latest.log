@@ -414,3 +414,16 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [26Jun2025 20:03:23.932] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BoyfriendArg2004 joined the game
 [26Jun2025 20:03:23.942] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for b04a954b-9004-378a-a27a-430b2bbdb8a4
 [26Jun2025 20:03:27.173] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BoyfriendArg2004 was slain by Husk
+[26Jun2025 20:18:48.572] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: BoyfriendArg2004 was kicked for floating too long!
+[26Jun2025 20:18:48.573] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: BoyfriendArg2004 lost connection: Disconnected
+[26Jun2025 20:18:48.573] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BoyfriendArg2004 left the game
+[26Jun2025 20:18:48.573] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for b04a954b-9004-378a-a27a-430b2bbdb8a4
+[26Jun2025 20:18:48.628] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[26Jun2025 20:19:04.467] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@a39efe4[id=<null>,name=BoyfriendArg2004,properties={},legacy=false] (/127.68.100.184:58215) lost connection: Disconnected
+[26Jun2025 20:19:10.142] [ForkJoinPool.commonPool-worker-10/WARN] [SkinRestorer/]: Failed to fetch skin: not found
+[26Jun2025 20:19:10.175] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: BoyfriendArg2004[/127.68.100.184:40675] logged in with entity id 14792 at (-1557.2805339332665, 71.7531999805212, 693.5583436217156)
+[26Jun2025 20:19:10.180] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player BoyfriendArg2004
+[26Jun2025 20:19:10.183] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BoyfriendArg2004 joined the game
+[26Jun2025 20:19:10.192] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for b04a954b-9004-378a-a27a-430b2bbdb8a4
+[26Jun2025 20:19:33.216] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: BoyfriendArg2004 moved too quickly! 5.6044065948449315,-0.9755759117863079,-8.343569784410647
+[26Jun2025 20:19:42.239] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: BoyfriendArg2004 moved too quickly! 3.0052610944651406,1.604424101326714,-9.44050626490548
