@@ -429,3 +429,17 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [26Jun2025 20:19:42.239] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: BoyfriendArg2004 moved too quickly! 3.0052610944651406,1.604424101326714,-9.44050626490548
 [26Jun2025 20:20:24.448] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: BoyfriendArg2004 moved too quickly! 10.042013615362066,1.0752008901189498,-0.7221203078877352
 [26Jun2025 20:20:42.088] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: BoyfriendArg2004 moved too quickly! 7.812010435581442,-3.504799122994072,5.341355149778678
+[26Jun2025 20:50:51.732] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: untalRichi[/127.47.213.142:51861] logged in with entity id 20185 at (-1345.300000011921, 78.0, -222.15400399508792)
+[26Jun2025 20:50:51.737] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player untalRichi
+[26Jun2025 20:50:51.751] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: untalRichi joined the game
+[26Jun2025 20:50:51.761] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 227402b2-21f0-3b68-9bf0-0c80b7cab6b0
+[26Jun2025 20:56:00.799] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Armor95[/127.38.93.115:37499] logged in with entity id 22324 at (73.1069460808302, 134.0, 177.89294290257877)
+[26Jun2025 20:56:00.803] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player Armor95
+[26Jun2025 20:56:00.805] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Armor95 joined the game
+[26Jun2025 20:56:00.840] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 395abf40-9d0b-34c9-b405-20e74c765288
+[26Jun2025 20:58:38.137] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Armor95> ricky sigues en el lugar de ayer?
+[26Jun2025 20:58:41.646] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <untalRichi> nope
+[26Jun2025 20:58:51.231] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Armor95> me lleva la verga
+[26Jun2025 21:00:13.951] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <untalRichi> yo me estoy llendo en camino a mi base
+[26Jun2025 21:00:25.280] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Armor95> q weno
+[26Jun2025 21:00:31.894] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Armor95> dame diamante :3 xd
