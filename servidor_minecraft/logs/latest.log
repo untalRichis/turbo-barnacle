@@ -386,3 +386,12 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [26Jun2025 19:27:25.021] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: untalRichi lost connection: Disconnected
 [26Jun2025 19:27:25.021] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: untalRichi left the game
 [26Jun2025 19:27:25.022] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 227402b2-21f0-3b68-9bf0-0c80b7cab6b0
+[26Jun2025 19:31:35.752] [ForkJoinPool.commonPool-worker-5/WARN] [SkinRestorer/]: Failed to fetch skin: not found
+[26Jun2025 19:31:35.782] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: BoyfriendArg2004[/127.68.100.184:34273] logged in with entity id 3061 at (-1998.6324239235173, 74.0, 594.2992927671071)
+[26Jun2025 19:31:35.788] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player BoyfriendArg2004
+[26Jun2025 19:31:35.790] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BoyfriendArg2004 joined the game
+[26Jun2025 19:31:35.801] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for b04a954b-9004-378a-a27a-430b2bbdb8a4
+[26Jun2025 19:31:40.145] [Worker-Main-55/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-2090, y=-16, z=401}
+[26Jun2025 19:37:14.019] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BoyfriendArg2004 has made the advancement [The Parrots and the Bats]
+[26Jun2025 19:38:11.424] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: BoyfriendArg2004 moved too quickly! -10.119196971564179,0.8322033533667508,-1.6919750544824979
+[26Jun2025 19:38:30.485] [Worker-Main-46/INFO] [ModernFix/]: Instantiating Mojang DFU
