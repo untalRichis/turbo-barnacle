@@ -163,3 +163,12 @@
 [26Jun2025 01:32:03.617] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: untalRichi was slain by Husk
 [26Jun2025 01:32:34.468] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JhonZ93 has made the advancement [Penteconter]
 [26Jun2025 01:33:39.000] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: untalRichi has completed the challenge [Centennial]
+[26Jun2025 01:36:02.972] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SoySamsito has made the advancement ['X' Marks the Spot]
+[26Jun2025 01:36:09.967] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SoySamsito has made the advancement [Barrel Booty]
+[26Jun2025 01:42:33.124] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: zVqazy[/127.193.211.236:53715] logged in with entity id 38813 at (-2394.4661556222704, 65.0, 1099.0002300566443)
+[26Jun2025 01:42:33.128] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player zVqazy
+[26Jun2025 01:42:33.130] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zVqazy joined the game
+[26Jun2025 01:42:33.158] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 8aa45e06-55bc-31b5-899e-25bcd6eed7ca
+[26Jun2025 01:43:22.716] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: zVqazy lost connection: Disconnected
+[26Jun2025 01:43:22.716] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zVqazy left the game
+[26Jun2025 01:43:22.716] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 8aa45e06-55bc-31b5-899e-25bcd6eed7ca
