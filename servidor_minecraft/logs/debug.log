@@ -7750,3 +7750,23 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [26Jun2025 01:12:27.769] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [26Jun2025 01:12:32.216] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Armor95> unite a la call para que nos escuches ricky
 [26Jun2025 01:12:42.127] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <untalRichi> yaba
+[26Jun2025 01:14:44.027] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Armor95> rich configura tu mochila
+[26Jun2025 01:14:55.834] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Armor95> te la puedo abrir xd
+[26Jun2025 01:14:59.116] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <untalRichi> ya
+[26Jun2025 01:15:04.868] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <untalRichi> justo hice eso
+[26Jun2025 01:15:06.938] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Armor95> god
+[26Jun2025 01:15:25.253] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zVqazy> sam esta en los zombies esos
+[26Jun2025 01:15:44.155] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving claims!
+[26Jun2025 01:17:01.034] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Got action ONEITEMIN slot 77
+[26Jun2025 01:17:01.034] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Slot mapping {[]=InventoryMapping{i=[], c=net.p3pp3rf1y.sophisticatedbackpacks.common.gui.BackpackContainer@69b2f60e, b=108, e=116}, []=InventoryMapping{i=[], c=net.p3pp3rf1y.sophisticatedbackpacks.common.gui.BackpackContainer@69b2f60e, b=81, e=107}, []=InventoryMapping{i=[], c=net.p3pp3rf1y.sophisticatedbackpacks.common.gui.BackpackContainer@69b2f60e, b=0, e=80}}
+[26Jun2025 01:17:01.034] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Action slot InventoryMapping{i=[], c=net.p3pp3rf1y.sophisticatedbackpacks.common.gui.BackpackContainer@69b2f60e, b=0, e=80}
+[26Jun2025 01:17:27.752] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[26Jun2025 01:17:27.760] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[26Jun2025 01:17:33.466] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: zVqazy lost connection: Disconnected
+[26Jun2025 01:17:33.467] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zVqazy left the game
+[26Jun2025 01:17:33.468] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 8aa45e06-55bc-31b5-899e-25bcd6eed7ca
+[26Jun2025 01:19:04.105] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving player configs...
+[26Jun2025 01:22:24.005] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving server info!
+[26Jun2025 01:22:24.055] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving parties...
+[26Jun2025 01:22:27.743] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[26Jun2025 01:22:27.750] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
